@@ -1,0 +1,1592 @@
+build_color	Color de la habitación	2016-07-03T20:30:59.196653	Room floor color:
+build_corridor_desc	Conecta las habitaciones	2016-07-03T20:30:59.196653	Connects rooms
+build_floors	Estilos de habitación:	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+build_groups	Categorías de objetos:	2016-07-03T20:30:59.196653	Object categories:
+build_objects	Objects:	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+cancel_construction	Cancelar construcción	2016-07-03T20:30:59.196653	Cancel construction
+cancel_destruction	Cancelar destrucción	2016-07-03T20:30:59.196653	Cancel destruction
+chemistry	Química	2016-07-03T20:30:59.196653	Chemistry
+construction	Construcción	2016-07-03T20:30:59.196653	Construction
+corpse	Cadáver	2016-07-03T20:30:59.196653	Corpse
+crew	Tripulación	2016-07-03T20:30:59.196653	Crew
+crew_bridge_selector	Escoge a la tripulación de esta nave haciendo clic en las ranuras	2016-07-03T20:30:59.196653	Pick your crew for this ship by clicking in the slots
+fire	Fuego	2016-07-03T20:30:59.196653	Fire
+fire_desc	Un puñado de materia que experimenta una rápida y catastrófica oxidación, con cierta tendencia a expandirse.  Asustará a los robots y los seres vivos por igual. Asegúrate de tener cerca a tus bomberos y de que tienen acceso a las pilas de agua.	2016-07-03T20:30:59.196653	A bunch of matter experiencing rapid catastrophic oxidation, with some tendency to expand. It will scare robot and organic living things alike. Make sure your firefighters are nearby and have access to water item stacks.
+miasma	Miasma	2016-07-03T20:30:59.196653	Miasma
+miasma_desc	Una nube de hedor y enfermedad, creada por la podredumbre de la materia. Producirá pensamientos negativos y puede hacer que las personas cercanas enfermen. Asegúrate de que tienes una recicladora y limpiadores cerca del origen para retirar su origen, como cadáveres o acumulaciones de basura.	2016-07-03T20:30:59.196653	A cloud of stink and disease, created by rotting matter. It will give negative feelings and can make anybody nearby sick. Make sure you have a recycler and nearby cleaners ready to remove its origin, like corpses or litter accumulations.
+research_remember	Recuerda que debes construir mesas de investigación y asignar a los oficiales el trabajo de investigación para ganar puntos de investigación.	2016-07-03T20:30:59.196653	Remember to build research desks and asign officers the Research job in order to gain research points.
+ship_order_wait_time_dialog_label	Escribe el tiempo de espera en minutos, o 0 para una cantidad mínima de 10 segundos:	2016-07-03T20:30:59.196653	Type the wait time in minutes, or 0 for a minimal amount of 10 seconds:
+sneaker_last_resort_alert	Un hostil oculto se ha infiltrado sin ser detectado en la estación y acaba de revelarse!	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+storage_filter_disabled	Esta zona de almacenamiento está siendo utilizada como un área de descarga y no permite el filtrado de recursos	2016-07-03T20:30:59.196653	This storage area is being used as a drop area and does not allow resource filtering
+tutorial_galaxy_autopilot_1	Visitar manualmente planetas para transportar carga sería muy aburrido . Por esa razón las naves espaciales están equipadas con un piloto automático . Haz clic en la nave resaltada para abrir su ventana del piloto automático.	2016-07-03T20:30:59.196653	Manually visiting planets to transport cargo would be very boring. For this reason space ships are equipped with an autopilot. Click on the highlighted ship to open its autopilot window.
+tutorial_galaxy_autopilot_2	Esta es la ventana del piloto automático de la nave. Puedes añadir órdenes a su lista, reorganizarlas, establecer la duración del estacionamiento e iniciar y detener el piloto automático..\nHagamos una ruta entre el planeta tutorial y tu hogar.\nArrastra el icono resaltado a Hogar.	2016-07-03T20:30:59.196653	This is the space ship autopilot window. You can add orders to its listing, rearrange them, set the parking duration, then start and stop the autopilot.\nLet's set up a route between the tutorial planet and your home station.\nDrag the highlighted icon to Home.
+tutorial_galaxy_autopilot_3	Una nueva orden para ir al Hogar ha sido creada.\nAhora arrastra la nave de nuevo hacia Tutoland. Recuerda que puedes mover ventanas desde su barra de título si bloquean tu objetivo.	2016-07-03T20:30:59.196653	A new order has been created for visiting Home.\nNow drag it again to Tutoland. Remember you can move windows around by their title bar if they block your target.
+tutorial_galaxy_autopilot_4	Ahora haz clic en el botón Iniciar para empezar la ruta. La nave viajará sin que intervengas, se cargará automáticamente y entregará la carga cuando visite el Hogar.	2016-07-03T20:30:59.196653	Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo and delivering it when it visits Home.
+tutorial_galaxy_autopilot_5	¡Eso es! Puedes probar otras opciones. Puede ser una buena idea aumentar el tiempo de espera en la estación seleccionando la orden de Hogar y haciendo clic en el botón del reloj de arena para dar a tus oficiales más tiempo para descansar.	2016-07-03T20:30:59.196653	That's it! You can explore the other options. It may be a good idea to increase the wait time while in the station by selecting the Home order and clicking on the hourglass button, to give your officers more time to rest.
+tutorial_galaxy_autopilot_6	[DEV] Aún no hay mecanismo en el juego para desbloquear nuevos sistemas estelares . Por ahora utiliza el botón de truco en la vista del sistema para desbloquearlos.	2016-07-03T20:30:59.196653	[DEV] There's not mechanism in-game for unlocking new star systems. For now use the cheat button in the system view to unlock them.
+tutorial_galaxy_basics_1	Ah, la galaxia. Hay mucho por explorar. ¡Puede ser abrumador! Vamos a empezar poco a poco.\nEsta es la vista general de la galaxia. Puedes hacer clic en las estrellas para hacer zoom en su sistema planetario . Por ahora solo tu sistema principal está desbloqueado para viajar . Haz click en el.	2016-07-03T20:30:59.196653	Ah, the galaxy. So much to explore. It can be overwhelming! Let's start small.\nThis is the top level galaxy view. You can click on the stars to zoom into their planetary system. For now only your home system is open for travel. Click on it.
+tutorial_galaxy_basics_2	Por ahora, el foco principal de la galaxia es ser tu fuente de recursos primarios para  tus fábricas y cocinas. El filtro de Recursos mostrará los recursos disponibles en un planeta para que puedas planificar su exploración y controlar su producción.	2016-07-03T20:30:59.196653	At this stage, the main focus for the galaxy is to be your source of raw resources for your factories and kitchens. The Resources overlay will display the available resources in a planet, so you can plan your exploration and monitor their production.
+tutorial_galaxy_basics_4	Espera a que el nave se acerque y entre en órbita alrededor del planeta	2016-07-03T20:30:59.196653	Wait for the ship to approach and park in orbit around the planet.
+tutorial_galaxy_basics_5	¡Vamos a explorar este planeta! Haz clic en Tutoland.	2016-07-03T20:30:59.196653	Let's explore this planet! Click on Tutoland.
+tutorial_galaxy_basics_6	Para explorar el planeta haz clic en el botón Explorar. Cambiarás a la pantalla Planeta y podrás empezar los tutoriales básicos de planeta.	2016-07-03T20:30:59.196653	To explore the planet click on the Explore button. You will switch to the planet screen and you can start the basic planet tutorials there.
+tutorial_galaxy_basics_7	Esas son las cosas básicas. Asegúrate de seguir con el tutorial de extracción en planeta, a continuación, y luego haz el tutorial de piloto automático aquí. Haz clic en Menú.	2016-07-03T20:30:59.196653	That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. Click Menu now.
+tutorial_menu_goals_hint	Consejo: Si has terminado con los tutoriales revisa los Objetivos en la barra de herramientas superior.	2016-07-03T20:30:59.196653	Tip: If you are done with tutorials check the Goals in the top toolbar.
+tutorial_planet_basics_1	¡Has aterrizado en el planeta tutorial!\nLos planetas son tu principal fuente de recursos, por lo que son vitales para tu supervivencia. Visita nuevos planetas para encontrar todo tipo de recursos	2016-07-03T20:30:59.196653	So you've landed on the tutorial planet!\nPlanets are your main source of resources, so they are vital for your survival. Visit new planets to find all kinds of resources.\n[DEV]FUTURE also mention: civs, tourism, tech tokens.
+tutorial_planet_basics_6	La barra de equipo está encima de tu barra de acción . Al hacer clic en el botón Todos en el lado derecho se selecciona todo tu equipo, y la siguiente orden de acción que des se aplicará a todos los miembros del equipo. El botón Todos está asociado de forma predeterminada a [Tab] y se puede utilizar de forma rápida desde cualquier otra herramienta.	2016-07-03T20:30:59.196653	The squad bar is on top of your action bar. By clicking on the All button in the right side it selects your entire squad, and the next action order you give will apply to every squad member. The All button is bound by default to [Tab] and can be quickly used while inside any other tool.
+tutorial_planet_extraction_1	Vamos a construir un extractor de recursos. Estos edificios persisten en la superficie del planeta y generarán periódicamente recursos listos para ser recogidos por tus naves. Debes construirlos cerca de uno o más nodos de recursos para que estos queden dentro de su área de influencia. Selecciona la herramienta de construcción.	2016-07-03T20:30:59.196653	Let's build a resource extractor. These buildings persist on the surface of the planet, and will periodically generate resources ready to be picked up by your space ships. You must build them near one or resource nodes, so the nodes are inside their area of influence. Select the build tool.
+tutorial_planet_extraction_4	Ahora el objeto debe ser construido por tus oficiales. Habrá que esperar a que terminen el trabajo. Recuerda que puedes utilizar la herramienta de teletransporte si han aterrizado lejos del objeto en construcción.	2016-07-03T20:30:59.196653	The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction.
+tutorial_planet_extraction_5	¡Eso es! Ahora este extractor generará frutos que serán almacenados localmente. Viaja a este planeta para cargarlos en una nave y usa la función de piloto automático en la galaxia para automatizar la entrega a tu estación .	2016-07-03T20:30:59.196653	That's it! This extractor will now generate fruits and they will get stored locally. Park on this planet to load them into a space ship, and use the autopilot feature in the galaxy to automate the delivery to your station.
+tutorial_research_basics_1	Esta es la pantalla de Investigación . Hay muchos tipos de tecnología en la galaxia, pero no todos ellos están disponibles desde el principio. Debes de investigarlos, y esta pantalla te permite gestionar esa investigación.	2016-07-03T20:30:59.196653	This is the Research screen. There's many technologies in the galaxy, but not all of them are available to you at the start. You must research them, and this screen allows you to manage that research.
+tutorial_research_basics_2	La investigación se divide en grupos tecnológicos. Veamos el grupo de Alimentos y bebidas haciendo clic en el botón.	2016-07-03T20:30:59.196653	Research is divided into technology groups. Let's see the Food & drink group by clicking on its button.
+tutorial_research_basics_3	Podemos ver los niveles de tecnología para el grupo de alimentos y bebidas. Alcanzar cada nivel puede desbloquear nuevas recetas y/u objetos para construir en la estación . Haz clic en Iniciar Investigación para declarar este nivel como el nivel de investigación actual.	2016-07-03T20:30:59.196653	We can see the tiers for food & drink technology. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier.
+tutorial_research_basics_4	Este nivel es ahora el foco de investigación en tu estación. Pero esto es sólo la pantalla de gestión para tus investigaciones. También es necesario construir la infraestructura necesaria en tu estación y asignar a los oficiales que investiguen .	2016-07-03T20:30:59.196653	The tier is now the focus of the research in your station. But this is just the management screen for your research projects. You also need to build up research infrastructure in your station and assign officers to research.
+tutorial_research_basics_5	Asegúrate de construir un montón de mesas de investigación y habilitar el trabajo de investigación en tus oficiales utilizando la matriz de trabajos para ganar puntos de investigación. Cuando el contador de puntos llegue a la cantidad requerida del nivel será desbloqueado.	2016-07-03T20:30:59.196653	Make sure you build plenty of research tables and enable the research job in your officers using the job matrix to gain research points. When the points counter reaches the required amount the tier will be unlocked.
+tutorial_station_basics_1	¡Bienvenido a The Spatials: Galactology!\nEsta es tu estación espacial. No es gran cosa en este momento, sólo una sala de teletransporte de emergencia.\nTu misión principal es ampliarla y defenderla para que se convierta en el hogar de los Spatials y una atracción para los visitantes.	2016-07-03T20:30:59.196653	Welcome to The Spatials: Galactology!\nThis is your space station. It's not much right now, just an emergency teleporter room.\nYour primary mission is to build it up and defend it, so it becomes the home of the Spatials and a hot spot for visitors.
+tutorial_station_basics_3_1	La barra de herramientas de la izquierda tiene todas las herramientas que necesitas para construir y administrar tu estación. La primera herramienta es la herramienta de Info. Siempre puedes seleccionar esta herramienta pulsando la tecla Esc.	2016-07-03T20:30:59.196653	The left toolbar has all the tools you need to build and manage your station. The first tool is the Info tool. You can always select this tool with the Esc key.
+tutorial_station_basics_3_2	Selecciona la herramienta y luego haz clic con el botón izquierdo en cualquier oficial o elemento de la estación.	2016-07-03T20:30:59.196653	Select the tool and then left click on any officer or item on the station.
+tutorial_station_basics_4	La herramienta de Info muestra información sobre el objeto seleccionado. También puede ofrecer controles adicionales para cambiar aspectos de dicho objeto, como asignar recetas en una cocina.\nSi el elemento sobre el que deseas hacer clic está detrás de otro elemento, basta con hacer clic sobre el mismo punto una o más veces para recorrer todos los elementos en ese punto.	2016-07-03T20:30:59.196653	The Info tool displays information about the selected object. It can also offer additional controls for changing aspects of that object, like setting the recipe in a kitchen.\nIf the item you want to click is behind another item, just click on the same point one or more times, to cycle thru all items in that point.
+tutorial_station_floor_tool_1	La estación se compone de habitaciones unidas por pasillos. Vamos a construir un pasillo.\nSelecciona la herramienta de construir suelos.	2016-07-03T20:30:59.196653	Your station is composed of rooms, linked by corridors. Let's build a corridor.\nSelect the Build floor tool
+tutorial_station_floor_tool_2	Selecciona el pasillo.	2016-07-03T20:30:59.196653	Select the corridor floor
+tutorial_station_floor_tool_3_1	La herramienta de construcción de suelos dibuja en la estación un plano del suelo seleccionado cuando se arrastra con el botón izquierdo del ratón.\nDibuja un pasillo entre las dos marcas.	2016-07-03T20:30:59.196653	The build floor tool draws a blueprint of the selected floor on the station when you drag with left mouse button.\nDraw a corridor between the two markers.
+tutorial_station_floor_tool_4	La herramienta de suelo simplemente dibuja un plano. Para conseguir que el suelo real se construya, se crea un trabajo para tus oficiales. Espera a que terminen.	2016-07-03T20:30:59.196653	The floor tool just draws a blueprint. In order to get the actual floor built a job is created for your officers. Let's wait for them to finish.
+tutorial_station_floor_tool_5	¡Hecho! Ahora vamos a construir una habitación. Selecciona el tipo de habitación destacado en la herramienta de construir suelo.	2016-07-03T20:30:59.196653	Done! Let's build a room now. Select the highlighted room type in the floor build tool.
+tutorial_station_floor_tool_6	Ahora arrastra con el botón izquierdo del ratón entre las dos marcas. Se trata de una habitación, por lo que la figura dibujada es un rectángulo.	2016-07-03T20:30:59.196653	Now drag with the left mouse button between the two markers. This is a room, so the drawn shape is a rectangle.
+tutorial_station_floor_tool_7	Tus oficiales están construyendo la habitación, vamos a esperar a que terminen.	2016-07-03T20:30:59.196653	Your officers are building the room,  let's wait for them to finish.
+tutorial_station_floor_tool_8	¡Hecho! Pero las habitaciones vacías no son muy útiles. Vuelve al menú y selecciona el tutorial de la herramienta  de objetos para aprender cómo construir su primera cocina.	2016-07-03T20:30:59.196653	Done! But empty rooms are not very useful. Go back to the menu and select the object tool tutorial to learn how to build your first kitchen.
+tutorial_station_object_tool_1	Las habitaciones por si solas no son suficientes para servir a tus oficiales y visitantes. Construyamos algunos objetos.\nSelecciona la herramienta de construcción de objetos.	2016-07-03T20:30:59.196653	Rooms alone are not enough to serve your officers and visitors. Let's build some objects now.\nSelect the Build object tool.
+tutorial_station_object_tool_2	La herramienta de objetos muestra todos los objetos desbloqueados y disponibles para construir en la estación . En primer lugar seleccionamos la categoría del objeto. Haz clic en la categoría de comida y bebidas.	2016-07-03T20:30:59.196653	The object tool lists all unlocked objects available for building in the station. First we select the object category. Click on the food & drink category.
+tutorial_station_object_tool_3	Ahora haz clic en el objeto resaltado: la Cocina básica.	2016-07-03T20:30:59.196653	Now click on the highlighted object: the basic kitchen.
+tutorial_station_object_tool_4	Esta es una cocina básica, y se puede utilizar para cocinar comida barata y sencilla. Para construir una, haz clic en una baldosa de suelo construido. Puede rotar el objeto antes de la construcción utilizando Q y E o arrastrando el ratón una vez que hayas hecho clic para construirlo.\nConstruye una cocina en la baldosa resaltada.	2016-07-03T20:30:59.196653	This is a basic kitchen, and it can be used to cook cheap and simple food. To build one, click on a built floor tile. You can rotate the object before construction using Q and E or by dragging the mouse once you click to build it.\nBuild a kitchen in the highlighted tile.
+tutorial_station_object_tool_5	Al igual que la herramienta de suelo, la herramienta de objetos sólo coloca un plano, y el objeto debe ser construido por tus oficiales. Esperar a que terminen el trabajo.	2016-07-03T20:30:59.196653	Just like the floor tool, the object tool only places a blueprint, and the object must be built by your officers. Let's wait for them to finish the job.
+tutorial_station_object_tool_6	Los oficiales y los visitantes se negaran a comer y beber en el suelo. Debes construir también una mesa para que puedan disfrutar de sus comidas. Seleccione la mesa de cantina y constrúyela en la baldosa resaltada.	2016-07-03T20:30:59.196653	But officers and visitors will refuse to eat and drink from the floor. You must also build a table for them to enjoy their meals. Select the canteen table and build it on the highlighted tile.
+tutorial_station_object_tool_7	Ya tenemos unas instalaciones muy básicas para la comer y beber. Pero todavía tenemos que dar órdenes de producción a nuestra cocina e introducir el concepto de stocking. Lee más en el tutorial de producción y stocks.	2016-07-03T20:30:59.196653	And now we have very basic facilities for food and drinks. But we still have to give production orders to our kitchen, and introduce the concept of stocking. Read more in the stocks and production tutorial.
+tutorial_station_production_1	Muchos recursos primarios deben ser procesados ​​antes de que puedan ser utilizados por tus oficiales. Como en la mayoría de las otras tareas de la estación, los oficiales deben tener el trabajo adecuado permitido para trabajar la cocina. Haz clic en la matriz de trabajos.	2016-07-03T20:30:59.196653	Many raw resources must be processed before they can be used by your officers. Like most other tasks in the station, your officers must have the proper job enabled to work the kitchen. Click on the job matrix tool.
+tutorial_station_production_2	Aquí puedes ver a tus oficiales listados a la izquierda, con una fila de columnas a la derecha, con celdas para cada combinación de oficial y de trabajo . Asegúrate de que al menos un oficial tiene habilitado el trabajo de cocina y haz clic en Siguiente.	2016-07-03T20:30:59.196653	Here you can see your officers listed on the left, with a row of columns on the right, one cell for every officer and job combination. Make sure at least one officer has Cooking enabled and click Next.
+tutorial_station_production_3_1	Ahora vamos a configurar nuestra cocina para preparar algo de comida. Selecciónala con la herramienta de info.	2016-07-03T20:30:59.196653	Now let's set up our kitchen to cook some food. Select it with the info tool.
+tutorial_station_production_3_2	Consejo: Pulsa Esc en cualquier momento en la estación para seleccionar la herramienta de info, a continuación, haz clic en cualquier objeto de la estación para ver sus propiedades.	2016-07-03T20:30:59.196653	Tip: Press Esc anytime in the station to enable the info tool, then click on any station object to see its properties.
+tutorial_station_production_4	Este es el panel de información para una cocina básica. Contiene un información común, como la pestaña vitals, e información específica, como la pestaña de factoría.\nHaz clic en la pestaña de factoría para continuar.	2016-07-03T20:30:59.196653	This is the info panel for a basic kitchen. It contains some common information, like the vitals tab, and some specific information, like the factory tab.\nClick the factory tab to continue.
+tutorial_station_production_7	¡Aquí está! La primera ración cocinada en este asteroide. Pero apilar la comida en el suelo no parece muy buena idea. Continua con el tutorial de stock para aprender acerca de los objetos que pueden mantener stocks de recursos.	2016-07-03T20:30:59.196653	Here it is! The first ration cooked in this asteroid, ever. But pilling food on the floor doesn't look like a good idea. Continue with the stock tutorial to learn about objects that can keep stocks of resources.
+tutorial_station_stocks_1	Tener montones de recursos en el suelo funciona, pero no es una situación muy controlable. Por esa razón hay objetos que mantienen un stock interno de recursos. Algunos de ellos incluso pueden requerir de ellos para funcionar.\nConstruyamos un mostrador de comida. Selecciona la herramienta de objetos.	2016-07-03T20:30:59.196653	Keeping piles of resources on the floor works, but it's not a very controllable situation. For this reason there are objects that keep an internal stock of resources. Some of them may even require such stock to work.\nLet's build a food vendor. Select the object tool.
+tutorial_station_stocks_10	Ahora selecciona la categoría de instalaciones.	2016-07-03T20:30:59.196653	Now select the facilities category.
+tutorial_station_stocks_11	El objeto resaltado es un palé. Los palés son objetos de control de stock para un solo tipo de recurso, como una tienda, pero que se pueden utilizar para la logística. Por ejemplo, si se construye una palé al lado de una factoría, esta utilizará su stock disponible de forma automática. Utiliza palés cuando quieras control preciso de stock de una sola pila de recursos.	2016-07-03T20:30:59.196653	The highlighted object is a pallet. Pallets are stock controlling objects for a single kind of resource, like a shop, but they can be used for logistics. For example, if you build a pallet next to a factory, it will automatically make its stock available to it. Use pallets when you want precise stock control of a single resource stack.
+tutorial_station_stocks_12	El objeto resaltado es un área de almacenamiento. Cuando se construye una dentro de la habitación, hace que el suelo de la habitación se convierta en una zona de vertido válida para los artículos y los recursos. También puedes decidir qué tipo de recursos pueden ser descargado en su área, pero no tendrás control de existencias . Utiliza las áreas de almacenamiento para almacenar la carga y la producción a granel.	2016-07-03T20:30:59.196653	The highlighted object is a storage area. When you build one inside the room, it makes the floor of that room a valid dumping area for items and resources. You can also decide which kind of resources can be dumped in its area, but there's no stock control. Use storage areas for storing bulk cargo and production.
+tutorial_station_stocks_2	Haz clic en la categoría de comidas y bebidas.	2016-07-03T20:30:59.196653	Click on the food & drink category.
+tutorial_station_stocks_3	Ahora haz clic en el objeto resaltado: Comidas de Cantina.	2016-07-03T20:30:59.196653	Now click on the highlighted object: Canteen food.
+tutorial_station_stocks_4	Haz clic en la baldosa resaltada para construirlo.	2016-07-03T20:30:59.196653	Click on the highlighted tile to build it.
+tutorial_station_stocks_5	Espera a que lo construyan.	2016-07-03T20:30:59.196653	Wait for it to be constructed.
+tutorial_station_stocks_6_1	Ahora cambia a la herramienta de info y selecciona el mostrador de comida.	2016-07-03T20:30:59.196653	Now Switch to the info tool and select the food vendor.
+tutorial_station_stocks_6_2	Consejo: Pulsa Esc en cualquier momento en la estación para abrir que la herramienta de info, a continuación, haz clic en cualquier objeto de la estación para ver sus propiedades.	2016-07-03T20:30:59.196653	Tip: Press Esc anytime in the station to enable the info tool, then click on any station object to see its properties.
+tutorial_station_stocks_7	Selecciona el panel de stocks.	2016-07-03T20:30:59.196653	Select the stocks panel.
+tutorial_station_vitals_1	La función principal de la estación es mantener a tus oficiales sanos y salvos. Trabajaran y volverán aquí después de explorar la galaxia, asi que tendrán que satisfacer sus "vitals". Echémosles un vistazo. Selecciona la herramienta de Info, a continuación, hagz clic en cualquier oficial (haz clic más de una vez si hay algo que está delante de ellos).	2016-07-03T20:30:59.196653	The main function of the station is to keep your officers alive and well. They will work here and come back here after exploring the galaxy, and they will need to satisfy their vitals. Let's take a look at them. Select the Info tool, then click on any officer (click more than once if something is in front of them).
+tutorial_station_vitals_2	Selecciona el panel de "vitals" si no está ya seleccionado.\nEste panel muestra todos los "vitals" del oficial seleccionado. Poniendo a su disposición alimentos, bebidas, zonas de recreo, y otros sistemas, permitirás que tus oficiales rellenen las barras estén demasiado bajas. No dejes que bajen demasiado, ya que podría afectar a su mente o incluso dañar a su cuerpo.	2016-07-03T20:30:59.196653	Select the Vitals panel if it's not selected already.\nThis panel displays all the vitals of the selected officer. By making available food, drinks, leisure time areas, and other systems, you allow your officers to fill the bars when they get too low. Don't let them get too low, otherwise it could affect their Mind or even damage their body.
+tutorial_station_vitals_3	Ahora haz clic en la pestaña de ánimo.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_vitals_4	El ánimo de un oficial puede estar influenciado por muchos tipos de cosas. Por ejemplo, tener hambre no sólo puede hacer daño a tu oficial, sino que también puede que le provoque un sentimiento negativo. Puedes ver esos sentimientos listados debajo de la barra. Si la barra de ánimo baja demasiado, pueden perder la ganas de vivir, o llegar a ser violentos.\nContinúa con el siguiente tutorial para empezar la construcción de una cocina.	2016-07-03T20:30:59.196653	The Mind of an officer can be influenced by many kinds of things. For example, being hungry can not only hurt your officer, it will also cause them a negative feeling. You can see those feelings listed under the bar. If your officer Mind bar goes too low, they may loose the will to live, or become violent.\nContinue with the next tutorial to start building a kitchen to take care of your officers.
+PR_desc	Encantadores y muy divertidos, tienen éxito convenciendo a sus clientes potenciales sobre lo maravilloso que es todo.	2016-10-14T14:03:39.281009	Charming and fun to be around, they are very successful at convincing potential clients on how great everything is.
+absorbtion	Absorción	2016-10-14T14:03:39.281009	Absorbtion
+absorbtion_short	Abs	2016-10-14T14:03:39.281009	Abs
+action_cooldown	[~A] está en espera	2016-10-14T14:03:39.281009	[~A] is in cooldown
+active_absorb	~A absorción	2016-10-14T14:03:39.281009	~A absorb
+active_damage	~A-~A daño	2016-10-14T14:03:39.281009	~A-~A damage
+active_healing	~A-~A cura	2016-10-14T14:03:39.281009	~A-~A healing
+active_item	Ítem activo	2016-10-14T14:03:39.281009	Active item
+all	Todos	2016-10-14T14:03:39.281009	All
+all_officers	Todos	2016-10-14T14:03:39.281009	All officers
+alphabetically	Alfabético	2016-10-14T14:03:39.281009	Alphabetically
+amount	Cantidad	2016-10-14T14:03:39.281009	Amount
+any_power	Poder (todos)	2016-10-14T14:03:39.281009	Any power
+any_slot	Prenda (todas)	2016-10-14T14:03:39.281009	Any slot
+armory_locker_desc	Almacena prendas, implantes y armas	2016-10-14T14:03:39.281009	Store armor, implants and weapons
+armory_pallet	Armería	2016-10-14T14:03:39.281009	Armory pallet
+armory_stored_something	Almacenado ~A	2016-10-14T14:03:39.281009	Stored ~A
+ascending	Ascendiendo	2016-10-14T14:03:39.281009	Ascending
+attack	Ataca	2016-10-14T14:03:39.281009	Attack
+attack_label	Click para usar ~A	2016-10-14T14:03:39.281009	Click to use ~A
+auto	Auto	2016-10-14T14:03:39.281009	Auto
+auto_combat_false	Controlas a ~A, siempre que su dueño mantenga seleccionado o como parte del equipo	2016-10-14T14:03:39.281009	~A is now controlled by you, as long as the officer is selected or in the squad
+auto_combat_true	~A lo controla el oficial automáticamente	2016-10-14T14:03:39.281009	~A is now automatically controlled by the officer
+auto_desc	El combate se producirá automáticamente	2016-10-14T14:03:39.281009	Attacking will be done automatically
+auto_label	AUTO	2016-10-14T14:03:39.281009	AUTO
+auto_owner_change	Nuevo dueño: ~A	2016-10-14T14:03:39.281009	New owner: ~A
+available_seat	Asiento disponible	2016-10-14T14:03:39.281009	Available seat
+bar_workplace_action	Atender ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+base_spec	Spec base	2016-10-14T14:03:39.281009	Base spec
+bed_officer	Cama de oficial	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bed_officer_desc	Cama de lujo para los oficiales con más experiencia	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bed_plain	Cama normal	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bed_workplace_action	Atender a ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bedofficer	Cama de oficial	2016-10-14T14:03:39.281009	Officer bed
+bonus_absorb_short	+Absorción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_amt_absorb	Bonus: ~A absorción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_amt_damage	Bonus: ~A DPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_amt_healing	Bonus: ~A CPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_amt_health	Bonus: ~A vida	2016-10-14T14:03:39.281009	Bonus: ~A health
+bonus_damage_short	+DPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_healing_short	+CPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+bonus_health_short	+Vida	2016-10-14T14:03:39.281009	+Health
+build_ship_engines	Construir motores de nave	2016-10-14T14:03:39.281009	Build ship engines
+build_ship_hull	Construir casco de nave	2016-10-14T14:03:39.281009	Build ship hull
+build_ship_lifesupport	Construir soporte de vida de nave	2016-10-14T14:03:39.281009	Build ship life support
+build_ship_structure	Construir estructura de nave	2016-10-14T14:03:39.281009	Build ship structure
+by_mind	Ánimo	2016-10-14T14:03:39.281009	By Mind
+cant_build_blocked	El tile está bloqueado por los cuatro lados	2016-10-14T14:03:39.281009	The tile is blocked on its four sides
+cant_build_too_many	Demasiados objetos de este tipo	2016-10-14T14:03:39.281009	Too many objects of this kind
+cargo_n	Carga: ~A unidades	2016-10-14T14:03:39.281009	Cargo: ~A units
+ceilingturret	Torreta de techo	2016-10-14T14:03:39.281009	Ceiling turret
+chef	Chef	2016-10-14T14:03:39.281009	Chef
+chef_desc	Capaz de cocinar las recetas más complicadas. Cualquier estación avanzada necesita de chefs para preparar las comidas y bebidas más extravagantes.	2016-10-14T14:03:39.281009	Capable of cooking the most complicated of recipes. Any advanced station needs chefs to make the most extravagant food and drinks.
+chemist	Químico	2016-10-14T14:03:39.281009	Chemist
+chemist_desc	Fluidos burbujeantes y reacciones controladas son su día a día.	2016-10-14T14:03:39.281009	Bubbly fluids and controlled reactions are their day to day.
+chest_item	Ítem de pecho	2016-10-14T14:03:39.281009	Chest item
+combat_medic	Combat Medic	2016-10-14T14:03:39.281009	Combat Medic
+confirm_cancel_ship_construction	Estás seguro? Si aceptas todo el trabajo existente se perderá.	2016-10-14T14:03:39.281009	Are you sure? If you cancel all the already finished work and resources will be lost.
+confirm_evolve_officer	Promocionar ~A a ~A no se puede deshacer! Provocará que ~A sea incapaz de realizar algunos trabajos, al tiempo que lo mejorará en otros. Estás seguro?	2016-10-14T14:03:39.281009	Upgrading ~A to ~A cannot be undone! It will make ~A unable to do some jobs, while being better in others. Are you sure?
+confirm_fire_officer	Firing ~A cannot be undone, the officer will be gone forever! Are you sure?	2016-10-14T14:03:39.281009	Firing ~A cannot be undone, the officer will be gone forever! Are you sure?
+cook_rations1	Cocinar Raciones	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+cook_rations21	Cocinar Raciones avanzadas	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+cook_rations31	Cocinar Raciones lujosas	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+cooldown_amt	~0,1Fs espera	2016-10-14T14:03:39.281009	~0,1Fs cooldown
+corridor_build_info	Click y arrastra para dibujar un corredor, o click para dibujar una sola tile. Puedes pulsar Esc para cancelar mientras arrastras.	2016-10-14T14:03:39.281009	Click and drag a line to draw a corridor, or click to paint tile by tile. You can press Esc while dragging to cancel the line.
+crew_n	Tripulación: ~A asientos	2016-10-14T14:03:39.281009	Crew: ~A slots
+current_demands	Demandas:	2016-10-14T14:03:39.281009	Demands:
+current_experience_basic	Trabajo básico:	2016-10-14T14:03:39.281009	Basic jobs:
+current_experience_meta	Trabajo meta:	2016-10-14T14:03:39.281009	Meta jobs:
+current_experience_spec	Trabajo especializado:	2016-10-14T14:03:39.281009	Specialized jobs:
+current_owned_area	Dueño de suelo: ~A baldosas	2016-10-14T14:03:39.281009	Owned floor area: ~A tiles
+current_ownership	Dueño de objetos:	2016-10-14T14:03:39.281009	Owned objects:
+decor_adscreen	Anuncios	2016-10-14T14:03:39.281009	Ads screen
+decor_balloons	Globos	2016-10-14T14:03:39.281009	Balloons
+decor_bannerspatials	Banderas de estación	2016-10-14T14:03:39.281009	Station banner
+decor_bust	Busto	2016-10-14T14:03:39.281009	Bust
+decor_cabinets	Taquillas	2016-10-14T14:03:39.281009	Lockers
+decor_classydivisor	Divisor estiloso	2016-10-14T14:03:39.281009	Classy divisor
+decor_colorbox	Cubos de colores	2016-10-14T14:03:39.281009	Color cubes
+decor_darktech01	Tótem de desesperación	2016-10-14T14:03:39.281009	Totem of despair
+decor_darktech02	Icono del martirio	2016-10-14T14:03:39.281009	Icon of grief
+decor_energycolumn	Columna de luz	2016-10-14T14:03:39.281009	Light column
+decor_galaxyball	Mapa de la galaxia	2016-10-14T14:03:39.281009	Live galaxy map
+decor_glassdivisor	Divisor de vidrio	2016-10-14T14:03:39.281009	Glass divisor
+decor_holoprojector	Holoproyector	2016-10-14T14:03:39.281009	Holoprojector
+decor_holoscreen	Holopantalla	2016-10-14T14:03:39.281009	Holoscreen
+decor_homelydivisor	Divisor	2016-10-14T14:03:39.281009	Divisor
+decor_lamp01	Lámpara	2016-10-14T14:03:39.281009	Lamp
+decor_lamp02	Lámpara	2016-10-14T14:03:39.281009	Lamp
+decor_lamp03	Lámpara	2016-10-14T14:03:39.281009	Lamp
+decor_lightcube	Cubo de luz	2016-10-14T14:03:39.281009	Cube of light
+decor_majesticcolumn	Columa estilosa	2016-10-14T14:03:39.281009	Classy column
+decor_mannequin01	Maniquín	2016-10-14T14:03:39.281009	Mannequin
+decor_mannequin02	Maniquín	2016-10-14T14:03:39.281009	Mannequin
+decor_mannequin03	Maniquín	2016-10-14T14:03:39.281009	Mannequin
+decor_map	Mapa de estación	2016-10-14T14:03:39.281009	Station map
+decor_rocket	Mini cohete	2016-10-14T14:03:39.281009	Rocket model
+decor_rugancient	Alfombra antigua	2016-10-14T14:03:39.281009	Ancient rug
+decor_rugdiplomacy	Alfombra de diplomático	2016-10-14T14:03:39.281009	Diplomat's rug
+decor_rugengineering	Alfombra de ingeniero	2016-10-14T14:03:39.281009	Engineers's rug
+decor_ruglodge	Alfombra de logia	2016-10-14T14:03:39.281009	Lodge carpet
+decor_rugmedicine	Alfombra de doctor	2016-10-14T14:03:39.281009	Doctor's rug
+decor_rugredshirt	Alfombra barata	2016-10-14T14:03:39.281009	Cheap rug
+decor_rugscience	Alfombra de científico	2016-10-14T14:03:39.281009	Scientist's rug
+decor_rugsmall01	Alfombrilla	2016-10-14T14:03:39.281009	Mat
+decor_rugsmall02	Alfombrilla	2016-10-14T14:03:39.281009	Mat
+decor_rugsmall03	Alfombrilla	2016-10-14T14:03:39.281009	Mat
+decor_rugspacecow	Alfombra de vaca espacial	2016-10-14T14:03:39.281009	Space cow rug
+decor_rugstrategist	Alfombra de soldado	2016-10-14T14:03:39.281009	Soldier's rug
+decor_screens	Pantallas	2016-10-14T14:03:39.281009	Screens
+decor_shipmodel	Mini nave detallada	2016-10-14T14:03:39.281009	Detailed model ship
+decor_skeleton	Esqueleto humano	2016-10-14T14:03:39.281009	Human skeleton
+decor_statueman	Estatua	2016-10-14T14:03:39.281009	Statue
+decor_statuewoman	Estatua	2016-10-14T14:03:39.281009	Statue
+decor_table&lamp	Mesa y lámpara	2016-10-14T14:03:39.281009	Table and lamp
+decor_table&lamp02	Mesa y lámpara	2016-10-14T14:03:39.281009	Table and lamp
+decor_table&lamp03	Mesa y lámpara	2016-10-14T14:03:39.281009	Table and lamp
+decor_towels	Toallas	2016-10-14T14:03:39.281009	Towels
+decor_tvcolumn	Columa de video	2016-10-14T14:03:39.281009	Video column
+decor_wardrobe	Armario ropero	2016-10-14T14:03:39.281009	Wardrobe
+decor_wardrobe02	Armario ropero	2016-10-14T14:03:39.281009	Wardrobe
+decor_wardrobe03	Armario ropero	2016-10-14T14:03:39.281009	Wardrobe
+decor_weaponsrack	Estantería de armas	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+decor_xray	Rayos X	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+decoration	Decoración	2016-10-14T14:03:39.281009	Decoration
+deliver_from_action	Entregar desde ~A	2016-10-14T14:03:39.281009	Deliver from ~A
+deliver_from_source	Fuente exclusiva	2016-10-14T14:03:39.281009	Exclusive source
+deliver_from_source_at	Fuente: ~A	2016-10-14T14:03:39.281009	Source: ~A
+deliver_from_source_cancel	Cancelar fuente exclusiva	2016-10-14T14:03:39.281009	Cancel exclusive source
+deliver_from_source_desc	Pulsa botón derecho en cualquier palet o zona de almancenamiento para seleccionar ese objeto como la fuente exclusiva para este objeto.	2016-10-14T14:03:39.281009	Right click on any pallet or storage area controller to set that object as the exclusive source for delivery of resources to this object.
+demand_amount	Cantidad	2016-10-14T14:03:39.281009	Amount
+demand_current	Actual	2016-10-14T14:03:39.281009	Current
+demand_wanted	Requerido	2016-10-14T14:03:39.281009	Wanted
+descending	Descendiente	2016-10-14T14:03:39.281009	Descending
+desperate_critical	¡ ~A ha enloquecido!	2016-10-14T14:03:39.281009	~A is going desperate now! They uselessly hit anything and anybody in their path.
+desperate_critical_violent	~A está desesperado y usa su arma contra sus amigos!	2016-10-14T14:03:39.281009	~A is going desperate now and using their weapons on their friends!
+diplomat	Diplomático	2016-10-14T14:03:39.281009	Diplomat
+diplomat_desc	Los diplomáticos son expertos en la interacción social, la negociación, el conocimiento de la galaxia y algo de engaño de vez en cuando.	2016-10-14T14:03:39.281009	Diplomats are experts in social conventions, negotiation, knowledge of the galaxy and a little deception from time to time.
+dirt	Basura	2016-10-14T14:03:39.281009	Dirt
+dirt_desc	Los limpiadores pueden eliminar esta basura	2016-10-14T14:03:39.281009	Cleaners can remove this dirt
+docking	Atracando:	2016-10-14T14:03:39.281009	Docking:
+dps_label	Daño por segundo	2016-10-14T14:03:39.281009	Damage per second
+dps_label_short	DPS	2016-10-14T14:03:39.281009	DPS
+empty	Vacío	2016-10-14T14:03:39.281009	Empty
+engineer	Ingeniero	2016-10-14T14:03:39.281009	Engineer
+engineer_desc	Si es metálico déjaselo a los ingenieros. Crear robots y naves espaciales son sus mejores habilidades.	2016-10-14T14:03:39.281009	If it has metal leave it to the engineers. Making robots and space ships are their most valued capabilities.
+entrance_fee	Precio de entrada	2016-10-14T14:03:39.281009	Entrance fee
+equi_item_no_reqs	~A no puede equipar ~A	2016-10-14T14:03:39.281009	~A cannot equip ~A
+equi_item_replace	Destruir ~A y reemplazarlo por ~A?	2016-10-14T14:03:39.281009	Destroy ~A and replace it with ~A?
+equi_item_slot_disabled	~A necesita una especificación superior para equipar ~A	2016-10-14T14:03:39.281009	~A needs a higher spec to equip ~A
+equip_item_rmb	Equipar ~A	2016-10-14T14:03:39.281009	Equip ~A
+equip_matrix	Matriz de ítems	2016-10-14T14:03:39.281009	Equipment matrix
+exclude	Excluir	2016-10-14T14:03:39.281009	Exclude
+factory_info_no_recipes	Ninguna receta disponible para esta fabrica. Desbloquea recetas realizando más investigaciones.	2016-10-14T14:03:39.281009	No recipes are available for this factory. Unlock recipes by doing more research.
+feet_item	Ítem de pies	2016-10-14T14:03:39.281009	Feet item
+fire_officer	Despedir al oficial	2016-10-14T14:03:39.281009	Fire officer
+flag_broken	Señalizar como roto para forzar su reparación	2016-10-14T14:03:39.281009	Flag as broken to force its repair
+fleet_too_many	La capacidad de tu flota ha llegado a su limite y no puedes construir más naves	2016-10-14T14:03:39.281009	Your fleet capacity is at its limit and you cannot build more ships
+floor_build_info	Haz clic y arrastra para trazar una sala rectangular, o haz clic para trazar baldosa por baldosa. Puedes pulsar Esc mientras arrastras para cancelar el rectángulo.	2016-10-14T14:03:39.281009	Click and drag to draw a rectangular room, or click to paint tile by tile. You can press Esc while dragging to cancel the rectangle.
+freaking_out	Desquiciado	2016-10-14T14:03:39.281009	Freaking out
+garden_bamboopot	Bambús	2016-10-14T14:03:39.281009	Bamboo
+garden_bush01	Arbusto	2016-10-14T14:03:39.281009	Bush
+garden_bush02	Arbusto	2016-10-14T14:03:39.281009	Bush
+garden_flowerpot	Centro de flores	2016-10-14T14:03:39.281009	Flower pot
+garden_plantpot01	Jardinera	2016-10-14T14:03:39.281009	Plant plot
+garden_plantpot02	Jardinera	2016-10-14T14:03:39.281009	Plant plot
+garden_plantpot03	Jardinera	2016-10-14T14:03:39.281009	Plant plot
+garden_plantpot04	Jardinera	2016-10-14T14:03:39.281009	Plant plot
+garden_plantpot05	Jardinera	2016-10-14T14:03:39.281009	Plant plot
+garden_plantpot06	Jardinera	2016-10-14T14:03:39.281009	Plant pot
+garden_plantpot07	Jardinera	2016-10-14T14:03:39.281009	Plant pot
+garden_plantpot08	Jardinera	2016-10-14T14:03:39.281009	Plant pot
+garden_pond	Estanque	2016-10-14T14:03:39.281009	Pond
+garden_tree01	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree02	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree03	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree04	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree05	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree06	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree07	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree08	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree09	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_tree10	Árbol	2016-10-14T14:03:39.281009	Tree
+garden_zengarden	Jardín Zen	2016-10-14T14:03:39.281009	Zen garden
+gardening	Jardinería	2016-10-14T14:03:39.281009	Gardening
+gems_node	Nodo de gemas	2016-10-14T14:03:39.281009	Gems node
+generic_extractor	Extractor genérico	2016-10-14T14:03:39.281009	Generic Extractor
+generic_extractor_desc	Extrae recursos dentro de su área de influencia	2016-10-14T14:03:39.281009	Extract resources within its area of influence
+global_min_stock_amount	Stock min	2016-10-14T14:03:39.281009	Min stock
+global_min_stock_amount_desc	Intenta mantener esta cantidad de stock dando órdenes a las fábricas marcadas en producción global	2016-10-14T14:03:39.281009	Try to keep this amount of stock by giving orders to factories set to global queue
+goal_buildliving1_desc	Construye 3 camas y una Hygienizer 3000	2016-10-14T14:03:39.281009	Build 3 plain beds and one Hygienizer 3000.
+goal_buildplanet3_desc	Construye un extractor de bio, un extractor de mineral y un extractor de fluidos en la superficie de uno o más planetas.	2016-10-14T14:03:39.281009	Build 3 resource extractors on the surface of one or more planets.
+goal_buildplanet3_title	Construye 3 extractores diferentes en planetas	2016-10-14T14:03:39.281009	Build 3 extractors on planets
+goal_itemequip1_title	Equipa nuevos ítems 10 veces	2016-10-14T14:03:39.281009	Equip new items 10 times
+goal_itemprod1_title	Crea 15 ítems	2016-10-14T14:03:39.281009	Make 15 items
+goal_itemprod2_desc	Crea un ítem de pecho, un ítem activo, un ítem de manos, un ítem de piernas y un ítem de implante.	2016-10-14T14:03:39.281009	Make chest item, an active item, a hands item, a feet item and an implant item.
+goal_itemprod2_title	Crea 5 ítems para diferentes ranuras	2016-10-14T14:03:39.281009	Make 5 items for different slots
+goal_shipbuild1_desc	Construye una nave usando el planificador de naves y los bancos de trabajo de nave.	2016-10-14T14:03:39.281009	Build a ship using the ship building planner and the ship work desks.
+goal_shipbuild1_title	Construye una nave	2016-10-14T14:03:39.281009	Build a ship
+goal_shipbuild2_desc	Construyendo nuevas naves, crea 100 órdenes de construcción de naves en los bancos de trabajo.	2016-10-14T14:03:39.281009	While building new ships, produce 100 ship build order tasks in the ship work desks.
+goal_shipbuild2_title	Crea 100 órdenes de construcción de naves	2016-10-14T14:03:39.281009	Produce 100 ship build order tasks
+goal_specs1_desc	Escoge a cualquier oficial experimentado y asciéndelo a cualquier especialidad.	2016-10-14T14:03:39.281009	Pick any sufficiently experienced officer and upgrade them to any graduate spec.
+goal_specs1_title	Asciende a un oficial a cualquier especialidad.	2016-10-14T14:03:39.281009	Upgrade an officer to any graduate spec
+goal_specs2_desc	Escoge a 6 oficiales suficientemente experimentados y asciéndelos a cualquier especialidad.	2016-10-14T14:03:39.281009	Pick 6 sufficiently experienced officers and upgrade them to any graduate spec.
+goal_specs2_title	Asciende 6 oficiales a cualquier especialidad	2016-10-14T14:03:39.281009	Upgrade 6 officers to any graduate spec
+goal_specs3_desc	Escoge a cualquier oficial experimentado y asciéndelo a cualquier especialidad maestra.	2016-10-14T14:03:39.281009	Pick any sufficiently experienced officer and upgrade them to any master spec.
+goal_specs3_title	Ascender un oficial a cualquier especialidad maestra	2016-10-14T14:03:39.281009	Upgrade an officer to any master spec
+goal_specs4_desc	Escoge 6 oficiles suficientemente experimentados para ascenderlos a especialidad maestra.	2016-10-14T14:03:39.281009	Pick 6 sufficiently experienced officers and upgrade them to any master spec.
+goal_specs4_title	Asciende 6 oficiales a cualquier especialidad maestra	2016-10-14T14:03:39.281009	Upgrade 6 officers to any master spec
+graduate_spec	Graduado	2016-10-14T14:03:39.281009	Graduate spec
+group_ships	Construcción de nave	2016-10-14T14:03:39.281009	Ship construction
+gun_beamgun_name	Pistola de haz	2016-10-14T14:03:39.281009	Beam Gun
+gun_blaster_name	Blaster	2016-10-14T14:03:39.281009	Blaster
+gun_crus_name	Crusantian Standard	2016-10-14T14:03:39.281009	Crusantian Standard
+gun_cucur_name	Cucurbian Standard	2016-10-14T14:03:39.281009	Cucurbian Standard
+gun_disruptor_name	Disruptor	2016-10-14T14:03:39.281009	Disruptor
+gun_laser_name	Pistola láser	2016-10-14T14:03:39.281009	Laser Gun
+gun_lemur_name	Lemurian Standard	2016-10-14T14:03:39.281009	Lemurian Standard
+gun_medus_name	Medus Standard	2016-10-14T14:03:39.281009	Medus Standard
+gun_nogi_name	Nogi Standard	2016-10-14T14:03:39.281009	Nogi Standard
+gun_phaser_name	Phaser	2016-10-14T14:03:39.281009	Phaser
+gun_pirates_name	Pirates Standard	2016-10-14T14:03:39.281009	Pirates Standard
+gun_pistol_name	Pistola	2016-10-14T14:03:39.281009	Pistol
+gun_raygun_name	Pistola de rayos	2016-10-14T14:03:39.281009	Ray Gun
+gun_robots_name	Robots Standard	2016-10-14T14:03:39.281009	Robots Standard
+hands_item	Ítem de manos	2016-10-14T14:03:39.281009	Hands item
+heal_1	CuraProx	2016-10-14T14:03:39.281009	ProxHeal
+heal_2	CuraProx Plus	2016-10-14T14:03:39.281009	ProxHeal Plus
+heal_nearby	Cura cercana	2016-10-14T14:03:39.281009	Heal nearby
+hps_label	Cura por segundo	2016-10-14T14:03:39.281009	Healing per second
+hps_label_short	CPS	2016-10-14T14:03:39.281009	HPS
+hunger_feeling_high	Bien alimentado	2016-10-14T14:03:39.281009	Well fed
+implant_item	Ítem de implante	2016-10-14T14:03:39.281009	Implant item
+include	Incluir	2016-10-14T14:03:39.281009	Include
+industrialist	Industrialista	2016-10-14T14:03:39.281009	Industrialist
+industrialist_desc	Héroe del trabajo. Los Industrialistas pasan sus días trabajando en las pesadas fábricas de tu estación. Usan sus elevadas habilidades para construir naves espaciales o baratijas para turistas	2016-10-14T14:03:39.281009	Hero of labor. Industrialists spend their days toiling in the heavy factories of your station. They may make a space ship, or some crappy souvenir for tourists, with the highest skill.
+infinity	Infinito	2016-10-14T14:03:39.281009	Infinity
+infinity_short	Inf	2016-10-14T14:03:39.281009	Inf
+item_info_amount	Cantidad: ~A	2016-10-14T14:03:39.281009	Amount: ~A
+item_inventory_shortcut	@ui_icon_30px_cargo.png Inventario	2016-10-14T14:03:39.281009	@ui_icon_30px_cargo.png Inventory status
+item_level	Nivel ~A	2016-10-14T14:03:39.281009	Level ~A
+item_power_single	~A ~A	2016-10-14T14:03:39.281009	~A ~A
+itemforge	Forja de ítems	2016-10-14T14:03:39.281009	Item forge
+itemforge_desc	Manufactura armaduras, implantes y armas	2016-10-14T14:03:39.281009	Manufacture armor, implants and weapons
+job_matrix	Matriz de tareas	2016-10-14T14:03:39.281009	Job matrix
+job_matrix_click_officer_name	Centrar en Mapa	2016-10-14T14:03:39.281009	Focus on map
+job_matrix_click_officer_portrait	Centrar en Personal	2016-10-14T14:03:39.281009	Focus in staff
+job_matrix_job_tip	~A\nPrioridad: ~A	2016-10-14T14:03:39.281009	~A\nPriority: ~A
+job_matrix_per_job_prio_disabled	Usar prioridades de trabajo globales para este oficial	2016-10-14T14:03:39.281009	Use global job priority for this officer
+job_matrix_per_job_prio_enabled	Programar prioridades de trabajo individuales para este oficial	2016-10-14T14:03:39.281009	Set individual job priorities for this officer
+job_matrix_prompt_officer_prio	Introduce valor prioritario para la tarea, 1 a 99, o 0 para desactivarla.	2016-10-14T14:03:39.281009	Enter priority value for the job, 1 to 99, or 0 for disabling it.
+job_speed	Velocidad: ~0,2Fx	2016-10-14T14:03:39.281009	Speed: ~0,2Fx
+job_warn_no_resources2	~A no puede ser entregado a este objeto.	2016-10-14T14:03:39.281009	~A cannot be delivered to this object.
+kb_build_rotate_left	Construir: Rotar la izquierda	2016-10-14T14:03:39.281009	Build: Rotate left
+kb_build_rotate_right	Construir: Rotar a la derecha	2016-10-14T14:03:39.281009	Build: Rotate right
+kb_squad_combat	Cambiar a modo de escuadrón de combate	2016-10-14T14:03:39.281009	Toggle squad combat mode
+keep_slot_empty	Mantener vacía la ranura o asiento seleccionado	2016-10-14T14:03:39.281009	Keep the selected slot or seat empty
+litter	Basura	2016-10-14T14:03:39.281009	Litter
+litter_desc	Limpiadores con acceso a la recicladora pueden retirar estos desperdicios	2016-10-14T14:03:39.281009	Cleaners with access to a recycler can remove this litter
+make_active	Crear ítem activo L~A-L~A	2016-10-14T14:03:39.281009	Make active item L~A-L~A
+make_chest	Crear ítem para pecho L~A-L~A	2016-10-14T14:03:39.281009	Make chest item L~A-L~A
+make_feet	Crear ítem para pies L~A-L~A	2016-10-14T14:03:39.281009	Make feet item L~A-L~A
+make_hands	Crear ítem para manos L~A-L~A	2016-10-14T14:03:39.281009	Make hands item L~A-L~A
+make_implant	Crear ítem de implante L~A-L~A	2016-10-14T14:03:39.281009	Make implant item L~A-L~A
+make_owned_action	Hacer propiedad de ~A	2016-10-14T14:03:39.281009	Make owned by ~A
+make_owner_action	Hacer dueño de ~A	2016-10-14T14:03:39.281009	Make owner of ~A
+master_spec	Master	2016-10-14T14:03:39.281009	Master spec
+max_stack_size	Pila máxima: ~A	2016-10-14T14:03:39.281009	Max stack size: ~A
+medic	Médico	2016-10-14T14:03:39.281009	Medic
+medic_desc	Cura a los heridos, los enfermos y los desvalidos.	2016-10-14T14:03:39.281009	Heals the hurting, the diseased, the handicapped.
+melee_name	Melee	2016-10-14T14:03:39.281009	Melee
+mind_feeling_low2_desc	Nada importa, no quiero vivir.	2016-10-14T14:03:39.281009	Nothing matters, I do not want to live
+missing_demands_desc	Algunas de mis demandas no están siendo satisfechas	2016-10-14T14:03:39.281009	Some of my demands are not being met
+name_used	Este nombre ya está en uso	2016-10-14T14:03:39.281009	Name is already used
+navigation	Navegación	2016-10-14T14:03:39.281009	Navigation
+navigator	Navegador	2016-10-14T14:03:39.281009	Navigator
+navigator_desc	Han visto cosas que nunca podrías imaginarte, han transportado megatoneladas más allá de Orion. Completan la carrera de Kessel en unidades de tiempo.	2016-10-14T14:03:39.281009	They have seen things you'll never believe, shuttled megatons off the shoulder of Orion. Makes the Kessel Run in actual time units.
+obj_build_info	Click y arrastra para crear un plano de objecto y rotarlo. Presiona Esc para cancelar el plano mientras lo arrastras.	2016-10-14T14:03:39.281009	Click and drag to make an object blueprint and rotate it. You can press Esc while dragging to cancel the blueprint.
+object	Objeto	2016-10-14T14:03:39.281009	Object
+off	Off	2016-10-14T14:03:39.281009	Off
+offcer_can_evolve	~A tiene ahora la experiencia suficiente para convertirse en ~A. Puedes ascender a este oficial en la pantalla de Staff.	2016-10-14T14:03:39.281009	~A is now experienced enough to become a ~A. You can promote this officer in the Staff screen.
+officer_busy	El oficial está ocupado en otra parte	2016-10-14T14:03:39.281009	Officer is busy elsewhere
+officer_dock	Muelle Spatials	2016-10-14T14:03:39.281009	Officer dock
+officer_from	De ~A (L~A) a ~A	2016-10-14T14:03:39.281009	From ~A (L~A) in ~A
+officer_in_crew	Nave actual: ~A	2016-10-14T14:03:39.281009	Current ship: ~A
+officer_single_navi_speed	Contribución a la velocidad de la nave: +~0,2F%	2016-10-14T14:03:39.281009	Ship speed contribution: +~0,2F%
+officer_single_navi_speed_desc	Nota: Si el oficial seleccionado no es el navegador más experimentado de la tripulación sólo contribuirá en una pequeña fracción a la velocidad de la nave	2016-10-14T14:03:39.281009	Note: if the selected officer is not the most experienced navigator in the crew they will only contribute a small fraction of the ship speed
+on	On	2016-10-14T14:03:39.281009	On
+on_patrol_busy	De patrulla	2016-10-14T14:03:39.281009	On patrol
+on_strike	En huelga	2016-10-14T14:03:39.281009	On strike
+on_strike_desc	Se niega a trabajar, sabotea el equipo	2016-10-14T14:03:39.281009	Refuses to work, sabotages equipment
+owned_desc	Este objeto tiene dueño y sólo puede ser usado por él. Las tareas de mantenimiento aún pueden ser llevadas a cabo por otros oficiales o robots.	2016-10-14T14:03:39.281009	This object is owned and can only be used by its owner. Maintenance tasks can still be performed by other officers or robots.
+owner_officer_select	Cambiar propietario	2016-10-14T14:03:39.281009	Change owner
+owner_propagates_desc	Cuando este objeto tenga dueño, marcará automáticamente todos los demás objetos de la habitación como poseidos por el mismo dueño.	2016-10-14T14:03:39.281009	When this object is owned it will automatically mark every other object located in the same room as owned.
+ownership	Propiedad	2016-10-14T14:03:39.281009	Ownership
+ownership_area_must_single	Sólo una cama con dueño por habitación	2016-10-14T14:03:39.281009	Only one bed with ownership area per room
+paid_salary_amt	~A/~A veces	2016-10-14T14:03:39.281009	~A/~A times
+pending_upgrade	Pendiente de ascenso	2016-10-14T14:03:39.281009	Pending upgrade
+pharmacist	Farmacéutico	2016-10-14T14:03:39.281009	Pharmacist
+pharmacist_desc	Los médicos necesitan fármacos, y los farmacéuticos son los mejores elaborándolos.	2016-10-14T14:03:39.281009	Medics need drugs, and pharmacists are masters at making them.
+pharmacy	Farmacia	2016-10-14T14:03:39.281009	Pharmacy
+planet_resource_extract_disable	Desactivar la extracción de este tipo de recurso. El stock restante se conservará hasta que sea cargado en una nave.	2016-10-14T14:03:39.281009	Disable extraction of this kind of resource. The existing stock will remain until it's loaded into a ship.
+planet_resource_extract_enable	Activar la extracción de este tipo de recurso	2016-10-14T14:03:39.281009	Enable extraction of this kind of resource
+planet_storage_desc	Añade 20 a la capacidad de almacenamiento de los recursos extraídos en este planeta	2016-10-14T14:03:39.281009	Adds 50 to the storage capacity for the extracted resources in this planet
+player	Jugador	2016-10-14T14:03:39.281009	Player
+player_desc	Atacar estará bajo el control del jugador. Esta opción sólo se aplica mientras la entidad está seleccionada o forma parte de un escuadrón.	2016-10-14T14:03:39.281009	Attacking will be under player control. This setting only applies as long as the entity is selected or part of a squad
+power	Energía	2016-10-14T14:03:39.281009	Power
+power_short	Energía	2016-10-14T14:03:39.281009	Power
+pr	RP	2016-10-14T14:03:39.281009	PR
+prod_current_queue	Cola actual:	2016-10-14T14:03:39.281009	Current queue:
+prod_global	Global	2016-10-14T14:03:39.281009	Global
+prod_global_desc	Las órdenes de producción serán añadidas automáticamente al seleccionar el stock global deseado en la ventana de Inventario	2016-10-14T14:03:39.281009	Production orders will be automatically added by setting the desired global stock amount in the Inventory window
+prod_local	Local	2016-10-14T14:03:39.281009	Local
+prod_local_desc	Los encargos de producción deben ser añadidos manualmente con el botón Crear	2016-10-14T14:03:39.281009	Production orders must be added manually with the Create button
+prod_production	Producción:	2016-10-14T14:03:39.281009	Production:
+prodction_queue_empty	Vacío	2016-10-14T14:03:39.281009	Empty
+producing_recipe	Produciendo:	2016-10-14T14:03:39.281009	Producing:
+range_max	Rango: ~A tiles	2016-10-14T14:03:39.281009	Range: ~A tiles
+range_min_max	Rango: ~A a~A tiles	2016-10-14T14:03:39.281009	Range: ~A to ~A tiles
+received_salary	Salario recibido: ~A de ~A veces	2016-10-14T14:03:39.281009	Received salary: ~A out of last ~A times
+recipe_add_queue	Añadir a la cola	2016-10-14T14:03:39.281009	Add to queue
+recipe_duration	Duración: ~As	2016-10-14T14:03:39.281009	Duration: ~As
+recipe_failed	~A falló	2016-10-14T14:03:39.281009	~A failed
+recipe_job_name	Trabajo: ~A	2016-10-14T14:03:39.281009	Required job: ~A
+recipe_order_create	Crear orden	2016-10-14T14:03:39.281009	Create order
+recipe_order_delete	Cancelar orden	2016-10-14T14:03:39.281009	Delete order
+recruit_existing_xp	Experimentado en:	2016-10-14T14:03:39.281009	Experienced in:
+recruit_existing_xp_in	~A: ~A XP\n	2016-10-14T14:03:39.281009	~A: ~A XP\n
+recruit_hire	Contratar ~A	2016-10-14T14:03:39.281009	Hire ~A
+recycle_items_level	Reciclar ítems por debajo de nivel:	2016-10-14T14:03:39.281009	Recycle items under level:
+recycled_something	~A reciclado	2016-10-14T14:03:39.281009	Recycled ~A
+recycler	Recicladora	2016-10-14T14:03:39.281009	Recycler
+recycling	Reciclando	2016-10-14T14:03:39.281009	Recycling
+redshirt	Redshirt	2016-10-14T14:03:39.281009	Redshirt
+redshirt_desc	Aprendiz de todo, maestro de nada. Versátil pero prescindible, con mucho que aprender. Puede especializarse en cualquier clase. Algunas recetes pueden estar completamente fuera de su alcance.	2016-10-14T14:03:39.281009	Jack of all trades, master of none. Versatile but expendable, with a lot to learn. Can specialize into everything. Some recipes may be completely out of their reach.
+remains	Restos	2016-10-14T14:03:39.281009	Remains
+remains_desc	Los restos pueden reciclarse en la recicladora	2016-10-14T14:03:39.281009	Remains can be recycled in a recycler
+remains_of	Restos de ~A	2016-10-14T14:03:39.281009	Remains of ~A
+repair_workplace_action	Reparar ~A	2016-10-14T14:03:39.281009	Repair ~A
+req_decor	Cualquier decor	2016-10-14T14:03:39.281009	Any decor
+req_shower	Cualquier ducha	2016-10-14T14:03:39.281009	Any shower
+researcher	Investigadores	2016-10-14T14:03:39.281009	Researcher
+researcher_desc	¿Quién quiere sentarse ante un ordenador durante décadas? Los investigadores. Tu tecnología avanzará más rápido que nunca con un equipo de investigadores.	2016-10-14T14:03:39.281009	Who wants to stand in front of a computer for decades? Researchers. Your technology will advance faster than ever with a team of researchers.
+resource_tag_armor	Armadura	2016-10-14T14:03:39.281009	Armor
+resource_tag_crowdcontrol	Control de masas	2016-10-14T14:03:39.281009	Crowd Control
+resource_tag_equipment	Equipo	2016-10-14T14:03:39.281009	Equipment
+resource_tag_implant	Implante	2016-10-14T14:03:39.281009	Implant
+resource_tag_medical	Medicina	2016-10-14T14:03:39.281009	Medical
+resource_tag_shielding	Escudo	2016-10-14T14:03:39.281009	Shielding
+resource_tag_slot_active	Activo	2016-10-14T14:03:39.281009	Active
+resource_tag_slot_chest	Pecho	2016-10-14T14:03:39.281009	Chest
+resource_tag_slot_feet	Pies	2016-10-14T14:03:39.281009	Feet
+resource_tag_slot_hands	Manos	2016-10-14T14:03:39.281009	Hands
+resource_tag_slot_implant	Implante	2016-10-14T14:03:39.281009	Implant
+resource_tag_weapon	Arma	2016-10-14T14:03:39.281009	Weapon
+restock_at	Restock en	2016-10-14T14:03:39.281009	Restock at
+right_mouse_button_abbr	BDR	2016-10-14T14:03:39.281009	RMB
+room_size	Tamaño de la habitación	2016-10-14T14:03:39.281009	Room size
+room_size_amt	~A baldosas	2016-10-14T14:03:39.281009	~A tiles
+rooms	Habitaciones	2016-10-14T14:03:39.281009	Rooms
+salary	Salario	2016-10-14T14:03:39.281009	Salary
+salary_amt	~A @ui_icon_20px_credits04.png por min.	2016-10-14T14:03:39.281009	~A @ui_icon_20px_credits04.png per min.
+salary_demands	@ui_icon_20px_owner_03.png Compensación	2016-10-14T14:03:39.281009	@ui_icon_20px_owner_03.png Compensation
+sapper	Zapador	2016-10-14T14:03:39.281009	Sapper
+scientist	Científico	2016-10-14T14:03:39.281009	Scientist
+scientist_desc	Adeptos a investigar y experimentar. Manipular sustancias es su pan de cada día.	2016-10-14T14:03:39.281009	Adepts at researching and experimenting. Manipulating substances is their day to day.
+scrap_ship	Deshechar nave	2016-10-14T14:03:39.281009	Scrap ship
+security_spec	Seguridad	2016-10-14T14:03:39.281009	Security
+select_officer	Seleccionar un oficial	2016-10-14T14:03:39.281009	Select an officer
+select_officer_current_location	Seleccionar en localización actual	2016-10-14T14:03:39.281009	Select in current location
+select_recipe_order	Seleccionar una receta:	2016-10-14T14:03:39.281009	Select a recipe:
+select_ship_design	Seleccionar diseño de nave:	2016-10-14T14:03:39.281009	Select a ship design:
+selected_recipe	Seleccionado: ~A	2016-10-14T14:03:39.281009	Selected recipe:
+self_destroy	Autodestruir en un glorioso estallido para dañar a enemigos, con la posibilidad de iniciar incendio	2016-10-14T14:03:39.281009	Self destroy in a blaze of glory to damage enemies, with a chance to start a fire
+set_rally_point	Designar punto de patrulla	2016-10-14T14:03:39.281009	Set patrol point
+set_rally_point_label	Hacer clic para designar ~A como punto de patrulla por defecto	2016-10-14T14:03:39.281009	Click to set ~A default patrol point
+ship_build_done	~A (~A)  ha sido terminada y está aparcada en la base	2016-10-14T14:03:39.281009	~A (~A) construction has been finished and is now parked at Home
+ship_busy_cannot_edit	La nave no está aparcada en la base	2016-10-14T14:03:39.281009	Ship is not parked at home
+ship_cargo_info	Carga: ~A usada/ ~A total	2016-10-14T14:03:39.281009	Cargo: ~A used / ~A total
+ship_construction_is_paused	La construcción de la nave está pausada	2016-10-14T14:03:39.281009	Ship construction is paused
+ship_construction_start	Comenzar construcción	2016-10-14T14:03:39.281009	Start construction
+ship_engines_parts	Partes de motor de la nave	2016-10-14T14:03:39.281009	Ship engine parts
+ship_hull_parts	Partes de casco de la nave	2016-10-14T14:03:39.281009	Ship hull parts
+ship_kind_authority	Autoridad	2016-10-14T14:03:39.281009	Authority
+ship_kind_benevolence	Benevolencia	2016-10-14T14:03:39.281009	Benevolence
+ship_kind_diligence	Diligencia	2016-10-14T14:03:39.281009	Diligence
+ship_kind_exploration	Exploración	2016-10-14T14:03:39.281009	Exploration
+ship_kind_foresight	Previsión	2016-10-14T14:03:39.281009	Foresight
+ship_kind_intervention	Intervención	2016-10-14T14:03:39.281009	Intervention
+ship_kind_rationality	Rationalidad	2016-10-14T14:03:39.281009	Rationality
+ship_kind_temerity	Temeridad	2016-10-14T14:03:39.281009	Temerity
+ship_kind_volition	Voluntad	2016-10-14T14:03:39.281009	Volition
+ship_lifesupport_parts	Partes de soporte vital de la nave	2016-10-14T14:03:39.281009	Ship life support parts
+ship_must_parked_home	La nave debe estar aparcada en tu estación para poder ser desmantelada	2016-10-14T14:03:39.281009	The ship must be parked in your home station to be available for dismantling
+ship_planner_cancel	Cancelar construcción	2016-10-14T14:03:39.281009	Cancel construction
+ship_planner_info	Construcción de naves	2016-10-14T14:03:39.281009	Ship construction
+ship_planner_must_single	Sólo un planificador de naves por estación	2016-10-14T14:03:39.281009	Only one ship planner per station
+ship_planner_needed	Construir un planificador de naves primero	2016-10-14T14:03:39.281009	Build a ship planner first
+ship_planner_pause	Pausar construcción	2016-10-14T14:03:39.281009	Pause construction
+ship_planner_resume	Reanudar construcción	2016-10-14T14:03:39.281009	Resume construction
+ship_scrap_confirm	¿Estás seguro? La nave será destruida y una cantidad escasa de recursos será obtenida	2016-10-14T14:03:39.281009	Are you sure? The ship will be destroyed and a small amount of resources will be obtained
+ship_structure_parts	Estructuras de la nave	2016-10-14T14:03:39.281009	Ship structure parts
+shipplanner	Planificador de naves	2016-10-14T14:03:39.281009	Ship planner
+shipplanner_desc	Selecciona una nave para construir y controla el proceso de ensamblaje. Tras colocarlo construye uno ó más bancos de trabajo	2016-10-14T14:03:39.281009	Selects a ship for construction and monitors its building process. After building this object build one or more ship work desks.
+ships	Naves	2016-10-14T14:03:39.281009	Ships
+shipworktable	Banco de trabajo para naves	2016-10-14T14:03:39.281009	Ship work desk
+shipworktable_desc	Usado por oficiales para usar en la construcción de naves. La cola de producción está controlada por el planificador de construcción de naves.	2016-10-14T14:03:39.281009	Used by officers to work on various parts of ship building. Its production queue is controlled by the ship building planner.
+sight_range	Visión: ~A tiles	2016-10-14T14:03:39.281009	Sights: ~A tiles
+slime_node	Nodo de limo	2016-10-14T14:03:39.281009	Slime node
+slot_active	Activo	2016-10-14T14:03:39.281009	Active
+slot_chest	Pecho	2016-10-14T14:03:39.281009	Chest
+slot_feet	Pies	2016-10-14T14:03:39.281009	Feet
+slot_hands	Manos	2016-10-14T14:03:39.281009	Hands
+slot_implant	Implante	2016-10-14T14:03:39.281009	Implant
+slot_name	Ranura: ~A	2016-10-14T14:03:39.281009	Slot: ~A
+slot_need_higher_spec	Necesita una especialización superior	2016-10-14T14:03:39.281009	Needs a higher spec
+spatials_shuttle	Lanzadera de aterrizaje Spatials	2016-10-14T14:03:39.281009	Spatials landing shuttle
+spec_no_more_parent	El oficial ha llegado al nivel máximo de especialización	2016-10-14T14:03:39.281009	The officer is at the top of their specialization
+spec_not_ready	Para ascender a ~A al menos una tarea debe alcanzar la XP requerida	2016-10-14T14:03:39.281009	To upgrade to ~A at least one job must reach its required XP
+spec_requires_xp_in	~A de ~A XP en ~A\n	2016-10-14T14:03:39.281009	~A XP in ~A\n
+spec_unlocks	Desloquea especialización:	2016-10-14T14:03:39.281009	Unlocks specs:
+spec_upgrade_to	Mejorar a\n~A	2016-10-14T14:03:39.281009	Upgrade to\n~A
+speed_n	Velocidad: ~0,2F mParsec/s	2016-10-14T14:03:39.281009	Speed: ~0,2F mParsec/s
+squad_all	Todo	2016-10-14T14:03:39.281009	All
+squad_combat	Combate	2016-10-14T14:03:39.281009	Combat
+squad_combat_busy_desc	Sólo combate	2016-10-14T14:03:39.281009	Only combat
+squad_combat_button	Los miembros del escuadrón ignorarán todas las tareas y se centrarán en el combate	2016-10-14T14:03:39.281009	Squad members will ignore all tasks and will focus on combat
+staff_ui_current_spec	Especialización:	2016-10-14T14:03:39.281009	Current spec
+staff_ui_upgrade_spec	@ui_icon_20px_xp2.png Promoción	2016-10-14T14:03:39.281009	@ui_icon_20px_xp2.png Upgrade spec
+steel	Acero	2016-10-14T14:03:39.281009	Steel
+steel_node	Nodo de acero	2016-10-14T14:03:39.281009	Steel node
+storage_area_must_single	Sólo un almacén por habitación.	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+surgeon	Cirujano	2016-10-14T14:03:39.281009	Surgeon
+surgeon_desc	Un cirujano ha salvado a cientos de oficiales y puede obrar milagros en poquísimo tiempo.	2016-10-14T14:03:39.281009	A surgeon has saved hundreds of officers, and can work miracles in a very short time.
+toogle_global_recipes	Activar o desactivar recetas disponibles para la producción global en este objeto:	2016-10-14T14:03:39.281009	Enable or disable available recipes for global production in this object:
+turret_name	Torreta	2016-10-14T14:03:39.281009	Turret
+tutorial_ended	El tutorial ha terminado	2016-10-14T14:03:39.281009	Tutorial is finished
+tutorial_exit	@ui_icon_30px_help_02.png	2016-10-14T14:03:39.281009	@ui_icon_30px_help_02.png
+tutorial_exit_tooltip	Salir del tutorial actual y volver al menú de tutoriales	2016-10-14T14:03:39.281009	Exit the current tutorial and go back to the tutorial menu
+tutorial_galaxy_basics_3	Vamos a viajar al planeta tutorial. Puedes encontrar el panel de la flota en la derecha de la pantalla. Para emitir una orden directa de viaje, arrastra y suelta la nave destacada en el planeta Tutoland. Recuerda que puedes mover ventanas alrededor desde su barra de título si bloquean su objetivo.	2016-10-14T14:03:39.281009	Let's travel to the tutorial planet. To issue a direct travel order, drag and drop the highlighted ship on to the Tutoland planet. Remember you can move windows around by their title bar if they block your target.
+tutorial_planet_basics_2	Al igual que en la estación, puedes desplazarte alrededor en cualquier momento pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2016-10-14T14:03:39.281009	Like in the station, you can scroll around anytime by using the WASD keys. Zoom in and out using the mouse wheel.
+tutorial_planet_basics_3	Para dar órdenes a tus oficiales, puedes seleccionarlos con la herramienta de info y a continuación, utilizar el panel de órdenes en la parte inferior de la pantalla para decirles dónde caminar o teletransportarse. Vamos a probarlo. Selecciona cualquier oficial con la herramienta de info.	2016-10-14T14:03:39.281009	To give orders to your officers, you can select them with the info tool, then use the orders panel in the bottom of the screen to teleport them or use their active items. Let's try it. Select any officer with the info tool.
+tutorial_planet_basics_4	La barra de acción aparece cuando la entidad seleccionada acepta órdenes directas de ti. Por ejemplo, puedes decirle al oficial seleccionado que camine hasta un cierto punto usando la acción Caminar a.	2016-10-14T14:03:39.281009	The action bar is displayed when the selected entity allows direct orders from you. For an officer the most direct order is to walk to some point, which is always bound to the right mouse button. Other actions may show up in a context menu when using the right mouse button, like direct work orders.
+tutorial_planet_basics_5	Si quieres que tus oficiales lleguen a un sitio difícil, siempre puedes utilizar la herramienta de teletransporte. Fíjate cómo ésta y otras acciones anuncian un keybind en su información (T para Teletransportarse a). Haz uso de las asociaciones de teclas para emitir órdenes rápidamente.	2016-10-14T14:03:39.281009	If you want your officers to reach a difficult spot, you can always use the teleporter tool. Notice how this and other actions advertise a keybind in their tooltip (by default it's T for Teleport). Make use of keyboard bindings to quickly issue orders.
+tutorial_planet_basics_7	Todos tus oficiales están armados y preparados, en modo automático. Atacarán automáticamente a los enemigos o curarán a sus amigos mientras se encuentren en su radio de acción, sin necesidad de darles órdenes. Puedes hacer shift-click para activar o desactivar este modo en los botones de acción en la barra inferior, y entonces usar esos botones tu mismo. También puedes sub-seleccionar miembros de tu squad haciendo shift-click en sus mini botones.	2016-10-14T14:03:39.281009	All your officers are armed and ready, and in full auto mode. They will engage enemies or heal friendlies that are in range without your input. You can shift-click any action button to enable or disable this auto mode, then use the action buttons yourself to control attacks and healing. You can split your squad by changing the squad selection with shift-click on the squad buttons.
+tutorial_planet_extraction_2	Ahora haz clic en el objeto resaltado: el Extractor de Bio.	2016-10-14T14:03:39.281009	Now click on the highlighted object: the extractor.
+tutorial_planet_extraction_3	Este edificio se utiliza para extraer recursos biológicos del planeta. El suelo destacado está cerca de algunos nodos de frutas y verduras, haz clic en él para construir el extractor. Al menos un nodo debe quedar dentro del círculo de su área de influencia. Recuerda que puedes seleccionar a todo tu equipo con [Tab] y luego teletransportarlos cerca con [T].	2016-10-14T14:03:39.281009	This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [Tab] then teleport [T] them nearby.
+tutorial_station_basics_2	Desplázate alrededor de tu estación espacial pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2016-10-14T14:03:39.281009	Scroll around your space station by using the WASD keys. Zoom in and out using the mouse wheel.
+tutorial_station_production_5	La pestaña de factoría permite cambiar la receta de la cocina seleccionada. Por defecto no hay recetas seleccionadas y la cocina está apagada. Ponla a cocinar raciones de verduras haciendo clic en el botón resaltado.	2016-10-14T14:03:39.281009	The factory tab allows to add new production orders to the selected kitchen. By default its production queue has no orders and the kitchen is disabled. Let's create a new order. Click the Create order button.
+tutorial_station_production_5_3	Ahora tenemos que indicar la cantidad de veces que se preparará esta receta. Haz clic en el indicador del numero y escribe 3 cuando te lo pida.	2016-10-14T14:03:39.281009	Now we need to set the amount of times we ran to make this recipe. Click the number label and enter 3 when prompted.
+tutorial_station_production_5_4	El pedido está configurado y listo para ser creado. Haz clic en Añadir a la cola para crear la orden y añadirla a la cola de producción de la cocina.	2016-10-14T14:03:39.281009	Our order is now configured and ready to be created. Click Add to queue to create the order and add it to the kitchen production queue.
+tutorial_station_production_6	Ahora tus agentes empezaran a cocinar raciones, siempre y cuando tenga los recursos necesarios y tengan habilitado el trabajo de cocina.\nEspera a que terminen una ración.	2016-10-14T14:03:39.281009	Your officers will now start cooking rations, as long as they have the required resources, they have the cooking job enabled, and the production queue still has orders to complete.\nLet's wait for them to finish one ration.
+tutorial_station_stocks_8	En este panel se pueden ajustar los parámetros para el sistema de mantenimiento de stocks de este mostrador de alimentos. Hagamos un stock de raciones. Haz clic en la etiqueta de "disabled", y selecciona las raciones en la ventana emergente.	2016-10-14T14:03:39.281009	In this panel you can adjust the parameters for the stock keeping system in this food vendor. It's already set to stock rations by default, but you can change its resource if you wish so.
+tutorial_station_stocks_9	¡Ya esta! Este mostrador de comida ahora empezara a almacenar raciones. Tus oficiales almacenarán raciones en ella hasta llegar a la cantidad máxima configurada. Cuando se encuentran lejos de tus centros de producción, los objetos de mantenimiento de stocks ayudan a una distribución eficiente de tus productos y recursos.\nVeamos un par de ellos.\nSelecciona la herramienta de construcción de objetos.	2016-10-14T14:03:39.281009	This food vendor will now start stocking rations. Your officers will deliver rations to it up to the configured max amount. When located far from your production centers, stock keeping objects help with the efficient distribution of your products and resources.\nLet's look at two more of them.\nSelect the Build object tool.
+tutorial_station_title	Tutorial de Estación	2016-10-14T14:03:39.281009	Station tutorial
+tutorial_waiting	Esperando...	2016-10-14T14:03:39.281009	Waiting...
+type_restock_at_stock	Las tareas de restocking se iniciaran el stock sea igual o inferior a este valor y hasta alcanzar la cantidad máxima de existencias.	2016-10-14T14:03:39.281009	Restocking tasks will start when the stock amount is equal or lower to this value, until it reaches the max stock amount.
+type_ship_name	Escribir nombre de la nave:	2016-10-14T14:03:39.281009	Type the ship name:
+unowned	Sin dueño	2016-10-14T14:03:39.281009	Unowned
+unowned_desc	Este objeto no tiene dueño y puede ser usado por cualquiera.	2016-10-14T14:03:39.281009	This object has no owner and can be used by anybody.
+unowned_keep	Poner disponible este objeto para cualquiera	2016-10-14T14:03:39.281009	Make this object available to anybody
+visitor_docking_disabled	No permitir naves de visitantes	2016-10-14T14:03:39.281009	Do not allow visitor ships to dock here
+visitor_docking_enabled	Permitir naves de visitantes	2016-10-14T14:03:39.281009	Allow visitor ships to dock here
+walk_here	Caminar hasta aquí	2016-10-14T14:03:39.281009	Walk here
+wallet	Monedero	2016-10-14T14:03:39.281009	Wallet
+work_on_action	Trabajar en ~A	2016-10-14T14:03:39.281009	Work on ~A
+bonus_absorb	Bonus: absorción	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+bonus_damage	Bonus: DPS	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+bonus_healing	Bonus: CPS	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+bonus_health	Bonus: vida	2016-10-15T18:36:49.149605	Bonus health
+build_floor	Construir suelo	2016-10-15T18:36:49.149605	Build floor
+build_floors_label	Tipos de suelo:	2016-10-15T18:36:49.149605	Room floor styles:
+build_object	Construir objeto	2016-10-15T18:36:49.149605	Build object
+build_objects_label	Objetos:	2016-10-15T18:36:49.149605	Objects:
+chemical_workshop	Taller químico	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+chemical_workshop_desc	Manufacturas usando reacciones químicas simples	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+goal_itemequip1_desc	Equipa ítems 10 veces a cualquier cantidad de oficiales	2016-10-15T18:36:49.149605	Equip new items 10 times to any number of officers.
+goal_itemprod1_desc	Construye 15 ítems de cualquier tipo y nivel.	2016-10-15T18:36:49.149605	Make 15 items of any kind and of any level.
+goal_research1_desc	Completa una investigación de cualquier tipo	2016-10-15T18:36:49.149605	Complete the research one technology tier of any kind.
+goal_research1_title	Investiga 1 nivel de tecnología	2016-10-15T18:36:49.149605	Research 1 tier
+goal_research2_desc	Tus oficiales han de producir 500 puntos de tecnología trabajando en sus mesas de investigación.	2016-10-15T18:36:49.149605	Have your officers produce 500 research points by working on research desks.
+goal_research2_title	Investiga 500 puntos	2016-10-15T18:36:49.149605	Research 500 points
+group_decor	Decoración y jardín	2016-10-15T18:36:49.149605	Decoration and gardening
+group_facilities	Instalaciones y seguridad	2016-10-15T18:36:49.149605	Facilities and security
+group_health	Salud e higiene	2016-10-15T18:36:49.149605	Health and hygiene
+group_sleeping	Hospedaje	2016-10-15T18:36:49.149605	Hospitality
+kb_action_1	Acción: ítem activo 1	2016-10-15T18:36:49.149605	Action: Active item 1
+kb_action_2	Acción: ítem activo 2	2016-10-15T18:36:49.149605	Action: Active item 2
+kb_action_3	Acción: ítem activo 3	2016-10-15T18:36:49.149605	Action: Active item 3
+kb_action_4	Acción: ítem activo 4	2016-10-15T18:36:49.149605	Action: Active item 4
+kb_action_5	Acción: ítem activo 5	2016-10-15T18:36:49.149605	Action: Active item 5
+kb_action_6	Acción: ítem activo 6	2016-10-15T18:36:49.149605	Action: Active item 6
+kb_teleport_to	Acción: Teletransportarse a	2016-10-15T18:36:49.149605	Action: Teleport to
+make_filtered_water	Preparar Agua filtrada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+make_vitamin_water	Preparar Agua vitaminada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+missing_demands	Falta compensación	2016-10-15T18:36:49.149605	Missing demands
+obj_group_commercial	Comercial	2016-10-15T18:36:49.149605	Commercial
+obj_group_decor	Decoración	2016-10-15T18:36:49.149605	Decoration
+obj_group_eating	Comida y bebida	2016-10-15T18:36:49.149605	Food & drink
+obj_group_facilities	Instalaciones	2016-10-15T18:36:49.149605	Facilities
+obj_group_factory	Producción	2016-10-15T18:36:49.149605	Production
+obj_group_gardening	Jardín	2016-10-15T18:36:49.149605	Gardening
+obj_group_health	Salud	2016-10-15T18:36:49.149605	Health
+obj_group_hygiene	Higiene	2016-10-15T18:36:49.149605	Hygiene
+obj_group_misc	Otros	2016-10-15T18:36:49.149605	Others
+obj_group_recreational	Recreativo	2016-10-15T18:36:49.149605	Recreational
+obj_group_security	Seguridad	2016-10-15T18:36:49.149605	Security
+obj_group_sleeping	Descanso	2016-10-15T18:36:49.149605	Resting
+press_esc_cancel2	\nPulsa Esc botón derecho del ratón para cancelar	2016-10-15T18:36:49.149605	\nPress Esc or right mouse button to cancel
+purchases	Compras	2016-10-15T18:36:49.149605	Purchases
+recipe_order_amount	Introduce cuantas veces quieres producir esta receta, o -1 para infinitas veces.	2016-10-15T18:36:49.149605	How many times to produce the recipe, or -1 for infinite times.
+recipe_order_amount_tip	Introduce cuantas veces quieres producir esta receta	2016-10-15T18:36:49.149605	How many times to produce the recipe
+spec_disallows	Prohibir el trabajo en:	2016-10-15T18:36:49.149605	Disallows working on:
+spec_of_amt_requires_xp_in	~A de ~A XP en ~A\n	2016-10-15T18:36:49.149605	~A of ~A XP in ~A\n
+spec_requires	Requiere XP en una tarea:	2016-10-15T18:36:49.149605	Requires XP in one job:
+tutorial_station_floor_tool_3_2	Consejo: Puedes presionar mayúsculas para cambiar la herramienta de construcción por el borrador de suelos. También puedes pulsar Esc mientras la arrastras para cancelarla.	2016-10-15T18:36:49.149605	Tip: You can press shift to toggle the build floor tool into the floor eraser. You can press Esc while dragging to cancel it.
+uncompensated	Sin compensación	2016-10-15T18:36:49.149605	Uncompensated
+value_higher_min	El valor ha de ser superior a la cantidad mínima	2016-10-15T18:36:49.149605	Value must be higher than min amount
+value_lower_max	El valor debe ser inferior a la cantidad máxima	2016-10-15T18:36:49.149605	Value must be lower than max amount
+visitor_dock	Muelle de visitantes	2016-10-15T18:36:49.149605	Visitor dock
+active_control	~A control de masas	2017-02-17T12:14:02.097451	~A crowd control
+advanced_soap	Jabón avanzado	2017-02-17T12:14:02.097451	Advanced soap
+ale	Cerveza	2017-02-17T12:14:02.097451	Ale
+antimatter_cleaner	Limpiador de antimateria	2017-02-17T12:14:02.097451	Antimatter Cleaner
+arcade cabinet	Recreativa	2017-02-17T12:14:02.097451	Arcade cabinet
+arcade_desc	Juegos clásicos	2017-02-17T12:14:02.097451	All time arcade classics
+argyria	Argyria	2017-02-17T12:14:02.097451	Argyria
+argyria_desc	Soy adicto a ingerir plata	2017-02-17T12:14:02.097451	I'm addicted to purestrain silver
+auto_translator	Autotraductor	2017-02-17T12:14:02.097451	Auto translator
+basic_soap	Jabón básico	2017-02-17T12:14:02.097451	Basic soap
+beam_desc	Un objetivo, Rayo	2017-02-17T12:14:02.097451	Single target, Beam
+bed_plain2	Cama básica	2017-02-17T12:14:02.097451	Basic bed
+bed_plain_desc	Recarga el sueño. Usable por cualquier oficial. No usable para visitantes.	2017-02-17T12:14:02.097451	Restores sleep. Can be used by any officer. Cannot be used by visitors.
+bedofficer_desc	Cama de lujo para los oficiales con más experiencia. Marca la habitación en la que se coloca como área de propiedad del oficial. No usable para visitantes.	2017-02-17T12:14:02.097451	Comfortable bed for your officers. It marks its room as an ownership area for its assigned owner. Cannot be used by visitors.
+billiard	Billar	2017-02-17T12:14:02.097451	Billiard
+billiard_desc	Gopea bolas con un palo en una mesa de tela verde. Provee diversión.	2017-02-17T12:14:02.097451	Hit balls with a stick on a green cloth table. Provides Fun.
+bionanites	Bionanitas	2017-02-17T12:14:02.097451	Bionanites
+blackjack	Mesa de blackjack	2017-02-17T12:14:02.097451	Blackjack table
+blackjack_desc	Agitado, no revuelto. Usa fichas rojas.	2017-02-17T12:14:02.097451	Shaken, not stirred. Uses red tokens.
+blorg_member	Blorg	2017-02-17T12:14:02.097451	Blorg
+bonbons	Bombón	2017-02-17T12:14:02.097451	Bonbons
+bonus_amt_power	Bonus: ~A poder	2017-02-17T12:14:02.097451	Bonus: ~A power
+bonus_power	Bonus de poder	2017-02-17T12:14:02.097451	Bonus power
+bonus_power_short	+Poder	2017-02-17T12:14:02.097451	+Power
+booking_room	Reservando habitación	2017-02-17T12:14:02.097451	Booking room
+brewery	Distilería	2017-02-17T12:14:02.097451	Brewery
+brewery_desc	Destila bebidas fermentadas	2017-02-17T12:14:02.097451	Distills recreational fermented drinks
+cant_build_has_singleton	Hay un objeto en esta habitación que impide cualquier otra construcción	2017-02-17T12:14:02.097451	An object in this room disallows any other construction
+cant_build_too_far_friendly_town	El objeto se ha de construir cerca de una ciudad neutral o amiga	2017-02-17T12:14:02.097451	Object must be built near a neutral or friendly town
+cant_build_too_far_town	El objeto se ha de construir cerca de una ciudad	2017-02-17T12:14:02.097451	Object must be built near a town
+change_machine	Expendedor de cambio	2017-02-17T12:14:02.097451	Change machine
+change_machine_desc	Cambia dinero real por fichas de juego	2017-02-17T12:14:02.097451	Exchange your real cash for fake cash
+chaotic_member	Caotico	2017-02-17T12:14:02.097451	Chaotic
+chuchu_adjective	Chuchu %s	2017-02-17T12:14:02.097451	Chuchu %s
+chuchu_adjective2	Chuchu ~A	2017-02-17T12:14:02.097451	Chuchu ~A
+chuchu_full	Manada Chuchu	2017-02-17T12:14:02.097451	Chuchu Pack
+chuchu_member	Chuchu	2017-02-17T12:14:02.097451	Chuchu
+chuchu_name	Chuchu	2017-02-17T12:14:02.097451	Chuchu
+cocktail	Cóctel	2017-02-17T12:14:02.097451	Cocktail
+combat_medic_desc	En el centro de la batalla los médicos de combate separan la vida de la muerte. Capaz de curar oficiales con la máxima eficiencia.	2017-02-17T12:14:02.097451	In the heat of battle only combat medics stand between life and death. Capable of healing of officers without readily available medical equipment.
+comics	Estantería de holocomics	2017-02-17T12:14:02.097451	Holocomics shelves
+comics_desc	Vende diversión anticuada	2017-02-17T12:14:02.097451	Sells old fashioned fun
+commercial_tier_1	Productos básicos I	2017-02-17T12:14:02.097451	Basic products I
+commercial_tier_2	Productos básicos II	2017-02-17T12:14:02.097451	Basic products II
+commercial_tier_3	Productos básicos III	2017-02-17T12:14:02.097451	Basic products III
+commercial_tier_4	Productos intermedios I	2017-02-17T12:14:02.097451	Intermediate products I
+commercial_tier_5	Productos intermedios II	2017-02-17T12:14:02.097451	Intermediate products II
+commercial_tier_6	Productos avanzados I	2017-02-17T12:14:02.097451	Advanced products I
+commercial_tier_7	Productos avanzados II	2017-02-17T12:14:02.097451	Advanced products II
+crafts_table	Taller de manualidades	2017-02-17T12:14:02.097451	Crafts workshop
+crafts_table_desc	Produce ropa y pequeños productos	2017-02-17T12:14:02.097451	Clothes and small crafts are made here
+crowd_control	Control de masas	2017-02-17T12:14:02.097451	Crowd control
+crowd_control_short	CM	2017-02-17T12:14:02.097451	CC
+crusantian_member	Crusantiano	2017-02-17T12:14:02.097451	Crusantian
+cryopod	Cryo pod	2017-02-17T12:14:02.097451	Cryo pod
+cryopod_desc	Permite a tus oficiales obtener un descanso completo en pocos segundos. Cuenta como cama de oficial. No es usable por visitantes.	2017-02-17T12:14:02.097451	Allows your officers to get a full night sleep in mere seconds. Counts as an officer bed with respect to spec demands. Cannot be used by visitors.
+cucurbian_member	Cucurbiante	2017-02-17T12:14:02.097451	Cucurbian
+dance_floor	Pista de baile	2017-02-17T12:14:02.097451	Dance floor
+dance_floor_desc	Solo disponible para formas de vida basadas en materia	2017-02-17T12:14:02.097451	Available only for matter-based life forms.
+dancing	Baile	2017-02-17T12:14:02.097451	Dancing
+decor_organicsamples	Mostrador de orgánicos	2017-02-17T12:14:02.097451	Organics display
+decor_weaponsrack2	Trofeos de guerra	2017-02-17T12:14:02.097451	War trophies
+delicatessen_expositor	Expositor de delicatessen	2017-02-17T12:14:02.097451	Delicatessen expositor
+delicatessen_expositor_desc	Expone dulces y deliciosas creaciones	2017-02-17T12:14:02.097451	Displays sweet and delicious creations
+delicatessen_kitchen	Atelier de delicatessen	2017-02-17T12:14:02.097451	Delicatessen atelier
+delicatessen_kitchen_desc	Confección dulce, sabrosa y de alta calidad.	2017-02-17T12:14:02.097451	Sweet, savory and high quality confectionery production.
+direct_desc	Un objetivo	2017-02-17T12:14:02.097451	Single target
+disco_bar	Disco bar	2017-02-17T12:14:02.097451	Disco bar
+disco_bar_desc	Sirve bebidas sofisticadas	2017-02-17T12:14:02.097451	Sophisticated drinks are served here
+disco_table	Mesa de disco	2017-02-17T12:14:02.097451	Disco table
+disco_table_desc	Relájate con una bebida sofisticada	2017-02-17T12:14:02.097451	Chill out with a fancy drink
+disease_cured	Enfermedad curada: ~A	2017-02-17T12:14:02.097451	Disease cured: ~A
+dizzy_sick	Marelapso	2017-02-17T12:14:02.097451	Dizzylapse
+dizzy_sick_desc	Me siento mareado	2017-02-17T12:14:02.097451	I feel very dizzy
+doctordesk	Despacho de doctor	2017-02-17T12:14:02.097451	Doctor desk
+doctordesk_desk	Los doctores esperan a sus pacientes en estas mesas y les asignan una lista de tratamientos	2017-02-17T12:14:02.097451	Doctors await for patients at this desk and give them a treatment checklist.
+electronics_workshop	Taller de electrónica	2017-02-17T12:14:02.097451	Electronics workshop
+electronics_workshop_desc	Manufactura de electrónica de consumo	2017-02-17T12:14:02.097451	Manufacture of consumer electronics
+electropet	Electromascota	2017-02-17T12:14:02.097451	Electropet
+electropet_display	Mostrador de electromascotas	2017-02-17T12:14:02.097451	Electropet display
+electropet_display_desc	Tu nueva mascota de alta tecnología, precio razonable y bajo mantenimiento te espera!	2017-02-17T12:14:02.097451	Your new high-tech, mid price, low maintenace friend is wating for you!
+enemy_member	Enemigo	2017-02-17T12:14:02.097451	Enemy
+event_invaders_warn3	Recibimos información de un grupo de asalto ~A que viene de ~A acercándose a la estación. Prepárate!	2017-02-17T12:14:02.097451	We have received reports of a ~A raiding party from ~A approaching our station. Be prepared!
+excessive_machine	Máquina excesiva	2017-02-17T12:14:02.097451	Excessive machine
+excessive_machine_desc	Se encarga de tus necesidades más íntimas. No la rompas!	2017-02-17T12:14:02.097451	Taking care of all your intimate needs. Don't break it!
+expectations_high	Alta expectación	2017-02-17T12:14:02.097451	High expectations
+expectations_huge	Enorme expectación	2017-02-17T12:14:02.097451	Huge expectations
+expectations_low	Baja expectación	2017-02-17T12:14:02.097451	Low expectations
+expectations_meet	~A (~A% conseguido)	2017-02-17T12:14:02.097451	~A (~A% meet)
+expectations_normal	Media expectación	2017-02-17T12:14:02.097451	Normal expectations
+expectations_very_high	Muy alta expectación	2017-02-17T12:14:02.097451	Very high expectations
+fake_relic	Reliquía falsa	2017-02-17T12:14:02.097451	Fake relic
+fancy_clothes	Ropa elegante	2017-02-17T12:14:02.097451	Fancy clothes
+fiction_program	Programa de ficci´øn	2017-02-17T12:14:02.097451	Fiction program
+floor_color_black	Negro	2017-02-17T12:14:02.097451	Black
+floor_color_cyan	Cián	2017-02-17T12:14:02.097451	Cyan
+floor_color_dark_blue	Azul oscuro	2017-02-17T12:14:02.097451	Dark blue
+floor_color_dark_green	Verde oscuro	2017-02-17T12:14:02.097451	Dark green
+floor_color_grey	Gris	2017-02-17T12:14:02.097451	Grey
+floor_color_light_blue	Azul claro	2017-02-17T12:14:02.097451	Light blue
+floor_color_light_green	Verde claro	2017-02-17T12:14:02.097451	Light green
+floor_color_lilac	Lila	2017-02-17T12:14:02.097451	Lilac
+floor_color_none	Ninguno	2017-02-17T12:14:02.097451	None
+floor_color_orange	Naranja	2017-02-17T12:14:02.097451	Orange
+floor_color_pink	Rosa	2017-02-17T12:14:02.097451	Pink
+floor_color_red	Rojo	2017-02-17T12:14:02.097451	Red
+floor_color_torquoise	Turquesa	2017-02-17T12:14:02.097451	Torquoise
+floor_color_violet	Violeta	2017-02-17T12:14:02.097451	Violet
+floor_color_white	Blanco	2017-02-17T12:14:02.097451	White
+floor_color_yellow	Amarillo	2017-02-17T12:14:02.097451	Yellow
+fuel_cell	Celda energética	2017-02-17T12:14:02.097451	Fuel cell
+gambling	Ludopatía	2017-02-17T12:14:02.097451	Gambling
+game_coins	Fichas de videojuego	2017-02-17T12:14:02.097451	Game coins
+gigantism	Gigantismo	2017-02-17T12:14:02.097451	Gigantism
+gigantism_desc	Quepo en las puertas?	2017-02-17T12:14:02.097451	Can I still pass through doors?
+goal_itemloot1_desc	Consigue 5 items de enemigos mientras exploras planetas	2017-02-17T12:14:02.097451	Loot 5 items by defeating enemies while exploring planets.
+goal_itemloot1_title	Consigue 5 items	2017-02-17T12:14:02.097451	Loot 5 items
+goal_itemloot2_desc	Consigue 80 items de enemigos mientras exploras planetas	2017-02-17T12:14:02.097451	Loot 80 items by defeating enemies while exploring planets.
+goal_itemloot2_title	Consigue 80 items	2017-02-17T12:14:02.097451	Loot 80 items
+goal_itemloot3_desc	Consigue 400 items de enemigos mientras exploras planetas	2017-02-17T12:14:02.097451	Loot 400 items by defeating enemies while exploring planets.
+goal_itemloot3_title	Consigue 400 items	2017-02-17T12:14:02.097451	Loot 400 items
+gogobot	Gogobot	2017-02-17T12:14:02.097451	Gogobot
+gogobot_desc	Movimientos de baile perfectos, al nanómetro	2017-02-17T12:14:02.097451	Perfect dance moves, down to a nanometer tolerance
+gold_token	Ficha dorada	2017-02-17T12:14:02.097451	Gold token
+green_token	Ficha verde	2017-02-17T12:14:02.097451	Green token
+gun_blorg_name	Blorg Estándar	2017-02-17T12:14:02.097451	Blorg Demolisher
+gun_zapper_name	Zapper	2017-02-17T12:14:02.097451	Stun ray
+heal_3	CuraMax Avanzado	2017-02-17T12:14:02.097451	FarHeal Advanced
+heal_4	MedXploder	2017-02-17T12:14:02.097451	MedXploder
+healing_desc	Curando a amigo	2017-02-17T12:14:02.097451	Healing friend
+health_tier_1	Sanidad básica	2017-02-17T12:14:02.097451	Basic health
+health_tier_2	Sanidad avanzada	2017-02-17T12:14:02.097451	Advanced health
+health_tier_3	Higiene avanzada	2017-02-17T12:14:02.097451	Advanced hygiene
+health_tier_4	Cirugía	2017-02-17T12:14:02.097451	Surgery
+health_tier_5	Bienestar termal	2017-02-17T12:14:02.097451	Thermal wellness
+health_tier_6	Regeneración total	2017-02-17T12:14:02.097451	Total regeneration
+historic_program	Programa histórico	2017-02-17T12:14:02.097451	Historic program
+holo	holo	2017-02-17T12:14:02.097451	holo
+holobooks	Hololibros	2017-02-17T12:14:02.097451	Holobooks
+holobooks_obj	Estantería de hololibros	2017-02-17T12:14:02.097451	Holobooks shelves
+holobooks_obj_desc	Sells all the knowledge in the galaxy in paper format. It's retro!	2017-02-17T12:14:02.097451	Sells all the knowledge in the galaxy in paper format. It's retro!
+holocomics	Holocomics	2017-02-17T12:14:02.097451	Holocomics
+holofiction	HoloFicción v19.2	2017-02-17T12:14:02.097451	HoloFiction v19.2
+holofiction_desc	Una enorme cantidad de diversión en 4D	2017-02-17T12:14:02.097451	An amazing amount of fun in 4D
+holohistorical	HoloHistoria v24.8	2017-02-17T12:14:02.097451	HoloHistory v24.8
+holohistorical_desc	Revive los tiempos antiguos	2017-02-17T12:14:02.097451	Revive ye olden times
+hospitality_job	Hospitalidad	2017-02-17T12:14:02.097451	Hospitality
+hospitality_tier_1	Cuartel	2017-02-17T12:14:02.097451	Barracks
+hospitality_tier_2	Dormitorios de oficiales	2017-02-17T12:14:02.097451	Officer bedrooms
+hospitality_tier_3	Motel	2017-02-17T12:14:02.097451	Motel
+hospitality_tier_4	Hotel de lujo	2017-02-17T12:14:02.097451	Luxury hotel
+hospitality_tier_5	Cryodescanso	2017-02-17T12:14:02.097451	Cryoresting
+hotel_bed_must_single	Solo una cama por habitación de hotel o motel	2017-02-17T12:14:02.097451	Only one bed per motel or hotel room
+hotel_checkin	Recepción hotel	2017-02-17T12:14:02.097451	Hotel check-in
+hotel_checkin_desc	Ya puedo usar habitaciones de hotel	2017-02-17T12:14:02.097451	I can use hotel rooms now
+hotelbed	Cama de hotel	2017-02-17T12:14:02.097451	Hotel bed
+hotelbed_desc	Cama de lujo para vistantes con dinero. Requiere de una mesa de recepción de hotel. No es usable por oficiales.	2017-02-17T12:14:02.097451	Luxury bed for affluent visitors. Requires an hotel check-in desk to be used. Cannot be used by officers.
+hotelcheckin	Recepción hotel	2017-02-17T12:14:02.097451	Hotel reception
+hotelcheckin_desc	Los visitantes han de registrarse en esta mesa y pagar antes de poder usar una cama de hotel.	2017-02-17T12:14:02.097451	Visitors must check-in here and pay before they can use an hotel bed.
+humans_member	Humano	2017-02-17T12:14:02.097451	Human
+hygienizer_basic	Higienizador 3000	2017-02-17T12:14:02.097451	Hygienizer 3000
+hygienizer_basic_desc	Mantiene a todo el mundo limpio y fresco	2017-02-17T12:14:02.097451	Keeps everybody clean and refreshed
+hygienizer_max	MegaDucha 5000	2017-02-17T12:14:02.097451	MegaShower 5000
+hygienizer_max_desc	Te deja tan limpio que no te vas a reconocer	2017-02-17T12:14:02.097451	Washes you so clean you may not recognize yourself
+hygienizer_plus	Ducha Delux	2017-02-17T12:14:02.097451	Shower Delux
+hygienizer_plus_desc	Mantiene a todo el mundo limpio y fresco, todavía más	2017-02-17T12:14:02.097451	Keeps everybody cleaner and refreshed-er
+inebriation	Embriaguez	2017-02-17T12:14:02.097451	Inebriation
+ingredient_of	Ingrediente de:	2017-02-17T12:14:02.097451	Ingredient of:
+item_prefix_epic	Épico	2017-02-17T12:14:02.097451	Epic
+item_prefix_legendary	Legendario	2017-02-17T12:14:02.097451	Legendary
+item_prefix_powerful	Poderoso	2017-02-17T12:14:02.097451	Powerful
+item_prefix_rare	Escaso	2017-02-17T12:14:02.097451	Rare
+item_prefix_strong	Fuerte	2017-02-17T12:14:02.097451	Strong
+jewellery	Joyería	2017-02-17T12:14:02.097451	Jewellery
+juice	Zumo	2017-02-17T12:14:02.097451	Juice
+jukebox	Jukebox	2017-02-17T12:14:02.097451	Jukebox
+jukebox_desc	Elige tu canción favorita y baila como si nadie te mirara	2017-02-17T12:14:02.097451	Pick your favorite song and dance like nobody's watching
+kb_set_target	Acción: elegir objetivo	2017-02-17T12:14:02.097451	Action: Set target
+knowledge	Conocimiento	2017-02-17T12:14:02.097451	Knowledge
+lemurian_member	Lemuriano	2017-02-17T12:14:02.097451	Lemurian
+luxury_clothes	Ropa elegante	2017-02-17T12:14:02.097451	Luxury clothes
+luxury_clothes_desc	Teijos de lujo provenientes de especies creadas a propósito para ser extinguidas	2017-02-17T12:14:02.097451	Luxurious fabrics from bioengineered species made extinct on purpose
+luxury_display	Exposito de lujo	2017-02-17T12:14:02.097451	Luxury display
+luxury_display_desc	Joyas y reliquias	2017-02-17T12:14:02.097451	Precious jewels and relics
+macarons	Macarons	2017-02-17T12:14:02.097451	Macarons
+mead	Aguamiel	2017-02-17T12:14:02.097451	Mead
+medical_analyzer	Analizador médico	2017-02-17T12:14:02.097451	Medical analyzer
+medical_analyzer_desc	Crea un análisis detallado de cualquier enfermedad o herida	2017-02-17T12:14:02.097451	Makes a detailed analysis of any injury or disease.
+medical_workshop	Laboratorio médico	2017-02-17T12:14:02.097451	Medical workshop
+medical_workshop_desc	Producción farmacéutica	2017-02-17T12:14:02.097451	Pharmaceutical production
+medus_adjective	Meductian %s	2017-02-17T12:14:02.097451	Meductian %s
+medus_adjective2	Meductian ~A	2017-02-17T12:14:02.097451	Meductian ~A
+medus_full	Meductian Noosfera	2017-02-17T12:14:02.097451	Meductian Noosphere
+medus_member	Meductianos	2017-02-17T12:14:02.097451	Meductian
+medus_name	Meductianos	2017-02-17T12:14:02.097451	Meductians
+metal_press	Prensa de metal	2017-02-17T12:14:02.097451	Metal press
+metal_press_desc	Producción masiva de metales. Puede contener trazas de pelos de los 80.	2017-02-17T12:14:02.097451	Heavy metal production. May contain traces of 80s hair.
+miniservo	Miniservo	2017-02-17T12:14:02.097451	Miniservo
+miniservo_display	Mostrador de miniservos	2017-02-17T12:14:02.097451	Miniservo display
+miniservo_display_desc	Un robot personal diminuto por un precio definitvamente no diminuto.	2017-02-17T12:14:02.097451	A tiny personal robot for a definitely not tiny price
+motel_checkin	Recepción motel	2017-02-17T12:14:02.097451	Motel check-in
+motel_checkin_desc	Ya puedo usar habitaciones de motel	2017-02-17T12:14:02.097451	I can use motel rooms now
+motelbed	Cama de motel	2017-02-17T12:14:02.097451	Motel bed
+motelbed_desc	Cama barata para visitantes poco exigentes. Requiere de una mesa de recepción de motel. No es usable por oficiales.	2017-02-17T12:14:02.097451	Cheap bed for not very discerning visitors. Requires a motel check-in desk to be used. Cannot be used by officers.
+motelcheckin	Recepción motel	2017-02-17T12:14:02.097451	Motel reception
+motelcheckin_desc	Los visitantes han de registrarse en esta mesa y pagar antes de poder usar una cama de motel.	2017-02-17T12:14:02.097451	Visitors must check-in here and pay before they can use a motel bed.
+mutosis	Mutosis	2017-02-17T12:14:02.097451	Mutosis
+mutosis_desc	Ese grano se me fue de las manos...	2017-02-17T12:14:02.097451	That zit got out of hand...
+narcolepsy	Narcolepsia	2017-02-17T12:14:02.097451	Narcolepsy
+narcolepsy_desc	Me quedo dormido sin motivo	2017-02-17T12:14:02.097451	I fall asleep without a reason
+need_booking	Necesito registrarme	2017-02-17T12:14:02.097451	Needs booking
+need_booking_desc	Necesito registrar una habitación 	2017-02-17T12:14:02.097451	I need to book a room to sleep
+neutral_member	Neutral	2017-02-17T12:14:02.097451	Neutral
+nogi_member	Nogi	2017-02-17T12:14:02.097451	Nogi
+non_walkable	No se puede caminar encima	2017-02-17T12:14:02.097451	Cannot be walked over
+orion_soda	Orion Soda	2017-02-17T12:14:02.097451	Orion Soda
+pallet_info_help	Cualquier factoria en el area de 3x3 alrededor del palet puede obtener sus recursos directamente	2017-02-17T12:14:02.097451	Any factory in the 3x3 area centered in the pallet can directly source its ingredients from it.
+photo_frames	Marcos de foto	2017-02-17T12:14:02.097451	Photo frames
+photobooth	Fotomatón	2017-02-17T12:14:02.097451	Photobooth
+photobooth_desc	Hazte una foto y obtenla impresa en un marco, como en la prehistoria	2017-02-17T12:14:02.097451	Take a photo and get a printed frame, like in prehistory.
+pills	Píldoras	2017-02-17T12:14:02.097451	Pills
+pinball	Pinball	2017-02-17T12:14:02.097451	Pinball
+pinball_desc	La bola es inteligente y tiene sentimientos, muesta un poco de respeto.	2017-02-17T12:14:02.097451	The ball is sentient and has feelings. Show some respect.
+pirates_member	Pirata	2017-02-17T12:14:02.097451	Pirate
+plain_clothes	Ropa simple	2017-02-17T12:14:02.097451	Plain clothes
+plain_clothes_obj	Estanterías de ropa	2017-02-17T12:14:02.097451	Clothes shelves
+plain_clothes_obj_desc	Smart casual para todos los días	2017-02-17T12:14:02.097451	Smart casual for everyday wearing
+planet_propaganda_desc	Aumenta la frecuencia con que visitan tu estación desde el sistema de este planeta	2017-02-17T12:14:02.097451	Increase the frequency of tourist ships that will visit your station starting from the planet's system.
+pleasure_program	Programa de placer	2017-02-17T12:14:02.097451	Pleasure program
+plus_soap	Jabón plus	2017-02-17T12:14:02.097451	Plus soap
+power_base_absorb	Absorción base: ~A	2017-02-17T12:14:02.097451	Absorb base: ~A
+power_base_control	Control de masas base: ~A	2017-02-17T12:14:02.097451	Crowd control base: ~A
+power_base_damage	Daño base: ~A	2017-02-17T12:14:02.097451	Damage base: ~A
+power_base_healing	Vida base: ~A	2017-02-17T12:14:02.097451	Healing base: ~A
+power_base_health	Cura base: ~A	2017-02-17T12:14:02.097451	Health base: ~A
+power_factor_absorb	Factor absorción: x~A	2017-02-17T12:14:02.097451	Absorb factor: x~A
+power_factor_control	Facto control de masas: x~A	2017-02-17T12:14:02.097451	Crowd control factor: x~A
+power_factor_damage	Factor daño: x~A	2017-02-17T12:14:02.097451	Damage factor: x~A
+power_factor_healing	Factor cura: x~A	2017-02-17T12:14:02.097451	Healing factor: x~A
+power_factor_health	Factor vida: x~A	2017-02-17T12:14:02.097451	Health factor: x~A
+pretentious_foods	Comida pretenciosa	2017-02-17T12:14:02.097451	Pretentious foods
+pretentious_foods_desc	Productos tan sabrosos que son ilegales en algunos planetas	2017-02-17T12:14:02.097451	Products so savory they may be illegal in some planets
+projectile_direct_desc	Un objetivo, Proyectil	2017-02-17T12:14:02.097451	Single target, Projectile
+projectile_explosive_desc	Area, Proyectil	2017-02-17T12:14:02.097451	Area, Projectile
+projectile_reactive_deesc	Area temporizada, Proyectil	2017-02-17T12:14:02.097451	Area over time, Projectile
+purifier_salts	Sales purificadoras	2017-02-17T12:14:02.097451	Purifier Salts
+reactive_area_desc	Area	2017-02-17T12:14:02.097451	Area
+recipe_difficulty	Dificultad:	2017-02-17T12:14:02.097451	Difficulty:
+recipe_mini	Receta:	2017-02-17T12:14:02.097451	Recipe:
+recreational_tier_1	Libreria I	2017-02-17T12:14:02.097451	Library I
+recreational_tier_2	Taberna I	2017-02-17T12:14:02.097451	Tavern I
+recreational_tier_3	Taberna II / Librería II	2017-02-17T12:14:02.097451	Tavern II / Library II
+recreational_tier_4	Arcade I	2017-02-17T12:14:02.097451	Arcade I
+recreational_tier_5	Disco I	2017-02-17T12:14:02.097451	Disco I
+recreational_tier_6	Disco II / Arcade II	2017-02-17T12:14:02.097451	Disco II / Arcade II
+recreational_tier_7	Casino I	2017-02-17T12:14:02.097451	Casino I
+recreational_tier_8	Holopuente I	2017-02-17T12:14:02.097451	Holodeck I
+recreational_tier_9	Holopuente II / Casino II	2017-02-17T12:14:02.097451	Holodeck II / Casino II
+red_token	Ficha roja	2017-02-17T12:14:02.097451	Red token
+regenerativechamber	Cámara de bionanitas	2017-02-17T12:14:02.097451	Bionanites chamber
+regenerativechamber_desc	El sistema médico más avanzado de la galaxia.	2017-02-17T12:14:02.097451	The most advanced medical care system in the galaxy.
+repair_parts	Recambios	2017-02-17T12:14:02.097451	Repair parts
+reputation_gain	Reputación ganada al partir:	2017-02-17T12:14:02.097451	Reputation gain on departing:
+reputation_hit	Reputación perdida al partir:	2017-02-17T12:14:02.097451	Reputation hit on departing:
+resource_tag_gambling_giving	Ludopatía	2017-02-17T12:14:02.097451	Gambling
+resource_tag_inebriation_giving	Produce embriaguez	2017-02-17T12:14:02.097451	Inebriation giving
+resource_tag_knowledge_giving	Otorga conocimiento	2017-02-17T12:14:02.097451	Knowledge giving
+resource_tag_power_absorb	Absorción activa	2017-02-17T12:14:02.097451	Active absorb
+resource_tag_power_control	Control activo	2017-02-17T12:14:02.097451	Active control
+resource_tag_power_damage	Daño activo	2017-02-17T12:14:02.097451	Active damage
+resource_tag_power_generic	Bonus de poder	2017-02-17T12:14:02.097451	Bonus power
+resource_tag_power_healing	Curación	2017-02-17T12:14:02.097451	Active healing
+resource_tag_power_health	Bonus de salud	2017-02-17T12:14:02.097451	Bonus health
+robot_member	Robot	2017-02-17T12:14:02.097451	Robot
+roulette	Ruleta	2017-02-17T12:14:02.097451	Roulette
+roulette_desc	La bola NO es inteligente, lo juramos. Utiliza fichas doradas.	2017-02-17T12:14:02.097451	This ball is NOT sentient, we swear. Uses gold tokens.
+sapper_desc	Saber como construir cosas también te hace saber como desmantelarlas. Rápidamente. Dentro de una bola de fuego.	2017-02-17T12:14:02.097451	Knowing how to build things also makes you know how to dismantle things. Fast. Inside a ball of fire.
+sauna	Sauna	2017-02-17T12:14:02.097451	Sauna
+sauna_desc	Bienestar milenario para el cuidado más efectivo	2017-02-17T12:14:02.097451	Millenia old wellness for the most effective care.
+security_desc	Expertos en armas y con mucha puntería, los agentes de seguirdad protegen la estación y sus expediciones.	2017-02-17T12:14:02.097451	Experts in guns and with a sharp eye, security officers protect the station and your galaxy expeditions.
+set target to ~A	Seleccionar ~A como objetivo	2017-02-17T12:14:02.097451	Set forced target to ~A
+set_target	Forzar un objetivo de combate	2017-02-17T12:14:02.097451	Force combat target
+set_target_label	Selecciona para elegir ~A como objetivo de combate	2017-02-17T12:14:02.097451	Click to set ~A preferred combat target
+shield_1_name	Escudo de daño	2017-02-17T12:14:02.097451	Damage shield
+shield_2_name	Super escudo de daño	2017-02-17T12:14:02.097451	Super damage shield
+shield_3_name	Ultra escudo de daño	2017-02-17T12:14:02.097451	Ultra damage shield
+ship_kind_bagelhead	Nave Bagelhead	2017-02-17T12:14:02.097451	Bagelhead ship
+ship_kind_blorg	Nave Blorg	2017-02-17T12:14:02.097451	Blorg ship
+ship_kind_chuchu	Nave Chuchu	2017-02-17T12:14:02.097451	Chuchu ship
+ship_kind_crusantian	Nave Crusantiana	2017-02-17T12:14:02.097451	Crusantian ship
+ship_kind_cucurbian	Nave Cucurbiana	2017-02-17T12:14:02.097451	Cucurbian ship
+ship_kind_droid	Nave Robot	2017-02-17T12:14:02.097451	Robot ship
+ship_kind_human	Nave Humana	2017-02-17T12:14:02.097451	Human ship
+ship_kind_lactian	Nave Lactiana	2017-02-17T12:14:02.097451	Lactian ship
+ship_kind_lemurian	Nave Lemuriana	2017-02-17T12:14:02.097451	Lemurian ship
+ship_kind_medus	Nave Medusiana	2017-02-17T12:14:02.097451	Medus ship
+ship_kind_nogi	Nave Nogi	2017-02-17T12:14:02.097451	Nogi ship
+ship_kind_pirates	Nave Pirata	2017-02-17T12:14:02.097451	Pirates ship
+shopping_list_desc	Lista de la compra:	2017-02-17T12:14:02.097451	Shopping list:
+slot_machine	Tragaperras	2017-02-17T12:14:02.097451	Slot machine
+slot_machine_desc	Qué mejor inversión para tu dinero que hacer que se enciendan unas lucecitas? Utiliza fichas verdes.	2017-02-17T12:14:02.097451	What a better investment for your money than making lights blink? Uses green tokens.
+slowpox	Virulentitud	2017-02-17T12:14:02.097451	Slowpox
+slowpox_desc	No puedo caminar más rápido!	2017-02-17T12:14:02.097451	I can't walk any faster than this!
+slug_pate	Pâté de babosa	2017-02-17T12:14:02.097451	Slug pâté
+sneaker_reveal_alert	Un ~A oculto ha infiltrado sin ser detectado tu estación y está atancado!	2017-02-17T12:14:02.097451	A hidden ~A has infiltrated undetected into your station and has revealed itself!
+soap_maker	Fábrica de jabón	2017-02-17T12:14:02.097451	Soap maker
+soap_maker_desc	Manufactura jabones utilizando reacciones químicas simples	2017-02-17T12:14:02.097451	Manufacture soaps using chemical reactions
+souvenirs	Souvenirs	2017-02-17T12:14:02.097451	Souvenirs
+souvenirs_obj	Tienda de souvenirs	2017-02-17T12:14:02.097451	Souvenir shop
+souvenirs_obj_desc	Una mota auténtica de polvo del asteroide. Increíble.	2017-02-17T12:14:02.097451	An authentic mote of dust from the asteroid ground. Amazing.
+spatials_member	Spatial	2017-02-17T12:14:02.097451	Spatial
+specops_desc	Oficiales de seguridad especializados en el manejo de las armas con eficiencia despiadada.	2017-02-17T12:14:02.097451	Security officers specialized in handling weapons with ruthless efficiency.
+specops_spec	SpecOps	2017-02-17T12:14:02.097451	SpecOps
+star_map	Mapa estelar	2017-02-17T12:14:02.097451	Star map
+stinky_cheese	Queso apestoso	2017-02-17T12:14:02.097451	Stinky cheese
+storage_area_desc	Marca el suelo alrededor de su ubicación como un área de almacenamiento para los diferentes tipos de artículos. No proporciona un control de existencias preciso.	2017-02-17T12:14:02.097451	Marks the room around its location as a floor storage area for resources and products. It does not provide precise stock control.
+storage_area_must_single2	Las areas de almacenamiento no pueden compartir habitación con otros objetos	2017-02-17T12:14:02.097451	Storage areas cannot share a room with other objects
+striking_warning	~A está en huelga porque sus necesidades no están siendo cubiertas. No trabajará y puede que sabotee las instalaciones.	2017-02-17T12:14:02.097451	~A is going on strike for awhile since their demands are not being met. They refuse to work and may sabotage station equipment.
+surgeon_table	Cápsula de cirugía	2017-02-17T12:14:02.097451	Surgery pod
+surgeon_table_desc	Permite a los doctores efectuar operaciones de cirugía en pacientes gravemente enfermos. Requiere sintórganos.	2017-02-17T12:14:02.097451	Enables doctors to do surgery and transplants on gravely ill patients. Requires Synthorgans.
+synth_organs	Sintórganos	2017-02-17T12:14:02.097451	Synthorgans
+tavern_bar	Barra de taberna	2017-02-17T12:14:02.097451	Tavern bar
+tavern_bar_desc	Como en tu casa!	2017-02-17T12:14:02.097451	Feel at home here!
+tavern_table	Mesa de taberna	2017-02-17T12:14:02.097451	Tavern table
+tavern_table_desc	Tómate tu bebida en un ambiente familiar	2017-02-17T12:14:02.097451	Have your drink in a homely atmosphere
+tending_workplace_action	Atendiendo ~A	2017-02-17T12:14:02.097451	Tending ~A
+tonicx	Tónico X	2017-02-17T12:14:02.097451	Tonic X
+travel_shop	Sección de viajes	2017-02-17T12:14:02.097451	Travel section
+travel_shop_desc	Mapas estelares y traductores automáticos	2017-02-17T12:14:02.097451	Maps of the galaxy and translator tablets
+treatment	Tratamiento médico	2017-02-17T12:14:02.097451	Medical treatment
+treatment_desc	El tratamiento de ~A requiere de estos pasos:	2017-02-17T12:14:02.097451	The treatment of ~A requires the following steps:
+tutorial_station_production_5_2	El panel de info de la fábrica ahora muestra el modo de creación de ordenes. Hay que elegir una receta, cocinemos algunas raciones. Elige la receta de raciones.	2017-02-17T12:14:02.097451	The factory info panel has changed to the order creation view. First select a recipe, let's cook some rations. Click the Cook Rations recipe to select it.
+universal_printer	Impresora universal	2017-02-17T12:14:02.097451	Universal printer
+universal_printer_desc	Imprime todo el material necesario para la tecnología de recreación	2017-02-17T12:14:02.097451	Prints everything required by recreational facilities
+vaccine	Vacuna	2017-02-17T12:14:02.097451	Vaccine
+visitor_bored	Aburrido	2017-02-17T12:14:02.097451	Bored
+visitor_bored_desc	Dónde está la diversión?	2017-02-17T12:14:02.097451	Where's the fun?
+visitor_fee	Entrada	2017-02-17T12:14:02.097451	Visitor fee
+visitor_gambler	Ludópata	2017-02-17T12:14:02.097451	Gambler
+visitor_gambler_desc	Una. Partida. Más. Hasta que caiga rendido... Creo que necesito otra copa.	2017-02-17T12:14:02.097451	One. More. Round. Until I need to sleep... I think I need a strong drink.
+visitor_gourmet	Gourmet	2017-02-17T12:14:02.097451	Gourmet
+visitor_gourmet_desc	Me interesa la comida y bebida que ofrece esta estación	2017-02-17T12:14:02.097451	I'm interested in the meals and drinks this station can offer
+visitor_holiday	De vacaciones	2017-02-17T12:14:02.097451	On holiday break
+visitor_holiday_desc	Espero tener tiempo de hacer de todo!	2017-02-17T12:14:02.097451	I hope I have enough time to do everything!
+visitor_mallrat	Adicto al centro comercial	2017-02-17T12:14:02.097451	Mall rat
+visitor_mallrat_desc	Ya me gustaría poder vivir aquí!	2017-02-17T12:14:02.097451	I wish I could live here!
+visitor_opinion_vital	Opinión	2017-02-17T12:14:02.097451	Opinion
+visitor_party	Fiestero	2017-02-17T12:14:02.097451	Party animal
+visitor_party_desc	FIEEEEEESTAAAAAA!!!	2017-02-17T12:14:02.097451	PAAAAAARTY OOOH YEAH!!!
+visitor_researcher	Investigador	2017-02-17T12:14:02.097451	Researcher
+visitor_researcher_desc	Busco el conocimiento	2017-02-17T12:14:02.097451	Seeking knowledge
+visitor_shopper	De compras	2017-02-17T12:14:02.097451	Shopper
+visitor_shopper_desc	Busco los mejores productos al mejor precio	2017-02-17T12:14:02.097451	Looking for the best deals
+visitor_sick	Enfermo	2017-02-17T12:14:02.097451	Sick
+visitor_sick_desc	Necesito atención médica	2017-02-17T12:14:02.097451	In need of medical care
+visitor_tired	Cansado	2017-02-17T12:14:02.097451	Tired
+visitor_tired_desc	Debo descansar y cuidarme un poco	2017-02-17T12:14:02.097451	Just need to rest and take care of myself
+visitor_wasted	Borracho	2017-02-17T12:14:02.097451	Wasted
+visitor_wasted_desc	Al bar o taberna más cercano, sin mirar atrás...	2017-02-17T12:14:02.097451	To the nearest tavern or bar, never look back...
+walk_order_desc	Orden de caminar	2017-02-17T12:14:02.097451	Walk order
+walkable	Caminable	2017-02-17T12:14:02.097451	Walkable
+world_enlargement	Mundo agrandado	2017-02-17T12:14:02.097451	World Enlargement
+world_enlargement_desc	Todo es enorme!	2017-02-17T12:14:02.097451	Everything is huge!
+xray	Rayos X	2017-02-17T12:14:02.097451	XRay
+xray_desc	Obtiene imágenes del interior del cuerpo de un paciente, para facilitar su diagnóstico.	2017-02-17T12:14:02.097451	Creates internal images of a patient body, to help with medical diagnose.
+Luxury_kitchen_desc	La mejor cocina del universo se prepara aquí	old	The absolute best cuisine in the universe is prepared here
+advanced_kitchen	Cocina avanzada	old	Advanced kitchen
+advanced_kitchen_desc	Prepara algunas comidas y bebidas muy buenas	old	Prepare some really great food and drinks
+aesthetics	Estética	old	Aesthetics
+aesthetics_feeling_high	Satisfecho	old	Pleased
+aesthetics_feeling_high_desc	Que estación tan pintoresca, me gusta	old	Such a quaint space station, I like it.
+aesthetics_feeling_low	Poco impresionado	old	Not impressed
+aesthetics_feeling_low_desc	Que feo es este sitio	old	This is one ugly place
+aesthetics_feeling_very_high	Asombrado	old	Admiring
+aesthetics_feeling_very_high_desc	Estoy rodeado de belleza	old	I am surrounded by beauty
+aesthetics_feeling_very_low	Asqueado	old	Disgusted
+aesthetics_feeling_very_low_desc	Mi entorno es horrible	old	My surroundings are terrible
+algae	Algas	old	Algae
+algae_node	Nodo de algas	old	Algae node
+aluminium	Aluminio	old	Aluminium
+aluminium_node	Nodo de aluminio	old	Aluminium node
+attacked	Atacado	old	Attacked
+attacked_desc	¡He sido atacado!	old	I was attacked!
+attacking_desc	Atacando enemigo	old	Attacking enemy
+attributes_c	Atributos:	old	Attributes:
+attrition_destroyed_object	~A ha sido destruido por enemigos en ~A	old	~A has been destroyed by enemies in ~A
+bad_sleep	Mal sueño	old	Bad sleep
+bad_sleep_desc	He dormido sin cama recientemente	old	I recently slept without a bed
+bar_bar	Bar	old	NOT FOUND IN GAME
+bar_bar_desc	Aquí se sirven sofisticadas bebidas	old	NOT FOUND IN GAME
+bar_table	Barra de bar	old	NOT FOUND IN GAME
+bar_table_desc	Relájate con un buen cóctel	old	NOT FOUND IN GAME
+bartender	Barman	old	NOT FOUND IN GAME
+base_price_a	Precio base: @ui_icon_20px_credits04.png ~A	old	Base price: @ui_icon_20px_credits04.png ~A
+basic_kitchen	Cocina básica	old	Basic kitchen
+basic_kitchen_desc	Prepara comida barata	old	Cooks cheap food
+basic_rations	Raciones básicas	old	Basic rations
+bed	Cama	old	NOT FOUND IN GAME
+bed_desc	Restaura el sueño	old	NOT FOUND IN GAME
+bio_extractor	Extractor de Bio	old	Bio Extractor
+bio_extractor_desc	Extrae recursos biológicos dentro de su área de influencia	old	Extract biological resources within its area of influence
+bistro_drinks	Bebidas de Bistró	old	Bistro drinks
+bistro_drinks_desc	La presentación más elegante para las mejores bebidas	old	The fanciest presentation for premium drinks
+bistro_food	Comidas de Bistró	old	Bistro food
+bistro_food_desc	Una manera exquisita de servir alimentos	old	An exquisite way to serve food
+bistro_table	Mesa de Bistró	old	Bistro table
+bistro_table_desc	Un asiento de lujo para disfrutar de un banquete	old	Luxury seating to enjoy a sumptuous meal
+blood_from	Sangre de ~A	old	Blood from ~A
+blorg_adjective	Blorg %s	old	Blorg %s
+blorg_adjective2	Blorg ~A	old	Blorg ~A
+blorg_name	Blorgs	old	Blorgs
+blorg_plutocracy	Plutocracia Blorg	old	Blorg Plutocracy
+broken	Enloquecido	old	Broken
+bugs	Bichos	old	Bugs
+bugs_node	Nodo de bichos	old	Bugs node
+build_builder_robot	Construir robot constructor	old	Build builder robot
+build_cargo_robot	Construir robot de carga	old	Build cargo robot
+build_cleaner_robot	Construir robot de limpieza	old	Build cleaner robot
+build_collector	Construye un colector cerca para extraer este recurso	old	Build a collector nearby to extract this resource
+build_firefighter_robot	Construir robot bombero	old	Build firefighter robot
+build_maintenance_robot	Construir robot de mantenimiento	old	Build maintenance robot
+build_security_robot	Construir robot de seguridad	old	Build security robot
+build_tool	Construir objetos	old	Build objects
+builder_robot	Robot constructor	old	Builder robot
+building	Construyendo	old	Building
+building_resources	Recursos necesarios:	old	Required resources:
+built_floor	Suelo construido	old	Built floor
+busy	Ocupado	old	Busy
+calmed_feeling	Calmado	old	Calmed down
+calmed_feeling_desc	Eso ha sido horrible, pero ahora me encuentro mejor	old	That was horrible, but now I feel better
+cancel	Cancelar	old	Cancel
+cancel_dismantling	Cancelar el desmontado	old	Cancel dismantling
+cancel_research	Cancelar Investigación	old	Cancel Research
+cant_build_exists_construction	Ya hay un objeto en esta ubicación	old	An object is already present in this location
+cant_build_invalid_floor	El suelo no es válido para el objeto seleccionado	old	Floor is not valid for the selected object
+cant_build_invalid_ground	El terreno no permite la construcción	old	Ground doesn't allow construction
+cant_build_limited_to_one	Sólo se permite un objeto de este tipo	old	Only one object of this kind is allowed
+cant_build_too_close_enemy	Los edificios enemigos están demasiado cerca para construir aquí	old	Enemy buildings are too close to build here
+canteen_drinks	Bebidas de Cantina	old	Canteen drinks
+canteen_drinks_desc	Bebidas disponibles para el consumo sin florituras innecesarias	old	Makes drinks available for consumption without any extra frills.
+canteen_food	Comidas de Cantina	old	Canteen food
+canteen_food_desc	Comida disponible para el consumo sin florituras innecesarias	old	Makes food available for consumption without any extra frills.
+canteen_table	Mesa de Cantina	old	Canteen table
+canteen_table_desc	Simple y utilitaria. Te sientas y comes.	old	Simple and utilitarian. You sit, you eat.
+cargo_hold	Bodega	old	Cargo hold
+cargo_robot	Robot de carga	old	Cargo robot
+ceilingcam	Cámara de techo	old	Ceiling camera
+ceilingcam_desc	Busca intrusos ocultos	old	Looks for hidden trespassers
+ceilingturret_desc	Torreta pequeña, poco potente	old	Small, low powered turret
+center_view	Centrar vista	old	Center view
+chaotic_adjective	Caótico %s	old	Chaotic %s
+chaotic_adjective2	Caótico ~A	old	Chaotic ~A
+chaotic_enemy	Enemigo Caótico	old	Chaotic Enemy
+chaotics	Caóticos	old	Chaotics
+claim_reward	Reclamar recompensa	old	Claim reward
+cleaner_robot	Robot de limpieza	old	Cleaner robot
+cleaning	Limpiando	old	Cleaning
+click_info	Haz clic para seleccionar cualquier entidad del juego y mostrar sus propiedades	old	Click to select any entity in the game and display its properties
+click_pick_officer	Haz clic para seleccionar a un oficial	old	Click to pick an officer
+combat	Combate	old	Combat
+confirm_cancel_research	¿Estás seguro? Si cancelas esta investigación se perderán los puntos de investigación actuales	old	Are you sure? If you cancel this research you will lose the current research points.
+controlled_stock	Stock controlado	old	Controlled stock
+cook_dessert	Cocinar Postre	old	NOT FOUND IN GAME
+cook_fine_soup	Cocinar Caldo fino	old	NOT FOUND IN GAME
+cook_luxury_dinner	Cocinar Ágape lujoso	old	NOT FOUND IN GAME
+cook_mystery_milk	Cocinar Leche misteriosa	old	NOT FOUND IN GAME
+cook_pizza	Cocinar Pizza	old	NOT FOUND IN GAME
+cook_rations2	Cocinar Raciones de carne	old	NOT FOUND IN GAME
+cook_rations22	Cocinar Raciones avanzadas de carne	old	NOT FOUND IN GAME
+cook_rations23	Cocinar Raciones avanzadas de vegetales	old	NOT FOUND IN GAME
+cook_rations3	Cocinar Raciones de vegetales	old	NOT FOUND IN GAME
+cook_rations32	Cocinar Raciones lujosas de carne	old	NOT FOUND IN GAME
+cook_rations33	Cocinar Raciones lujosas de vegetales	old	NOT FOUND IN GAME
+cook_sushi_roll	Cocinar Rollo de Sushi	old	NOT FOUND IN GAME
+cook_vegan_feast	Cocinar Festín vegano	old	NOT FOUND IN GAME
+cooking	Cocinando	old	Cooking
+corpse_desc	Este cadáver puede ser reciclado en una recicladora. Sabe a pollo.	old	This corpse can be recycled in a recycler. Tastes like chicken.
+corpse_of	Cadáver de ~A	old	Corpse of ~A
+corridor	Pasillo	old	Corridor
+corridor_desc	Conecta diferentes habitaciones	old	Connects different rooms
+crusantian_adjective	Crusantiano %s	old	Crusantian %s
+crusantian_adjective2	Crusantiano ~A	old	Crusantian ~A
+crusantian_bunch	Hato Crusantiano	old	Crusantian Bunch
+crusantian_name	Crusantianos	old	Crusantians
+cucurbian_adjective	Cucurbiante %s	old	Cucurbian %s
+cucurbian_adjective2	Cucurbiante ~A	old	Cucurbian ~A
+cucurbian_crop	Plantío Cucurbiante	old	Cucurbian Crop
+cucurbian_name	Cucurbiantes	old	Cucurbians
+current_research	Investigación actual: ~A ~A	old	Current research: ~A ~A
+current_research_none	No se está realizando ninguna investigación. Selecciona un grupo y haz clic en Iniciar Investigación.	old	No research is being performed. Select a group and click on Start Research.
+deliver_from_ground	Suelo construido	old	Ground
+deliver_from_ground_no	Los transportistas evitarán la entrega de recursos a este objeto cuando la fuente esté en el suelo o dentro de un área de almacenamiento	old	Haulers will avoid delivering resources to this object when the source is a stack lying on the ground or inside a storage area
+deliver_from_ground_yes	Los transportistas entregarán recursos a este objeto a partir de pilas de recursos del suelo o  de dentro de un área de almacenamiento	old	Haulers will deliver resources to this object from resource stacks lying on the ground or inside a storage area
+deliver_from_storage	Palés	old	Pallets
+deliver_from_storage_no	Los transportistas evitarán la entrega de recursos a este objeto cuando la fuente esté en un palé	old	Haulers will avoid delivering resources to this object when the source is a pallet
+deliver_from_storage_yes	Los transportistas entregarán recursos a este objeto a partir de pilas de recursos de dentro de un palé	old	Haulers will deliver resources to this object from inside pallets
+description	Descripción	old	Description
+desperate_warning	~A se siente muy mal y está a punto de enloquecer	old	~A is feeling very bad and is at risk of going desperate
+dessert	Postre	old	Dessert
+diner_table	Mesa de Cafetería	old	Diner table
+diner_table_desc	Encantadora y retro	old	Charming and retro
+disabled	Desactivado	old	Disabled
+dismantle	Desmontar	old	Dismantle
+dock_officer_info_label	Selecciona una nave para que atraque aquí. La carga será descargada en torno a este muelle y los oficiales desembarcarán aquí.	old	Select the officer ship to dock here. Cargo will be unloaded around this dock and officers will disembark here.
+dock_officer_select	Seleccionar nave	old	Select ship
+door	Puerta	old	Door
+door_desc	Controla el acceso a diferentes zonas de la estación	old	Control access to station areas
+drink_shop	Bebidas de Cafetería	old	Diner drinks
+drink_shop_desc	Aquí se sirven bebidas	old	Drinks are served here
+empty_slot	Ranura vacía	old	Empty slot
+enable_storage	Permitir almacenamiento de:	old	Enable storage of:
+enemy	Enemigo	old	Enemy
+enemy_adjective	Enemigo %s	old	Enemy %s
+enemy_adjective2	Enemigo ~A	old	Enemy ~A
+enemy_name	Enemigos	old	Enemies
+energy	Energía	old	Energy
+engineering	Ingeniería	old	Engineering
+erase_floor_tool	Borrar suelo	old	Erase floors
+erase_objects_tool	Borrar objetos	old	Erase objects
+event_invaders_alert	¡Un grupo de invasores ha llegado! ~A está atacando nuestra estación!	old	A raiding party has arrived! ~A are attacking our station!
+event_invaders_warn	Hemos recibido informes sobre un grupo de invasores que se aproxima nuestra estación. ¡Prepárate!	old	NOT FOUND IN GAME
+exhausted	Agotado	old	Exhausted
+exotic_infusion	Infusión exótica	old	Exotic infusion
+exploring	Explorando	old	Exploring
+extractor_info	Puede extraer:	old	Can extract:
+factory	Factoría	old	Factory
+fibers	Fibras	old	Fibers
+fibers_node	Nodo de fibras	old	Fibers node
+filtered_water	Agua filtrada	old	Filtered water
+fine_soup	Caldo fino	old	Fine soup
+fine_wine	Buen vino	old	Fine wine
+finish_other_research	Termina o cancela la investigación actual para empezar ést	old	Finish or cancel the current research to start this one
+firefighter	Bombero	old	Firefighter
+firefighter_robot	Robot bombero	old	Firefighter robot
+flee_desc	Huyendo aterrorizado	old	Fleeing in panic
+floor_tool	Construir suelo	old	Build floor
+fluid_extractor	Extractor de Fluidos	old	Fluid Extractor
+fluid_extractor_desc	Extrae recursos líquidos dentro de su área de influencia	old	Extract liquid and gaseous resources within its area of influence
+fruits	Frutos	old	Fruits
+fruits_node	Nodo de frutos	old	Fruits node
+fun	Fun	old	Fun
+fun_feeling_high	Excitado	old	Excited
+fun_feeling_high_desc	GUAU!!!	old	WOAH!!!
+fun_feeling_low	Aburrido	old	Bored
+fun_feeling_low_desc	La vida aquí es muy aburrida	old	Life here is very dull
+gastrodisaster	Gastrodesastre	old	Gastrodisaster
+gastrodisaster_desc	Mi estómago no está nada bien	old	My stomach is messed up
+gems	Gemas	old	Gems
+goal_bartender1_desc	Tus bármanes deben servir 42 copas en el bar. Pero en serio, la bebida y las drogas no son la respuesta al universo.	old	Your bartenders must serve 42 drinks in the bar. But really, drinks and drugs are not the answer to the universe.
+goal_bartender1_title	Sirve 42 copas en el bar	old	Serve 42 drinks in the bar
+goal_buildany1_desc	Construye 15 objetos y 135 baldosas de suelo.	old	Build 15 objects and 135 floor tiles.
+goal_buildany1_title	Comienza a construir tu estación	old	Start building your station
+goal_buildany2_desc	Construye 75 objetos y 675 baldosas de suelo.	old	Build 75 objects and 675 floor tiles.
+goal_buildany2_title	Construye una estación mediana	old	Build a medium station
+goal_buildany3_desc	Construye 200 objetos y 1800 baldosas de suelo.	old	Build 200 objects and 1800 floor tiles.
+goal_buildany3_title	Construye una estación grande	old	Build a big station
+goal_buildbar1_desc	Construye un bar, 3 mesas de bar y 2 pistas de baile.	old	Build a bar, 3 bar tables and 2 dance floors.
+goal_buildbar1_title	Construye un club de baile	old	Build a dance club
+goal_builddecorations1_desc	Construye 10 objetos decorativos	old	Build 10 decorations.
+goal_builddecorations1_title	Construye 10 decoraciones	old	Build 10 decorations
+goal_buildfactory1_desc	Construye un taller químico, una prensa de metal y un taller médico.	old	Build a chemical workshop, a metal press and a medical workshop.
+goal_buildfactory1_title	Construye una zona de trabajo básica	old	Build a basic workshop area
+goal_buildhospital1_desc	Construye una cama de hospital, un dispensador de medicamentos y haz 10 pastillas.	old	Build a hospital bed, a meds dispenser and make 10 pills.
+goal_buildhospital1_title	Construye un hospital simple	old	Build a stater hospital
+goal_buildliving1_title	Construye un hábitat básico	old	Build a basic living space
+goal_buildlogistics1_desc	Construye un área de almacenamiento, un palé y una recicladora	old	Build one storage area, one pallet and one recycler.
+goal_buildlogistics1_title	Construye los objetos logísticos básicos	old	Build basic logistic objects
+goal_buildplanet1_desc	Construye una embajada en la superficie de un planeta.	old	Build an embassy on the surface of a planet.
+goal_buildplanet1_title	Construye una embajada en un planeta	old	Build an embassy on a planet
+goal_buildplanet2_desc	Construye un centro de reclutamiento en la superficie de un planeta.	old	Build a recruitment center on the surface of a planet.
+goal_buildplanet2_title	Construye un centro de reclutamiento en un planeta	old	Build a recruitment center on a planet
+goal_buildsecurity1_desc	Construye una cámara y una puerta de seguridad.	old	Build one camera area and one security door.
+goal_buildsecurity1_title	Construye sistemas de seguridad básicos	old	Build basic security systems
+goal_cargo1_desc	Una o más de tus naves ha de descargar 60 unidades de cualquier tipo de carga.	old	Have one or more of your ships unload 60 units of any kind of cargo in your station.
+goal_cargo1_title	Descarga 60 unidades de carga	old	Unload 60 cargo units
+goal_cargo2_desc	Una o más de tus naves ha de descargar 800 unidades de cualquier tipo de carga.	old	Have one or more of your ships unload 800 units of any kind of cargo in your station.
+goal_cargo2_title	Descarga 800 unidades de carga	old	Unload 800 cargo units
+goal_cargo3_desc	Una o más de tus naves ha de descargar 12000 unidades de cualquier tipo de carga.	old	Have one or more of your ships unload 12000 units of any kind of cargo in your station.
+goal_cargo3_title	Descarga 12000 unidades de carga	old	Unload 12000 cargo units
+goal_clean1_desc	Limpia 100 áreas sucias. Asegúrate de que el trabajo de limpieza está habilitado para algunos de tus oficiales.	old	Clean 100 dirty areas. Make sure the cleaning job is enabled for some of your officers.
+goal_clean1_title	Limpia 100 áreas sucias	old	Clean 100 dirty areas
+goal_completed_alert	El objetivo <<~A>> se ha completado. Reclama tu recompensa en la ventana de Objetivos.	old	The goal <<~A>> has been completed. Claim its reward in the Goals window.
+goal_consumerism1_desc	Vende 100 cosas a visitantes usando los objetos de tienda. Sólo los productos de consumo cuentan, los productos vitales como la comida no contarán.	old	Sell 100 things to visitors, using shop objects. Only consumerist items are counted, vital items like food do not count for this goal.
+goal_consumerism1_title	Vende 100 cosas a los visitantes	old	Sell 100 things to visitors
+goal_cook1_desc	Tus oficiales deben utilizar una cocina para cocinar 10 raciones de cualquier tipo	old	Your officers must use a kitchen to cook 10 rations of any kind.
+goal_cook1_title	Cocina 10 raciones	old	Cook 10 rations
+goal_cook2_desc	Tus oficiales deben utilizar una cocina para cocinar 150 raciones de cualquier tipo	old	Your officers must use a kitchen to cook 150 dishes of any kind.
+goal_cook2_title	Cocina 150 raciones	old	Cook 150 dishes
+goal_cook3_desc	Tus oficiales deben utilizar una cocina para cocinar 1000 raciones de cualquier tipo	old	Your officers must use a kitchen to cook 1000 dishes of any kind.
+goal_cook3_title	Cocina 1000 raciones	old	Cook 1000 dishes
+goal_crew1_desc	En la pantalla de flota, cambia las ranuras de la tripulación de uno o varios naves, al menos 10 veces	old	In the fleet view, change the crew slots of one or more ships at least 10 times.
+goal_crew1_title	Cambiar la tripulación	old	Shuffle ship crew
+goal_dance1_desc	Esta estación ha vivido 200 bailes.	old	This station has seen 200 dances.
+goal_dance1_title	Dance fever	old	Dance fever
+goal_dock1_desc	La lanzadera de una nave debe atracar al menos 10 veces en la estación	old	A ship shuttle has docked at least 10 times in the station
+goal_dock1_title	Lanzaderas atracadas	old	Docked ship shuttles
+goal_doctor1_desc	Tus médicos deben cuidar a 10 pacientes en la cama del hospital	old	Your doctors must take care of 10 patients in the hospital bed.
+goal_doctor1_title	Cura a 10 pacientes	old	Heal 10 patients
+goal_extract1_desc	Haz que tus extractores extraigan 100 unidades de recursos bio, 100 unidades de recursos minerales y 100 unidades de recursos de fluidos en uno o más planetas.	old	Have your planet extractors extract 100 units of bio resources, 100 units of mineral resources and 100 units of fluid resources on one or more planets.
+goal_extract1_title	Extrae diferentes recursos	old	Extract different resources
+goal_galaxy1_desc	Desbloquea 3 sistemas en la pantalla de la galaxia. [DEV] Por ahora utiliza el botón de trucos dentro de cualquier sistema estelar ya desbloqueado	old	Open 3 start systems in the galaxy screen. [DEV] for now use the cheat button inside any already open star system
+goal_galaxy1_title	Desbloquea 3 sistemas	old	Open 3 star systems
+goal_jobs1_desc	Utiliza la matriz de trabajos en la estación para cambiar una asignación de trabajo 10 veces.	old	Use the job matrix in the station to change a job assignation 10 times.
+goal_jobs1_title	Cambiar trabajos	old	Shuffle job matrix
+goal_kill1_desc	Liquida a 20 miembros de una civilización que está en guerra o es hostil con contigo.	old	Kill 20 members of a civ which is at war or hostile with you.
+goal_kill1_title	Liquida a 20 enemigos	old	Kill 20 enemies
+goal_kill2_desc	Liquida a 140 miembros de una civilización que está en guerra o es hostil con contigo.	old	Kill 140 members of a civ which is at war or hostile with you.
+goal_kill2_title	Liquida a 140 enemigos	old	Kill 140 enemies
+goal_kill3_desc	Liquida a 900 miembros de una civilización que está en guerra o es hostil con contigo.	old	Kill 900 members of a civ which is at war or hostile with you.
+goal_kill3_title	Liquida a 900 enemigos	old	Kill 900 enemies
+goal_makedrink1_desc	Tus oficiales deben utilizar una cocina para hacer 10 zumos.	old	Your officers must use a kitchen to make 10 juices.
+goal_makedrink1_title	Prepara 10 zumos	old	Make 10 juices
+goal_makedrink2_desc	Tus oficiales deben utilizar una cocina para hacer 150 bebidas.	old	Your officers must use a kitchen to make 150 drinks.
+goal_makedrink2_title	Prepara 150 bebidas	old	Make 150 drinks
+goal_makedrink3_desc	Tus oficiales deben utilizar una cocina para hacer 1000 bebidas.	old	Your officers must use a kitchen to make 1000 drinks.
+goal_makedrink3_title	Prepara 1000 bebidas	old	Make 1000 drinks
+goal_makerobot1_desc	Tus oficiales deben utilizar una factoría de robots para construir un robot.	old	Your officers must use a robot factory to build a robot.
+goal_makerobot1_title	Construye un robot	old	Build a robot
+goal_planet1_desc	Aterriza al menos 3 veces en planetas, no importa su nivel.	old	Land at least 3 times on planets, no matter the level.
+goal_planet1_title	Aterriza 3 veces en planetas	old	Land 3 times on planets
+goal_planet2_desc	Aterriza al menos 3 veces en planetas de nivel 5 o superior.	old	Land at least 3 times on planets of level 5 or higher.
+goal_planet2_title	Aterriza 3 veces en planetas de nivel 5	old	Land 3 times on planets of level 5
+goal_planet3_desc	Aterriza al menos 3 veces en planetas de nivel 10 o superior.	old	Land at least 3 times on planets of level 10 or higher.
+goal_planet3_title	Aterriza 3 veces en planetas de nivel 10	old	Land 3 times on planets of level 10
+goal_planet4_desc	Aterriza al menos 3 veces en planetas de nivel 20 o superior.	old	Land at least 3 times on planets of level 20 or higher.
+goal_planet4_title	Aterriza 3 veces en planetas de nivel 20	old	Land 3 times on planets of level 20
+goal_progress	Progreso: ~A%	old	Progress: ~A%
+goal_ready_alert	El objetivo <<~A>> está ahora disponible.	old	The goal <<~A>> is now available.
+goal_recruit1_desc	Recluta a 5 oficiales nuevos en la pantalla de Personal. [DEV] revise this	old	Recruit 5 new officers in the Staff screen. [DEV] revise this
+goal_recruit1_title	Recluta a 5 oficiales nuevos	old	Recruit 5 new officers
+goal_recycle1_desc	Recicla 50 piezas de basura. Asegúrate de que tienes al menos una recicladora y que el trabajo de limpieza está habilitado para algunos de tus oficiales.	old	Recycle 50 pieces of litter. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers.
+goal_recycle1_title	Recicla 50 piezas de basura	old	Recycle 50 pieces of litter
+goal_recycle2_desc	Recicla 5 cadáveres. Asegúrate de que tienes al menos una recicladora y que el trabajo de limpieza está habilitado para algunos de tus oficiales. RIP	old	Recycle 5 corpses. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers. Yeah RIP.
+goal_recycle2_title	Recicla 5 cadáveres	old	Recycle 5 corpses
+goal_repair1_desc	Repara 20 objetos o robots dañados durante el curso de un combate o por mal funcionamiento.	old	Repair 20 objects or robots, damaged during the course of combat or from malfunction.
+goal_repair1_title	Repara 20 objetos o robots	old	Repair 20 objects or robots
+goal_reward	Recompensa: @ui_icon_20px_credits04.png ~A	old	Reward: @ui_icon_20px_credits04.png ~A
+goal_visitors1_desc	Haz que 10 visitantes aterricen en tu estación	old	Have 10 visitors land on your station
+goal_visitors1_title	Recibe 10 visitantes	old	Receive 10 visitors
+goal_visitors2_desc	Haz que 100 visitantes aterricen en tu estación	old	Have 100 visitors land on your station
+goal_visitors2_title	Recibe 100 visitantes	old	Receive 100 visitors
+goal_visitors3_desc	Haz que 1000 visitantes aterricen en tu estación	old	Have 1000 visitors land on your station
+goal_visitors3_title	Recibe 1000 visitantes	old	Receive 1000 visitors
+goal_vitals1_desc	Uno o más oficiales tiene que haber dormido, comido, bebido y haberse duchado 25 o más veces por cada tipo de actividad.	old	One or more officers have slept, had lunch, drank and showered 25 or more times, for each kind of activity.
+goal_vitals1_title	Cumpliendo las vitals básicas	old	Basic vitals are being met
+goals	Objetivos	old	Goals
+goals_why	Completa los objetivos a tu propio ritmo para explorar las herramientas y sistemas a tu disposición. HQ te recompensará cuando los completes.	old	Complete goals at your own pace to explore the tools and systems at your disposal. HQ will reward you when completing them.
+group_commercial	Comercial	old	Commercial
+group_eating	Comida y bebida	old	Food & drink
+group_factory	Producción	old	Production
+group_gardening	Jardinería	old	Gardening
+group_hygiene	Higiene	old	Hygiene
+group_misc	Otros	old	Others
+group_recreational	Recreativo	old	Recreational
+group_security	Seguridad	old	Security
+had_to_flee	Huyó aterrorizado	old	Ran away in panic
+had_to_flee_desc	Algo me asustó y tuve que huir	old	Something scared me and I ran away
+health	Salud	old	Health
+health_feeling_low	Herido	old	Wounded
+health_feeling_low_desc	Mis heridas duelen	old	My wounds hurt
+health_feeling_very_low	Malherido	old	Badly wounded
+health_feeling_very_low_desc	Mis heridas son graves	old	My wounds hurt very badly
+helium	Helio	old	Helium
+helium_node	Nodo de helio	old	Helium node
+home	Hogar	old	Home
+hospital_bed	Cama médica	old	Hospital bed
+hospital_bed_desc	Incluye sistemas médicos avanzados que requieren de un médico para operar	old	Includes advanced medical systems that require a doctor to operate
+hostile	Hostil	old	Hostile
+human_federation	Humanidad Civil	old	Human Civilians
+humans_adjective	Humano %s	old	Human %s
+humans_adjective2	Humano ~A	old	Human ~A
+humans_name	Humanos	old	Humans
+hunger	Hambre	old	Hunger
+hunger_feeling_high_desc	Esa comida era realmente buena!	old	That meal was really good!
+hunger_feeling_low	Muriendo de hambre	old	Starving
+hunger_feeling_low_desc	Tengo tanta hambre que duele	old	My hunger is hurting me
+hygiene	Higiene	old	Hygiene
+hygiene_feeling_high	Refrescado	old	Refreshed
+hygiene_feeling_high_desc	Esta limpieza es muy agradable	old	It's very pleasant to feel this clean
+hygiene_feeling_low	Olor asqueroso	old	Gross smelling
+hygiene_feeling_low_desc	La gente me evita, necesito una ducha	old	People avoid me, I need a shower
+in_progress	En progreso	old	In progress
+in_storage_area	En área de almacenamiento	old	In storage area
+in_use	En uso	old	In use
+info_tool	Info/zoom/desplazar	old	Info/zoom/pan
+input	Entrada	old	Input
+interiorturret	Torreta grande	old	Big turrret
+interiorturret_desc	Torreta de gran calibre	old	Large, high caliber turret
+inventory	Inventario	old	Inventory
+inventory_locked	Bloqueado: ~A	old	Locked: ~A
+inventory_stacks	Pilas: ~A	old	Stacks: ~A
+inventory_total	Total: ~A	old	Total: ~A
+item	Ítem	old	Item
+job_matrix_tool	Matriz de trabajos	old	NOT FOUND IN GAME
+job_warn_no_credits	No hay suficientes créditos.	old	Not enough credits.
+job_warn_no_recipe	Selecciona una receta para activar la producción.	old	Select a recipe to activate production.
+job_warn_no_resources	Uno o más recursos necesarios no se pueden entregar a este objeto.	old	One or more required resources cannot be delivered to this object.
+job_warn_wait_worker	A la espera de un trabajador cualificado.	old	Waiting for a qualified worker.
+k_thousands	K	old	K
+kb_squad_all	Seleccionar todos los miembros del equipo	old	Select all squad members
+kb_walk_to	Acción: Caminar a	old	NOT FOUND IN GAME
+lemurian_adjective	Lemuriano %s	old	Lemurian %s
+lemurian_adjective2	Lemuriano ~A	old	Lemurian ~A
+lemurian_domain	Dominio Lemuriano	old	Lemurian Domain
+lemurian_name	Lemurianos	old	Lemurians
+library_table	Mesa de biblioteca	old	Library table
+library_table_desc	Tranquilo y cómodo escritorio para la lectura	old	Calm and quiet table for reading
+locked	Bloqueado	old	Locked
+lunch_shop	Comidas de Cafetería	old	Diner food
+lunch_shop_desc	Aquí se sirven diferentes comidas	old	Food is served here
+luxury_dinner	Ágape lujoso	old	Luxury dinner
+luxury_kitchen	Cocina de lujo	old	Luxury kitchen
+m_millions	M	old	M
+maintenance_robot	Robot de mantenimiento	old	Maintenance robot
+make_exotic_infusion	Preparar Infusión exótica	old	NOT FOUND IN GAME
+make_fine_wine	Preparar Buen vino	old	NOT FOUND IN GAME
+make_fuel_cell	Fabricar Pila de combustible	old	Make fuel cell
+make_juice	Preparar Zumo	old	NOT FOUND IN GAME
+make_pills	Fabricar Píldoras	old	NOT FOUND IN GAME
+make_repair_part	Fabricar Pieza de recambio	old	Make repair part
+make_seaweed_juice	Preparar Zumo de algas	old	NOT FOUND IN GAME
+make_soap	Fabricar Jabón	old	NOT FOUND IN GAME
+max_stock	Stock máximo	old	Max stock
+meat	Carne	old	Meat
+meat_node	Nodo de carne	old	Meat node
+medicine	Medicina	old	Medicine
+meds_dispenser	Dispensador de medicamentos	old	Meds dispenser
+meds_dispenser_desc	Almacena suministros médicos y medicamentos	old	Stores medical supplies and drugs
+menu	Menú	old	NOT FOUND IN GAME
+miasma_touched	Afectado por miasma	old	Miasma affected
+miasma_touched_desc	Uf, este olor es repugnante	old	Ugh, this smell is disgusting
+microbiota	Microbiota	old	Microbiota
+microbiota_node	Nodo de microbiota	old	Microbiota node
+min_stock	Stock mínimo	old	NOT FOUND IN GAME
+mind	Ánimo	old	Mind
+mind_feeling_low	Totalmente loco	old	Out of my mind
+mind_feeling_low2	Miserable	old	Miserable
+mind_feeling_low_desc	YA NO AGUANTO MÁS!	old	I CAN'T TAKE THIS ANYMORE!
+mineral_extractor	Extractor de Mineral	old	Mineral Extractor
+mineral_extractor_desc	Extrae recursos minerales dentro de su área de influencia	old	Extract mineral resources within its area of influence
+mystery_milk	Leche misteriosa	old	Mystery milk
+name	Nombre	old	Name
+name_too_long	Nombre demasiado largo	old	Name is too long
+name_too_short	Nombre demasiado corto	old	Name is too short
+neutral	Neutral	old	Neutral
+neutral_adjective	Neutral %s	old	Neutral %s
+neutral_adjective2	Neutral ~A	old	Neutral ~A
+neutral_name	Neutrales	old	Neutrals
+next	Siguiente	old	Next
+nitrogen	Nitrógeno	old	Nitrogen
+nitrogen_node	Nodo de nitrógeno	old	Nitrogen node
+no	No	old	No
+nogi_adjective	Nogi %s	old	Nogi %s
+nogi_adjective2	Nogi ~A	old	Nogi ~A
+nogi_name	Nogis	old	Nogis
+nogi_tyrants	Tiranía Nogi	old	Nogi Tyrants
+not_number	No es un número	old	Not a number
+not_tutorial_planet	El tutorial de planeta sólo funciona en el planeta llamado Tutoland, en tu sistema principal.	old	The planet tutorial only works in the planet named Tutoland in your home system.
+nuclearkitchen	Cocina nuclear	old	Nuclear kitchen
+nuclearkitchen_desc	Sólo los científicos de alimentos más preparados pueden acercarse a esta cocina. Sus productos son de fuera de esta galaxia.	old	Only the most prepared food scientists can approach this kitchen. Its product is out of this universe.
+obj_in_way	Hay objetos por en medio, borrarlos primero.	old	There are objects in the way, erase them first.
+objects	Objetos	old	Objects
+officer	Oficial	old	Officer
+officer_died	El oficial ~A ha muerto	old	Officer ~A has died
+officer_dock_desc	Las naves espaciales propiedad de la estación pueden atracar aquí	old	Station-owned space ships can dock here
+oils	Aceites	old	Oils
+oils_node	Nodo de aceites	old	Oils node
+ok	OK	old	OK
+okay	De acuerdo	old	Okay
+output	Salida	old	Output
+pacifist	Pacifista	old	Pacifist
+pallet	Pallet	old	Pallet
+pallet_desc	Almacena una clase de artículo con control de valores máximo y mínimo	old	Stock one kind of item with control over max and min values
+passing_out	Desmayado	old	Passing out
+patient	Paciente	old	Patient
+pending	Pendiente	old	Pending
+pick_resource_pallet	Selecciona el recurso que este objeto debe mantener en stock	old	Select the resource this object must keep in stock
+picking_litter	Recogiendo basura	old	NOT FOUND IN GAME
+pirates_adjective	Pirata %s	old	Pirate %s
+pirates_adjective2	Pirata ~A	old	Pirate ~A
+pirates_ltd	Piratas S.L.	old	Pirates Ltd.
+pirates_name	Piratas	old	Pirates
+pizza	Pizza	old	Pizza
+planet_defensive_turret	Torreta de defensa	old	Defensive turret
+planet_defensive_turret_desc	Protege las inmediaciones de tus objetos frente a los ataques del enemigo	old	Protects nearby player built objects from the attacks of enemies
+planet_embassy	Embajada	old	Embassy
+planet_embassy_desc	Aumenta poco a poco y hasta un límite la reputación hacia la civilización local	old	Slowly increases our reputation towards the local civilization, up to a limit.
+planet_no_stocks	No hay stocks de recursos disponibles en este planeta, construye más extractores o espera a que comiencen la producción	old	No resource stocks are available in this planet, build more extractors or wait for them to start production
+planet_propaganda	Centro de publicidad	old	Ad Media Station
+planet_recruitment_center	Centro de reclutamiento	old	Recruitment center
+planet_recruitment_center_desc	Recluta a nuevos oficiales en este planeta, siempre y cuando la civilización sea amiga.	old	Recruits new officers from this planet, as long as we are friends with their civilization.
+planet_storage	Depósito	old	Storage
+planet_storage_current	~A unidades almacenadas	old	~A units stored
+planet_storage_max	~A unidades máximas	old	~A max units
+platinum	Platino	old	Platinum
+platinum_node	Nodo de platino	old	Platinum node
+press_esc_cancel	Pulsa Esc para cancelar	old	NOT FOUND IN GAME
+price	Precio	old	Price
+purchased	Comprado	old	NOT FOUND IN GAME
+rations_luxury	Raciones lujosas	old	Luxury rations
+rations_quality	Raciones avanzadas	old	Quality rations
+recipes	Recetas	old	Recipes
+recyler	Recicladora	old	Recycler
+recyler_desc	Destruye la basura y los desperdicios	old	Destroy litter and trash
+removed_floor	Suelo eliminado	old	Removed floor
+repair	Reparar	old	Repair
+required_points	Puntos necesarios: ~A	old	Required points: ~A
+required_tokens	Fichas necesarias: FIXME	old	Required tokens: FIXME
+research	Investigación	old	Research
+research_completed_alert	Investigación de <<~A ~A>> ha sido completada.	old	Research for <<~A ~A>> has been completed.
+research_points	Puntos de investigación: ~A of ~A	old	Research points: ~A of ~A
+research_tutorial	Tutorial de investigación	old	Research tutorial
+researchtable	Mesa de investigación	old	Research table
+researchtable_desc	Aquí los oficiales llevan a cabo investigaciones.	old	Officers conduct research here.
+resource	Recurso	old	Resource
+resource_node_info_reqs	Requiere	old	Requires
+resource_tag_bio	Materia prima biológica	old	Raw biological
+resource_tag_consumerist_product	Consumista	old	Consumerist
+resource_tag_drinkable	Bebible	old	Drinkable
+resource_tag_edible	Comestible	old	Edible
+resource_tag_fluid	Fluido	old	Fluid
+resource_tag_fun	Divertido	old	Fun giving
+resource_tag_gas	Gas	old	Gas
+resource_tag_liquid	Líquido	old	Liquid
+resource_tag_meds	Fármaco	old	Drug
+resource_tag_metal	Metal	old	Metal
+resource_tag_mineral	Mineral	old	Mineral
+resource_tag_organic	Orgánico	old	Organic
+resource_tag_product	Producto	old	Product
+resource_tag_readable	Leíble	old	Readable
+resource_tag_soap	Jabón	old	Soap
+restocking	Restocking	old	Restocking
+robot_adjective	Robot %s	old	Robot %s
+robot_adjective2	Robot ~A	old	Robot ~A
+robot_charger	Cargador de robots	old	Robot charger
+robot_charger_desc	Llenar con pilas de combustible para recargar la energía del robot.	old	Load with fuel cell to charge robot's energy.
+robot_factory	Fábrica de robots	old	Robot factory
+robot_factory_desc	Fabrica robots que realizan diferentes tipos de trabajos en la estación.	old	Manufacture robots that perform some jobs in the station.
+robot_name	Robots	old	Robots
+robot_union	Unión Robot	old	Robot Union
+room_10	Estilo Roadhouse	old	Roadhouse style
+room_11	Cubículo limpio	old	Clean cubicle
+room_12	Heavy metal	old	Heavy metal
+room_13	Taller ordenado	old	Neat workshop
+room_14	Palacio de cristal	old	Crystal palace
+room_15	El Mirador	old	The Skydeck
+room_16	Fontanero aficionado	old	Plumbing aficionado
+room_17	Cámara estéril	old	Sterile chamber
+room_18	Cuarto sólido	old	Solid quarters
+room_19	Área de servicio	old	Service area
+room_20	Cloaca Premium	old	Premium sewer
+room_21	Salón decadente	old	Decadent hall
+room_22	Estudio lujoso	old	Fancy studio
+room_23	Alcantarilla	old	Drain
+room_24	Suite	old	Suite
+room_25	Jardín del edén	old	Eden garden
+room_26	Azulejos prístinos	old	Pristine tiles
+room_27	Pink flamingos	old	Pink flamingos
+room_28	Arcadia	old	Arcadia
+room_29	Biblio paraíso	old	Book paradise
+room_30	Tuxedo	old	Tuxedo
+room_31	Técnico	old	Technical
+room_32	Acaparador	old	Doomsday prepper
+room_33	Templo jaspeado	old	Marble temple
+room_34	Nave económica	old	Budget ship
+room_35	Abandonado	old	Derelict
+room_36	Distopía I	old	Dystopia I
+room_37	Distopía II	old	Dystopia II
+room_38	Veranda Vegana	old	Vegan Veranda
+room_39	Utopía I	old	Utopia I
+room_40	Utopía II	old	Utopia II
+room_41	Tyrell Neon	old	Tyrell Neon
+room_42	Encanto rural	old	Barn nostalgia
+room_43	Winnebago	old	Winnebago
+room_44	Pomelo mecánico	old	Clockwork pomelo
+saw_corpse	Vio un cadáver	old	Saw a corpse
+saw_corpse_desc	Qué horror!	old	The horror, the horror...
+scan_alert	Intruso detectado en la estación!	old	Intruder detected in the station!
+seaweed_juice	Zumo de algas	old	Seaweed juice
+secscan	Escáner de seguridad	old	Security scanner
+secscan_desc	Escanea visitantes para detectar impostores	old	Scans visitors to detect impostors
+security_robot	Robot de seguridad	old	Security robot
+securitydoor	Puerta de seguridad	old	Security door
+securitydoor_desc	Puerta blindada para controlar el acceso	old	Strong door for controlling access
+seeds	Semillas	old	Seeds
+seeds_node	Nodo de semillas	old	Seeds node
+select	Seleccionar	old	Select
+select_recipe	Selecciona una receta para esta factoría:	old	NOT FOUND IN GAME
+ship_approach_progress	~A% progreso	old	~A% progress
+ship_no_stocks	Bodega vacía	old	NOT FOUND IN GAME
+ship_orders_delete_order	Eliminar la orden seleccionada	old	Delete selected order
+ship_orders_go_bridge	Abrir vista del puente	old	Open bridge view
+ship_orders_move_down	Mover hacia abajo la orden seleccionada	old	Move selected order down
+ship_orders_move_up	Mover hacia arriba la orden seleccionada	old	Move selected order up
+ship_orders_set_time	Establecer tiempo de espera de la orden seleccionada	old	Set selected order wait time
+ship_orders_show_target	Zoom en el objetivo de la orden seleccionada	old	Zoom into the selected order target
+ship_orders_start	Iniciar piloto automático	old	Start autopilot
+ship_orders_stop	Detener piloto automático	old	Stop autopilot
+ship_travel_progress	~0,2F parsecs / ETA ~As	old	~0,2F parsecs / ETA ~As
+shop_stock	Stock de la tienda	old	Shop stock
+shopping	Comprando	old	Shopping
+sleep	Dormir	old	Sleep
+sleep_feeling_high	Descansado	old	Rested
+sleep_feeling_high_desc	Lleno de energía tras un buen sueño	old	Full of energy after a good sleep
+sleep_feeling_low	Insomne	old	Sleepless
+sleep_feeling_low_desc	Estoy muy cansado y necesito dormir	old	I am very tired and I need to sleep
+slime	Limo	old	Slime
+social	Social	old	Social
+social_feeling_low	Aislado	old	Isolated
+social_feeling_low_desc	Nadie me habla	old	Nobody talks to me
+spa_tub	Piscina de inmersión	old	Immersion pool
+spa_tub_desc	Un baño relajante	old	A relaxing bath
+spatials_adjective	Spatials %s	old	Spatials %s
+spatials_adjective2	Spatials ~A	old	Spatials ~A
+spatials_crew	Los Spatials	old	The Spatials
+spatials_name	Los Spatials	old	The Spatials
+spores	Esporas	old	Spores
+spores_node	Nodo de esporas	old	Spores node
+squad_all_button	Selecciona a todos los miembros del equipo para dar órdenes grupales	old	Select all squad members to give group orders
+stance_is	Posición: ~A	old	Stance: ~A
+start_research	Iniciar Investigación	old	Start Research
+stocks_control	Control de stocks	old	Stocks control
+storage_area	Zona de almacenamiento	old	Storage area
+storage_status	Estado almacenamiento:	old	Storage status:
+sushi_roll	Rollo de sushi	old	Sushi roll
+system_name	Sistema ~A	old	System ~A
+take_off_tool	Despegar	old	Take off
+talked_feeling	Charló	old	Chatted
+talked_feeling_desc	Ha tenido una conversación interesante	old	Had an interesting conversation
+teleport_to	Teletransportarse a	old	Teleport to
+teleport_to_label	Haz clic para hacer que ~A se teletransporte a la posición seleccionada	old	Click to make ~A teleport to the selected position
+thirst	Sed	old	Thirst
+thirst_feeling_high	Saciado	old	Sated
+thirst_feeling_high_desc	Realmente necesitaba esa bebida	old	I really needed that drink
+thirst_feeling_low	Deshidratado	old	Dehydrated
+thirst_feeling_low_desc	Estoy mareado y siento que voy a desmayarme	old	I am dizzy and feel like passing out
+tier1	Nivel 1	old	Tier 1
+tier2	Nivel2	old	Tier 2
+tier3	Nivel 3	old	Tier 3
+tier4	Nivel 4	old	Tier 4
+tier5	Nivel 5	old	Tier 5
+tier6	Nivel 6	old	Tier 6
+tier7	Nivel 7	old	Tier 7
+tier8	Nivel 8	old	Tier 8
+tier9	Nivel 9	old	Tier 9
+titanium	Titanio	old	Titanium
+titanium_node	Nodo de titanio	old	Titanium node
+toggle_walls	Ocultar paredes	old	Toggle walls
+tutorial_galaxy_autopilot	Piloto automático	old	Autopilot
+tutorial_galaxy_basics	Básicos	old	Basics
+tutorial_galaxy_title	Tutorial de Galaxia	old	Galaxy Tutorial
+tutorial_planet_extraction	Extracción	old	Extraction
+tutorial_planet_squad	Básicos y órdenes de equipos	old	Basics and squad orders
+tutorial_planet_title	Tutorial de Planeta	old	Planet Tutorial
+tutorial_research_basics	Investigación	old	Research
+tutorial_research_title	Tutorial de Investigación	old	Research Tutorial
+tutorial_station_basics	Básicos	old	Basics
+tutorial_station_floor_tool	Herramienta de suelo	old	Floor tool
+tutorial_station_object_tool	Herramienta de objetos	old	Object tool
+tutorial_station_production	Producción	old	Production
+tutorial_station_stocks	Stocks	old	Stocks
+tutorial_station_vitals	Vitals	old	Vitals
+type_new_max_stock	Cantidad máxima de stock en este objeto	old	Maximum stock amount to keep in this object
+type_new_min_stock	Cantidad mínima de stock en este objeto	old	NOT FOUND IN GAME
+type_officer_name	Escribe el nombre del oficial:	old	Type the officer name:
+unavailable	No disponible	old	Unavailable
+unlocked	Desbloqueado	old	Unlocked
+valid_sources	Fuentes válidas:	old	Valid sources:
+value_too_high	Valor demasiado alto	old	Value too high
+value_too_low	Valor demasiado bajo	old	Value too low
+vegan_feast	Festín vegano	old	Vegan Feast
+visitor_departing_feeling	Marchándose	old	Departing
+visitor_departing_feeling_desc	Volviendo a casa	old	Going home
+visitor_dock_desc	Las naves espaciales de los visitantes pueden atracar aquí	old	Visitor space ships can dock here
+visitor_timer_feeling	Visitante	old	Visitor
+visitor_timer_feeling_desc	Solo estoy de paso	old	Here just temporarily
+vital_factors	Factores vitales:	old	Vital factors:
+vital_satisfy_desc	Satisfaciendo ~A	old	Satisfying ~A
+vitals	Vitals	old	Vitals
+vitamin_water	Agua vitaminada	old	Vitamin water
+vomit_from	Vómito de ~A	old	Vomit from ~A
+walk_to	Caminando a	old	Walk to
+walk_to_label	Haz clic para que ~A camine a la posición indicada	old	Click to make ~A walk to the selected position
+wanted	Buscado	old	NOT FOUND IN GAME
+water	Agua	old	Water
+water_node	Nodo de agua	old	Water node
+working	Trabajando	old	Working
+working_label	Trabajando: ~A	old	Working: ~A
+yes	Si	old	Yes

@@ -1,0 +1,234 @@
+error_bad_save	Error cargando partida: no se puede leer el archivo o está corrupto	2016-07-03T20:26:00.861377	Error loading game: cannot read the save file, or it is corrupted.
+error_missing_mods_1	Esta partida hace uso de los siguientes mods, que no están suscritos o instalados:\n	2016-07-03T20:26:00.861377	This save file makes use of the following mods which are not subscribed and/or installed:\n
+error_missing_mods_2	El juego puede bloquearse o mostrar errores si cargas esta partida. Continuar?	2016-07-03T20:26:00.861377	The game may crash or display errors if you try to load this save file. Load it anyway?
+failure	Fallo	2016-07-03T20:26:00.861377	Failure
+file_manager	Archivos de partida	2016-07-03T20:26:00.861377	File manager
+in_stasis	Conservado	2016-07-03T20:26:00.861377	In stasis
+key_unbind	Desasignar	2016-07-03T20:26:00.861377	Unbind
+ok	OK	2016-07-03T20:26:00.861377	OK
+options_menu	Opciones	2016-07-03T20:26:00.861377	Options
+staff_screen	Personal	2016-07-03T20:26:00.861377	Staff
+tile_construction_job	Construcción de suelo	2016-07-03T20:26:00.861377	Floor construction
+tile_destruction_job	Destrucción de suelo	2016-07-03T20:26:00.861377	Floor destruction
+yes	Si	2016-07-03T20:26:00.861377	Yes
+all_officers	Todos	2016-10-14T12:38:54.517333	All officers
+alphabetically	Alfabético	2016-10-14T12:38:54.517333	Alphabetically
+by_mind	Ánimo	2016-10-14T12:38:54.517333	By Mind
+galaxy_filter_cvis	Mostrar civs	2016-10-14T12:38:54.517333	Show civs
+galaxy_filter_none	La galaxia	2016-10-14T12:38:54.517333	Just the galaxy
+galaxy_filter_reps	Civs	2016-10-14T12:38:54.517333	Civs
+galaxy_filter_resources2	Recurso extraído: %s	2016-10-14T12:38:54.517333	Extracted resource: %s
+mind_tip	Ánimo: %d	2016-10-14T12:38:54.517333	Mind: %d
+missing_demands	Demandas pendientes	2016-10-14T12:38:54.517333	Missing demands
+pending_upgrade	Promoción pendiente	2016-10-14T12:38:54.517333	Pending upgrade
+ship_arrived_info	%s es ahora %s	2016-10-14T12:38:54.517333	%s is now %s
+ship_auto_status_run	Autopilotada	2016-10-14T12:38:54.517333	Autopiloted
+ship_auto_status_stop	Piloto manual	2016-10-14T12:38:54.517333	Manual piloting
+ship_distance_to_other	Distancia a %s (L%d): %0.2f parsecs	2016-10-14T12:38:54.517333	Distance to %s (L%d): %0.2f parsecs
+vsync	VSync	2016-10-14T12:38:54.517333	VSync
+vsync_default	No modificar	2016-10-14T12:38:54.517333	Default
+vsync_late	Tardío	2016-10-14T12:38:54.517333	Late
+vsync_off	Desactivar	2016-10-14T12:38:54.517333	Off
+vsync_on	Activar	2016-10-14T12:38:54.517333	On
+alert_delete	Borrar	2017-02-17T12:08:46.816707	Delete
+alert_minimize	Ocultar	2017-02-17T12:08:46.816707	Hide
+civs_points	%d / %d puntos	2017-02-17T12:08:46.816707	%d / %d points
+explore_warn_no_weapons	Ningún miembro de la tripulación tiene un arma. Estás seguro de querer visitar el planeta?	2017-02-17T12:08:46.816707	Nobody in the ship crew is equipped with a weapon. Are you sure want to explore the planet?
+galaxy_filter_none_show	Mostrar solo nombres	2017-02-17T12:08:46.816707	Show just galaxy labels
+galaxy_filter_show_civ_ships	Mostrar o ocultar naves visitantes	2017-02-17T12:08:46.816707	Toggle civ ships
+level_n_paren	(nivel %d)	2017-02-17T12:08:46.816707	(level %d)
+press_new_key	Pulsa la nueva tecla para:	2017-02-17T12:08:46.816707	Press the new key for:
+show_all_ships	Mostrar todas las naves	2017-02-17T12:08:46.816707	Show all ships
+show_only_spatials_ships	Mostrar solo naves de Spatials	2017-02-17T12:08:46.816707	Show only Spatials ships
+ugc_but_create	Crear	2017-02-17T12:08:46.816707	Create
+ugc_but_update	Actualizar	2017-02-17T12:08:46.816707	Update
+ugc_change_desc	Listado de cambios (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Update changelog (you can paste from a real text editor)
+ugc_changelog	Listado de cambios de la actualización:	2017-02-17T12:08:46.816707	Update changelog:
+ugc_create_new_mod	Crear un mod	2017-02-17T12:08:46.816707	Create new mod
+ugc_desc	Descripción:	2017-02-17T12:08:46.816707	Description:
+ugc_entry_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
+ugc_entry_desc_too_log	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
+ugc_entry_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
+ugc_entry_title_too_log	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
+ugc_error_conn	Error conectando con Steamworks	2017-02-17T12:08:46.816707	Error while connecting with Steamworks
+ugc_error_logged	Se necesita estar conectado a Steam para realizar esta acción	2017-02-17T12:08:46.816707	Must be logged into Steam to perform this action
+ugc_error_priv	No hay suficientes privilegios asociados a la cuenta de Steam	2017-02-17T12:08:46.816707	Not enough privileges with the current user account in Steam
+ugc_error_timeout	Tiempo de espera agotado conectando con Steamworks	2017-02-17T12:08:46.816707	Timeout while connecting with Steam
+ugc_folder	Carpeta actual:	2017-02-17T12:08:46.816707	Content folder:
+ugc_folder_desc	Selecciona una carpeta que contenga los archivos del mod	2017-02-17T12:08:46.816707	Select mod content folder to upload
+ugc_image	Imagen:	2017-02-17T12:08:46.816707	Image:
+ugc_mod_desc	Descripción (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Mod description (you can paste from a real text editor)
+ugc_mod_title	Título del mod	2017-02-17T12:08:46.816707	Mod title
+ugc_my_workshop	Mi Workshop	2017-02-17T12:08:46.816707	My Workshop
+ugc_tag_translation	Traducción	2017-02-17T12:08:46.816707	Translation
+ugc_tags	Tags:	2017-02-17T12:08:46.816707	Tags:
+ugc_title	Título:	2017-02-17T12:08:46.816707	Title:
+ugc_user_warning	Esta herramienta es para modders. Para instalar y jugar con mods usa el panel de Mods al crear una nueva partida.	2017-02-17T12:08:46.816707	This is a tool for mod developers. To install and activate mods for your games use the Mods panel in the New Game window.
+ugc_valid_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
+ugc_valid_desc_too_long	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
+ugc_valid_folder_req	La carpeta es obligatoria	2017-02-17T12:08:46.816707	A content folder is required
+ugc_valid_image_req	La imagen es obligatoria	2017-02-17T12:08:46.816707	An image file is required
+ugc_valid_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
+ugc_valid_title_too_long	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
+ugc_vis	Visibilidad:	2017-02-17T12:08:46.816707	Visibility:
+ugc_vis_friends	Amigos	2017-02-17T12:08:46.816707	Friends
+ugc_vis_private	Privado	2017-02-17T12:08:46.816707	Private
+ugc_vis_public	Público	2017-02-17T12:08:46.816707	Public
+ugc_warn_already	Se está creando o subiendo un mod, espera por favor	2017-02-17T12:08:46.816707	A Mod is still being created and/or updated, please wait
+alert_reports	Alertas e informes	old	Alerts and reports
+asteroid	Asteroide	old	Asteroid
+audio	Audio	old	Audio
+back	Atrás	old	Back
+bigger_ui	Mayor UI	old	Bigger UI
+body_level_in	%s (L%d) en %s	old	%s (L%d) in %s
+cancel	Cancelar	old	Cancel
+chance_of_success	Prob. de éxito	old	Chance of success
+civ_colony	Colonia	old	Colony
+civ_uninhabited	Deshabitado	old	Uninhabited
+civs	Civs	old	Civs
+complete	Completo	old	Complete
+continue	Continuar	old	Continue
+contract_bonus_chance	Bonus de prob. cuando eliges:	old	Bonus chance when picking:
+contract_completed	%s en %s (L%d) ha sido completado	old	%s in %s (L%d) has been completed
+contract_extra_xp_desc	Extra XP equivalente a %d%% de toda la XP de nivel %d para cada oficial (%s XP)	old	Extra XP equivalent to %d%% of all level %d experience for every officer (%s XP)
+contract_name_diff_place_level	%s dificultad en %s (L%d)	old	%s difficulty in %s (L%d)
+contract_price	%s precio contrato	old	%s contract price
+contract_resource_reward	%s %s (en stock: %s)	old	%s %s (in stock: %s)
+contract_rewards	Recompensas:	old	Rewards:
+contract_xp_officer	XP para cada oficial (%s XP @L%d)	old	XP for every officer (%s XP @L%d)
+controls	Controles	old	Controls
+dead	Muerto	old	Dead
+delete	Borrar	old	Delete
+developer	Developer	old	Developer
+developer_console	Developer console	old	Developer console
+disable	Desactivar	old	Disable
+disabled	Desactivado	old	Disabled
+display	Mostrar	old	Display
+done	Hecho	old	Done
+embassies	Embajadas	old	Embassies
+enable	Activar	old	Enable
+enable_music	Activar música	old	Enable music
+enable_sound_effects	Activar efectos de sonido	old	Enable sound effects
+enabled	Activado	old	Enabled
+enabled_user_mods	Mods activados:	old	Enabled user mods:
+error_deleting	Error borrando juego	old	Error deleting game
+explore	Explorar	old	Explore
+fleet	Flota	old	Fleet
+fullscreen	Pantalla completa	old	Fullscreen
+galaxy	Galaxia	old	Galaxy
+galaxy_filter_cargo	Mostrar recursos planetarios	old	Show planet resources
+galaxy_filter_resources	Recursos extraídos	old	NOT FOUND IN GAME
+galaxy_name	Galaxia %s	old	Galaxy %s
+game_guide	Guía de juego	old	Game guide
+game_speed_1x	Velocidad 1x	old	Game speed 1x
+game_speed_5x	Velocidad 5x	old	Game speed 5x
+goals	Objetivos	old	Goals
+hard	Difícil	old	Hard
+home_station	Estación base	old	Home station
+in_progress	En progreso	old	In Progress
+intro_1	5781 AD, Human Federation HQ, Earth\n \nGreetings officer. Your outstanding work as a Rank 5 Bureaucrat has been noticed by your superiors. You have been chosen to build and lead a new station in an uncharted corner of the galaxy.	old	5781 AD, Human Federation HQ, Earth\n \nGreetings officer. Your outstanding work as a Rank 5 Bureaucrat has been noticed by your superiors. You have been chosen to build and lead a new station in an uncharted corner of the galaxy.
+intro_2	Explore the surrounding systems and their planets, discover their resources, and deal with any opposition. You have the trust of the Human Federation!	old	Explore the surrounding systems and their planets, discover their resources, and deal with any opposition. You have the trust of the Human Federation!
+landing	Aterrizando...	old	Landing...
+landing_start	@ui_icon_30px_aterrizaje.png Explorar	old	@ui_icon_30px_aterrizaje.png Explore
+language	Idioma	old	Language
+level_n	Nivel %d	old	Level %d
+load_game	Cargar partida	old	Load game
+local	Local	old	Local
+macosx_experimental	Esta opción es experimental! No funcionará en sistemas multimonitor ni con algunos modos escalados.	old	This option is experimental! It won't work correctly with multi monitor setups and some scaled modes.
+macosx_retina	Mac OS X\nRetina	old	Mac OS X\nRetina Support
+main_menu	Menú principal	old	Main menu
+map_scroll_down	Mapa: desplazar abajo	old	Map scroll down
+map_scroll_left	Mapa: desplazar izquierda	old	Map scroll left
+map_scroll_right	Mapa: desplazar derecha	old	Map scroll right
+map_scroll_up	Mapa: desplazar arriba	old	Map scroll up
+menu	Menú	old	Menu
+mods	Mods	old	Mods
+mods_in_steam_workshop	Descubre mods en Steam Workshop	old	Discover mods in the Steam Workshop
+mood_10_of_10	Eufórico	old	Euphoric
+mood_1_of_10	Furioso	old	Angered
+mood_2_of_10	Fastidiado	old	Vexed
+mood_3_of_10	Triste	old	Unhappy
+mood_4_of_10	Apatético	old	Apathetic
+mood_5_of_10	Ennui	old	Ennui
+mood_6_of_10	Neutral	old	Neutral
+mood_7_of_10	Satisfecho	old	Satisfied
+mood_8_of_10	Feliz	old	Happy
+mood_9_of_10	Alegre	old	Joyful
+music_volume	Volumen música	old	Music volume
+new_game	Nueva partida	old	New game
+new_save_option	<Nueva partida guardada>	old	<New save>
+next	Siguiente	old	Next
+no	No	old	No
+no_user_mods	No se han encontrado mods. Descárgalos antes de intentar activarlos.	old	No user mods have been found. Download mods before trying to enable them.
+no_user_mods_enabled	No se ha activado ningún mod.	old	No user mods have been enabled.
+normal	Normal	old	Normal
+not_bound	Sin asignar	old	Not bound
+not_exploring_any_planet	No se está explorando ningún planeta.	old	Not exploring any planet
+options	Opciones	old	Options
+pause	Pausa	old	Pause game
+paused_game	El juego está en pausa	old	NOT FOUND IN GAME
+planet	Planeta	old	Planet
+planet_travel	@ui_icon_30px_fleet2.png Viajar	old	@ui_icon_30px_fleet2.png Travel
+pre_intro	Cansado de tu rutina diaria? Sientes que no has encontrado tu lugar en el unvierso? Tienes curiosidad por los sistemas exteriores? Si respondes SI a cualquiera de esas preguntas, no lo dudes, únete ahora!	old	Tired of your daily routine? Feeling like you haven't found yet your place in the universe? Curious about the outer star systems? If you answered yes to any of those questions don't hesitate and JOIN NOW!
+previous	Anterior	old	Previous
+processing	Procesando...	old	Processing...
+quit_game	Salir	old	Quit game
+recruit	Reclutar	old	Recruit
+rep_allied	Aliado	old	Allied
+rep_at_war	En guerra	old	At war
+rep_friendly	Amigo	old	Friendly
+rep_hostile	Hostil	old	Hostile
+rep_neutral	Neutral	old	Neutral
+rep_uncontested	Sin conflicto	old	Uncontested
+replay_introduction	Replay introduction	old	Replay introduction
+reputation	Reputación	old	Reputation
+research	Investigación	old	Research
+save_game	Guardar partida	old	Save game
+select_delete_slot	Selecciona que partida borrar	old	Select a slot to delete
+select_load_slot	Selecciona que partida cargar	old	Select a slot to load the game
+select_save_slot	Selecciona una posición para guardar	old	Select a slot to save the game
+select_ship	Selecciona nave	old	Select ship
+selected	Seleccionado	old	Selected
+ship_final_destination	Destino final: %s (L%d)	old	Final destination: %s (L%d)
+ship_not_available_empty	Nave sin tripulación	old	Ship has no crew
+ship_not_available_empty_only_home	Nave sin tripulación y solo disponible para viajar de vuelta a la estación base	old	Ship has no crew and it is only available for traveling back to Home.
+ship_not_available_full_morale	Uno o más oficiales no están en condiciones	old	One or more officers are not at full morale
+ship_not_available_invalid	Nave fuera de servicio	old	Ship is in an invalid state
+ship_not_available_some_already_exploring	Ya existe una nave explorando un planeta	old	A ship is already exploring a planet
+ship_not_available_this_already_exploring	Nave explorando un planeta	old	Ship is exploring a planet
+ship_order_item_subtile_home_m	Descarga, tripulación desembarca, esperar %dm	old	Unload cargo, crew disembarks, wait %dm
+ship_order_item_subtile_home_s	Descarga, tripulación desembarca, esperar %ds	old	Unload cargo, crew disembarks, wait %ds
+ship_order_item_subtile_other_m	Cargar, esperar %dm	old	Load cargo, wait %dm
+ship_order_item_subtile_other_s	Cargar, esperar %ds	old	Load cargo, wait %ds
+ship_order_item_tile	Viajar a %s (L%d) en %s	old	Travel to %s (L%d) in %s
+ship_order_item_tile_star	Viajar a %s (L%d)	old	Travel to %s (L%d)
+ship_orders_drag_icon	Arrastra este icono a un planeta o estrella para crear una nueva orden	old	Drag this icon to a planet or star to create a new order
+ship_orders_title	%s piloto automático	old	%s Autopilot
+ship_travel_approach	Aproximando %s (L%d)	old	Approaching %s (L%d)
+ship_travel_parked	Estacionada en %s (L%d)	old	Parked at %s (L%d)
+ship_travel_traveling	Viajando a %s (L%d)	old	Traveling to %s (L%d)
+ship_travel_unknow	Desconocido	old	Unknown
+ship_user_travel_msg	Nueva orden directa: el destino final de %s es ahora %s. Se ha parado el piloto automático.	old	New direct travel orders: %s final destination is now %s. Autopilot is now stopped.
+smaller_ui	UI pequeña	old	Smaller UI
+sound_effecs_volume	Volumen efectos de sonido	old	Sound effects volume
+speed_pause	Pausa	old	Pause game
+stack_of	Pila de %s	old	Stack of %s
+staff	Personal	old	Staff
+start_game	Empezar partida	old	Start game
+station	Estación	old	Station
+steam_workshop	Steam Workshop	old	Steam Workshop
+success	Éxito	old	Success
+sure_to_delete	Estás seguro de querer borrar %s?	old	Are you sure you want to delete %s?
+sure_to_load	Estás seguro de querer cargar %s? Los cambios no guardados en la partida actual se perderán.	old	Are you sure you want to load %s? Unsaved progress for the current game will be lost.
+sure_to_replace	Estás seguro de querer remplazar %s?	old	Are you sure you want to replace %s?
+system_name_level	Sistema %s (L%d)	old	System %s (L%d)
+ui_color	Color UI	old	UI color
+ui_scale	Escala UI	old	UI Scale
+video	Video	old	Video
+video_restart	Se ha de reiniciar el juego para aplicar los cambios	old	The Spatials needs to be restarted for any video changes to take effect.
+visit_thespatials_com	Visita thespatials.com	old	Visit thespatials.com
+welcome_emp	Bienvenidos!	old	Welcome!
+window	Ventana	old	Window
+window_size	Tamaño ventana	old	Window size
+zoom_in	Zoom+	old	Zoom in
+zoom_out	Zoom-	old	Zoom out
