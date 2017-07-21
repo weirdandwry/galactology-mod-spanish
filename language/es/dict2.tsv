@@ -23,7 +23,7 @@ tutorial_galaxy_autopilot_2	Esta es la ventana del piloto automático de la nave
 tutorial_galaxy_autopilot_3	Una nueva orden para ir al Hogar ha sido creada.\nAhora arrastra la nave de nuevo hacia Tutoland. Recuerda que puedes mover ventanas desde su barra de título si bloquean tu objetivo.	2016-07-03T20:30:59.196653	A new order has been created for visiting Home.\nNow drag it again to Tutoland. Remember you can move windows around by their title bar if they block your target.
 tutorial_galaxy_autopilot_4	Ahora haz clic en el botón Iniciar para empezar la ruta. La nave viajará sin que intervengas, se cargará automáticamente y entregará la carga cuando visite el Hogar.	2016-07-03T20:30:59.196653	Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo and delivering it when it visits Home.
 tutorial_galaxy_autopilot_5	¡Eso es! Puedes probar otras opciones. Puede ser una buena idea aumentar el tiempo de espera en la estación seleccionando la orden de Hogar y haciendo clic en el botón del reloj de arena para dar a tus oficiales más tiempo para descansar.	2016-07-03T20:30:59.196653	That's it! You can explore the other options. It may be a good idea to increase the wait time while in the station by selecting the Home order and clicking on the hourglass button, to give your officers more time to rest.
-tutorial_galaxy_autopilot_6	[DEV] Aún no hay mecanismo en el juego para desbloquear nuevos sistemas estelares . Por ahora utiliza el botón de truco en la vista del sistema para desbloquearlos.	2016-07-03T20:30:59.196653	[DEV] There's not mechanism in-game for unlocking new star systems. For now use the cheat button in the system view to unlock them.
+tutorial_galaxy_autopilot_6	[DEV] Aún no hay mecanismo en el juego para desbloquear nuevos sistemas estelares . Por ahora utiliza el botón de truco en la vista del sistema para desbloquearlos.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_galaxy_basics_1	Ah, la galaxia. Hay mucho por explorar. ¡Puede ser abrumador! Vamos a empezar poco a poco.\nEsta es la vista general de la galaxia. Puedes hacer clic en las estrellas para hacer zoom en su sistema planetario . Por ahora solo tu sistema principal está desbloqueado para viajar . Haz click en el.	2016-07-03T20:30:59.196653	Ah, the galaxy. So much to explore. It can be overwhelming! Let's start small.\nThis is the top level galaxy view. You can click on the stars to zoom into their planetary system. For now only your home system is open for travel. Click on it.
 tutorial_galaxy_basics_2	Por ahora, el foco principal de la galaxia es ser tu fuente de recursos primarios para  tus fábricas y cocinas. El filtro de Recursos mostrará los recursos disponibles en un planeta para que puedas planificar su exploración y controlar su producción.	2016-07-03T20:30:59.196653	At this stage, the main focus for the galaxy is to be your source of raw resources for your factories and kitchens. The Resources overlay will display the available resources in a planet, so you can plan your exploration and monitor their production.
 tutorial_galaxy_basics_4	Espera a que el nave se acerque y entre en órbita alrededor del planeta	2016-07-03T20:30:59.196653	Wait for the ship to approach and park in orbit around the planet.
@@ -31,7 +31,6 @@ tutorial_galaxy_basics_5	¡Vamos a explorar este planeta! Haz clic en Tutoland.	
 tutorial_galaxy_basics_6	Para explorar el planeta haz clic en el botón Explorar. Cambiarás a la pantalla Planeta y podrás empezar los tutoriales básicos de planeta.	2016-07-03T20:30:59.196653	To explore the planet click on the Explore button. You will switch to the planet screen and you can start the basic planet tutorials there.
 tutorial_galaxy_basics_7	Esas son las cosas básicas. Asegúrate de seguir con el tutorial de extracción en planeta, a continuación, y luego haz el tutorial de piloto automático aquí. Haz clic en Menú.	2016-07-03T20:30:59.196653	That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. Click Menu now.
 tutorial_menu_goals_hint	Consejo: Si has terminado con los tutoriales revisa los Objetivos en la barra de herramientas superior.	2016-07-03T20:30:59.196653	Tip: If you are done with tutorials check the Goals in the top toolbar.
-tutorial_planet_basics_1	¡Has aterrizado en el planeta tutorial!\nLos planetas son tu principal fuente de recursos, por lo que son vitales para tu supervivencia. Visita nuevos planetas para encontrar todo tipo de recursos	2016-07-03T20:30:59.196653	So you've landed on the tutorial planet!\nPlanets are your main source of resources, so they are vital for your survival. Visit new planets to find all kinds of resources.\n[DEV]FUTURE also mention: civs, tourism, tech tokens.
 tutorial_planet_basics_6	La barra de equipo está encima de tu barra de acción . Al hacer clic en el botón Todos en el lado derecho se selecciona todo tu equipo, y la siguiente orden de acción que des se aplicará a todos los miembros del equipo. El botón Todos está asociado de forma predeterminada a [Tab] y se puede utilizar de forma rápida desde cualquier otra herramienta.	2016-07-03T20:30:59.196653	The squad bar is on top of your action bar. By clicking on the All button in the right side it selects your entire squad, and the next action order you give will apply to every squad member. The All button is bound by default to [Tab] and can be quickly used while inside any other tool.
 tutorial_planet_extraction_1	Vamos a construir un extractor de recursos. Estos edificios persisten en la superficie del planeta y generarán periódicamente recursos listos para ser recogidos por tus naves. Debes construirlos cerca de uno o más nodos de recursos para que estos queden dentro de su área de influencia. Selecciona la herramienta de construcción.	2016-07-03T20:30:59.196653	Let's build a resource extractor. These buildings persist on the surface of the planet, and will periodically generate resources ready to be picked up by your space ships. You must build them near one or resource nodes, so the nodes are inside their area of influence. Select the build tool.
 tutorial_planet_extraction_4	Ahora el objeto debe ser construido por tus oficiales. Habrá que esperar a que terminen el trabajo. Recuerda que puedes utilizar la herramienta de teletransporte si han aterrizado lejos del objeto en construcción.	2016-07-03T20:30:59.196653	The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction.
@@ -107,7 +106,7 @@ auto_combat_true	~A lo controla el oficial automáticamente	2016-10-14T14:03:39.
 auto_desc	El combate se producirá automáticamente	2016-10-14T14:03:39.281009	Attacking will be done automatically
 auto_label	AUTO	2016-10-14T14:03:39.281009	AUTO
 auto_owner_change	Nuevo dueño: ~A	2016-10-14T14:03:39.281009	New owner: ~A
-available_seat	Asiento disponible	2016-10-14T14:03:39.281009	Available seat
+available_seat	Asiento disponible	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bar_workplace_action	Atender ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 base_spec	Spec base	2016-10-14T14:03:39.281009	Base spec
 bed_officer	Cama de oficial	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
@@ -137,7 +136,7 @@ chef_desc	Capaz de cocinar las recetas más complicadas. Cualquier estación ava
 chemist	Químico	2016-10-14T14:03:39.281009	Chemist
 chemist_desc	Fluidos burbujeantes y reacciones controladas son su día a día.	2016-10-14T14:03:39.281009	Bubbly fluids and controlled reactions are their day to day.
 chest_item	Ítem de pecho	2016-10-14T14:03:39.281009	Chest item
-combat_medic	Combat Medic	2016-10-14T14:03:39.281009	Combat Medic
+combat_medic	Combat Medic	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 confirm_cancel_ship_construction	Estás seguro? Si aceptas todo el trabajo existente se perderá.	2016-10-14T14:03:39.281009	Are you sure? If you cancel all the already finished work and resources will be lost.
 confirm_evolve_officer	Promocionar ~A a ~A no se puede deshacer! Provocará que ~A sea incapaz de realizar algunos trabajos, al tiempo que lo mejorará en otros. Estás seguro?	2016-10-14T14:03:39.281009	Upgrading ~A to ~A cannot be undone! It will make ~A unable to do some jobs, while being better in others. Are you sure?
 confirm_fire_officer	Firing ~A cannot be undone, the officer will be gone forever! Are you sure?	2016-10-14T14:03:39.281009	Firing ~A cannot be undone, the officer will be gone forever! Are you sure?
@@ -148,10 +147,10 @@ cooldown_amt	~0,1Fs espera	2016-10-14T14:03:39.281009	~0,1Fs cooldown
 corridor_build_info	Click y arrastra para dibujar un corredor, o click para dibujar una sola tile. Puedes pulsar Esc para cancelar mientras arrastras.	2016-10-14T14:03:39.281009	Click and drag a line to draw a corridor, or click to paint tile by tile. You can press Esc while dragging to cancel the line.
 crew_n	Tripulación: ~A asientos	2016-10-14T14:03:39.281009	Crew: ~A slots
 current_demands	Demandas:	2016-10-14T14:03:39.281009	Demands:
-current_experience_basic	Trabajo básico:	2016-10-14T14:03:39.281009	Basic jobs:
-current_experience_meta	Trabajo meta:	2016-10-14T14:03:39.281009	Meta jobs:
-current_experience_spec	Trabajo especializado:	2016-10-14T14:03:39.281009	Specialized jobs:
-current_owned_area	Dueño de suelo: ~A baldosas	2016-10-14T14:03:39.281009	Owned floor area: ~A tiles
+current_experience_basic	Trabajo básico:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+current_experience_meta	Trabajo meta:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+current_experience_spec	Trabajo especializado:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+current_owned_area	Dueño de suelo: ~A baldosas	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 current_ownership	Dueño de objetos:	2016-10-14T14:03:39.281009	Owned objects:
 decor_adscreen	Anuncios	2016-10-14T14:03:39.281009	Ads screen
 decor_balloons	Globos	2016-10-14T14:03:39.281009	Balloons
@@ -211,7 +210,7 @@ deliver_from_source	Fuente exclusiva	2016-10-14T14:03:39.281009	Exclusive source
 deliver_from_source_at	Fuente: ~A	2016-10-14T14:03:39.281009	Source: ~A
 deliver_from_source_cancel	Cancelar fuente exclusiva	2016-10-14T14:03:39.281009	Cancel exclusive source
 deliver_from_source_desc	Pulsa botón derecho en cualquier palet o zona de almancenamiento para seleccionar ese objeto como la fuente exclusiva para este objeto.	2016-10-14T14:03:39.281009	Right click on any pallet or storage area controller to set that object as the exclusive source for delivery of resources to this object.
-demand_amount	Cantidad	2016-10-14T14:03:39.281009	Amount
+demand_amount	Cantidad	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 demand_current	Actual	2016-10-14T14:03:39.281009	Current
 demand_wanted	Requerido	2016-10-14T14:03:39.281009	Wanted
 descending	Descendiente	2016-10-14T14:03:39.281009	Descending
@@ -228,15 +227,15 @@ empty	Vacío	2016-10-14T14:03:39.281009	Empty
 engineer	Ingeniero	2016-10-14T14:03:39.281009	Engineer
 engineer_desc	Si es metálico déjaselo a los ingenieros. Crear robots y naves espaciales son sus mejores habilidades.	2016-10-14T14:03:39.281009	If it has metal leave it to the engineers. Making robots and space ships are their most valued capabilities.
 entrance_fee	Precio de entrada	2016-10-14T14:03:39.281009	Entrance fee
-equi_item_no_reqs	~A no puede equipar ~A	2016-10-14T14:03:39.281009	~A cannot equip ~A
-equi_item_replace	Destruir ~A y reemplazarlo por ~A?	2016-10-14T14:03:39.281009	Destroy ~A and replace it with ~A?
-equi_item_slot_disabled	~A necesita una especificación superior para equipar ~A	2016-10-14T14:03:39.281009	~A needs a higher spec to equip ~A
+equi_item_no_reqs	~A no puede equipar ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+equi_item_replace	Destruir ~A y reemplazarlo por ~A?	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+equi_item_slot_disabled	~A necesita una especificación superior para equipar ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 equip_item_rmb	Equipar ~A	2016-10-14T14:03:39.281009	Equip ~A
 equip_matrix	Matriz de ítems	2016-10-14T14:03:39.281009	Equipment matrix
 exclude	Excluir	2016-10-14T14:03:39.281009	Exclude
 factory_info_no_recipes	Ninguna receta disponible para esta fabrica. Desbloquea recetas realizando más investigaciones.	2016-10-14T14:03:39.281009	No recipes are available for this factory. Unlock recipes by doing more research.
 feet_item	Ítem de pies	2016-10-14T14:03:39.281009	Feet item
-fire_officer	Despedir al oficial	2016-10-14T14:03:39.281009	Fire officer
+fire_officer	Despedir al oficial	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 flag_broken	Señalizar como roto para forzar su reparación	2016-10-14T14:03:39.281009	Flag as broken to force its repair
 fleet_too_many	La capacidad de tu flota ha llegado a su limite y no puedes construir más naves	2016-10-14T14:03:39.281009	Your fleet capacity is at its limit and you cannot build more ships
 floor_build_info	Haz clic y arrastra para trazar una sala rectangular, o haz clic para trazar baldosa por baldosa. Puedes pulsar Esc mientras arrastras para cancelar el rectángulo.	2016-10-14T14:03:39.281009	Click and drag to draw a rectangular room, or click to paint tile by tile. You can press Esc while dragging to cancel the rectangle.
@@ -316,7 +315,7 @@ hunger_feeling_high	Bien alimentado	2016-10-14T14:03:39.281009	Well fed
 implant_item	Ítem de implante	2016-10-14T14:03:39.281009	Implant item
 include	Incluir	2016-10-14T14:03:39.281009	Include
 industrialist	Industrialista	2016-10-14T14:03:39.281009	Industrialist
-industrialist_desc	Héroe del trabajo. Los Industrialistas pasan sus días trabajando en las pesadas fábricas de tu estación. Usan sus elevadas habilidades para construir naves espaciales o baratijas para turistas	2016-10-14T14:03:39.281009	Hero of labor. Industrialists spend their days toiling in the heavy factories of your station. They may make a space ship, or some crappy souvenir for tourists, with the highest skill.
+industrialist_desc	Héroe del trabajo. Los Industrialistas pasan sus días trabajando en las pesadas fábricas de tu estación. Usan sus elevadas habilidades para construir naves espaciales o baratijas para turistas	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 infinity	Infinito	2016-10-14T14:03:39.281009	Infinity
 infinity_short	Inf	2016-10-14T14:03:39.281009	Inf
 item_info_amount	Cantidad: ~A	2016-10-14T14:03:39.281009	Amount: ~A
@@ -334,9 +333,9 @@ job_matrix_per_job_prio_enabled	Programar prioridades de trabajo individuales pa
 job_matrix_prompt_officer_prio	Introduce valor prioritario para la tarea, 1 a 99, o 0 para desactivarla.	2016-10-14T14:03:39.281009	Enter priority value for the job, 1 to 99, or 0 for disabling it.
 job_speed	Velocidad: ~0,2Fx	2016-10-14T14:03:39.281009	Speed: ~0,2Fx
 job_warn_no_resources2	~A no puede ser entregado a este objeto.	2016-10-14T14:03:39.281009	~A cannot be delivered to this object.
-kb_build_rotate_left	Construir: Rotar la izquierda	2016-10-14T14:03:39.281009	Build: Rotate left
-kb_build_rotate_right	Construir: Rotar a la derecha	2016-10-14T14:03:39.281009	Build: Rotate right
-kb_squad_combat	Cambiar a modo de escuadrón de combate	2016-10-14T14:03:39.281009	Toggle squad combat mode
+kb_build_rotate_left	Construir: Rotar la izquierda	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+kb_build_rotate_right	Construir: Rotar a la derecha	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+kb_squad_combat	Cambiar a modo de escuadrón de combate	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 keep_slot_empty	Mantener vacía la ranura o asiento seleccionado	2016-10-14T14:03:39.281009	Keep the selected slot or seat empty
 litter	Basura	2016-10-14T14:03:39.281009	Litter
 litter_desc	Limpiadores con acceso a la recicladora pueden retirar estos desperdicios	2016-10-14T14:03:39.281009	Cleaners with access to a recycler can remove this litter
@@ -390,17 +389,17 @@ player_desc	Atacar estará bajo el control del jugador. Esta opción sólo se ap
 power	Energía	2016-10-14T14:03:39.281009	Power
 power_short	Energía	2016-10-14T14:03:39.281009	Power
 pr	RP	2016-10-14T14:03:39.281009	PR
-prod_current_queue	Cola actual:	2016-10-14T14:03:39.281009	Current queue:
+prod_current_queue	Cola actual:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 prod_global	Global	2016-10-14T14:03:39.281009	Global
 prod_global_desc	Las órdenes de producción serán añadidas automáticamente al seleccionar el stock global deseado en la ventana de Inventario	2016-10-14T14:03:39.281009	Production orders will be automatically added by setting the desired global stock amount in the Inventory window
 prod_local	Local	2016-10-14T14:03:39.281009	Local
 prod_local_desc	Los encargos de producción deben ser añadidos manualmente con el botón Crear	2016-10-14T14:03:39.281009	Production orders must be added manually with the Create button
 prod_production	Producción:	2016-10-14T14:03:39.281009	Production:
 prodction_queue_empty	Vacío	2016-10-14T14:03:39.281009	Empty
-producing_recipe	Produciendo:	2016-10-14T14:03:39.281009	Producing:
+producing_recipe	Produciendo:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 range_max	Rango: ~A tiles	2016-10-14T14:03:39.281009	Range: ~A tiles
 range_min_max	Rango: ~A a~A tiles	2016-10-14T14:03:39.281009	Range: ~A to ~A tiles
-received_salary	Salario recibido: ~A de ~A veces	2016-10-14T14:03:39.281009	Received salary: ~A out of last ~A times
+received_salary	Salario recibido: ~A de ~A veces	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 recipe_add_queue	Añadir a la cola	2016-10-14T14:03:39.281009	Add to queue
 recipe_duration	Duración: ~As	2016-10-14T14:03:39.281009	Duration: ~As
 recipe_failed	~A falló	2016-10-14T14:03:39.281009	~A failed
@@ -443,7 +442,7 @@ room_size_amt	~A baldosas	2016-10-14T14:03:39.281009	~A tiles
 rooms	Habitaciones	2016-10-14T14:03:39.281009	Rooms
 salary	Salario	2016-10-14T14:03:39.281009	Salary
 salary_amt	~A @ui_icon_20px_credits04.png por min.	2016-10-14T14:03:39.281009	~A @ui_icon_20px_credits04.png per min.
-salary_demands	@ui_icon_20px_owner_03.png Compensación	2016-10-14T14:03:39.281009	@ui_icon_20px_owner_03.png Compensation
+salary_demands	@ui_icon_20px_owner_03.png Compensación	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 sapper	Zapador	2016-10-14T14:03:39.281009	Sapper
 scientist	Científico	2016-10-14T14:03:39.281009	Scientist
 scientist_desc	Adeptos a investigar y experimentar. Manipular sustancias es su pan de cada día.	2016-10-14T14:03:39.281009	Adepts at researching and experimenting. Manipulating substances is their day to day.
@@ -498,18 +497,18 @@ slot_implant	Implante	2016-10-14T14:03:39.281009	Implant
 slot_name	Ranura: ~A	2016-10-14T14:03:39.281009	Slot: ~A
 slot_need_higher_spec	Necesita una especialización superior	2016-10-14T14:03:39.281009	Needs a higher spec
 spatials_shuttle	Lanzadera de aterrizaje Spatials	2016-10-14T14:03:39.281009	Spatials landing shuttle
-spec_no_more_parent	El oficial ha llegado al nivel máximo de especialización	2016-10-14T14:03:39.281009	The officer is at the top of their specialization
-spec_not_ready	Para ascender a ~A al menos una tarea debe alcanzar la XP requerida	2016-10-14T14:03:39.281009	To upgrade to ~A at least one job must reach its required XP
-spec_requires_xp_in	~A de ~A XP en ~A\n	2016-10-14T14:03:39.281009	~A XP in ~A\n
-spec_unlocks	Desloquea especialización:	2016-10-14T14:03:39.281009	Unlocks specs:
-spec_upgrade_to	Mejorar a\n~A	2016-10-14T14:03:39.281009	Upgrade to\n~A
+spec_no_more_parent	El oficial ha llegado al nivel máximo de especialización	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+spec_not_ready	Para ascender a ~A al menos una tarea debe alcanzar la XP requerida	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+spec_requires_xp_in	~A de ~A XP en ~A\n	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+spec_unlocks	Desloquea especialización:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+spec_upgrade_to	Mejorar a\n~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 speed_n	Velocidad: ~0,2F mParsec/s	2016-10-14T14:03:39.281009	Speed: ~0,2F mParsec/s
 squad_all	Todo	2016-10-14T14:03:39.281009	All
 squad_combat	Combate	2016-10-14T14:03:39.281009	Combat
 squad_combat_busy_desc	Sólo combate	2016-10-14T14:03:39.281009	Only combat
 squad_combat_button	Los miembros del escuadrón ignorarán todas las tareas y se centrarán en el combate	2016-10-14T14:03:39.281009	Squad members will ignore all tasks and will focus on combat
-staff_ui_current_spec	Especialización:	2016-10-14T14:03:39.281009	Current spec
-staff_ui_upgrade_spec	@ui_icon_20px_xp2.png Promoción	2016-10-14T14:03:39.281009	@ui_icon_20px_xp2.png Upgrade spec
+staff_ui_current_spec	Especialización:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+staff_ui_upgrade_spec	@ui_icon_20px_xp2.png Promoción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 steel	Acero	2016-10-14T14:03:39.281009	Steel
 steel_node	Nodo de acero	2016-10-14T14:03:39.281009	Steel node
 storage_area_must_single	Sólo un almacén por habitación.	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
@@ -527,7 +526,6 @@ tutorial_planet_basics_4	La barra de acción aparece cuando la entidad seleccion
 tutorial_planet_basics_5	Si quieres que tus oficiales lleguen a un sitio difícil, siempre puedes utilizar la herramienta de teletransporte. Fíjate cómo ésta y otras acciones anuncian un keybind en su información (T para Teletransportarse a). Haz uso de las asociaciones de teclas para emitir órdenes rápidamente.	2016-10-14T14:03:39.281009	If you want your officers to reach a difficult spot, you can always use the teleporter tool. Notice how this and other actions advertise a keybind in their tooltip (by default it's T for Teleport). Make use of keyboard bindings to quickly issue orders.
 tutorial_planet_basics_7	Todos tus oficiales están armados y preparados, en modo automático. Atacarán automáticamente a los enemigos o curarán a sus amigos mientras se encuentren en su radio de acción, sin necesidad de darles órdenes. Puedes hacer shift-click para activar o desactivar este modo en los botones de acción en la barra inferior, y entonces usar esos botones tu mismo. También puedes sub-seleccionar miembros de tu squad haciendo shift-click en sus mini botones.	2016-10-14T14:03:39.281009	All your officers are armed and ready, and in full auto mode. They will engage enemies or heal friendlies that are in range without your input. You can shift-click any action button to enable or disable this auto mode, then use the action buttons yourself to control attacks and healing. You can split your squad by changing the squad selection with shift-click on the squad buttons.
 tutorial_planet_extraction_2	Ahora haz clic en el objeto resaltado: el Extractor de Bio.	2016-10-14T14:03:39.281009	Now click on the highlighted object: the extractor.
-tutorial_planet_extraction_3	Este edificio se utiliza para extraer recursos biológicos del planeta. El suelo destacado está cerca de algunos nodos de frutas y verduras, haz clic en él para construir el extractor. Al menos un nodo debe quedar dentro del círculo de su área de influencia. Recuerda que puedes seleccionar a todo tu equipo con [Tab] y luego teletransportarlos cerca con [T].	2016-10-14T14:03:39.281009	This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [Tab] then teleport [T] them nearby.
 tutorial_station_basics_2	Desplázate alrededor de tu estación espacial pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2016-10-14T14:03:39.281009	Scroll around your space station by using the WASD keys. Zoom in and out using the mouse wheel.
 tutorial_station_production_5	La pestaña de factoría permite cambiar la receta de la cocina seleccionada. Por defecto no hay recetas seleccionadas y la cocina está apagada. Ponla a cocinar raciones de verduras haciendo clic en el botón resaltado.	2016-10-14T14:03:39.281009	The factory tab allows to add new production orders to the selected kitchen. By default its production queue has no orders and the kitchen is disabled. Let's create a new order. Click the Create order button.
 tutorial_station_production_5_3	Ahora tenemos que indicar la cantidad de veces que se preparará esta receta. Haz clic en el indicador del numero y escribe 3 cuando te lo pida.	2016-10-14T14:03:39.281009	Now we need to set the amount of times we ran to make this recipe. Click the number label and enter 3 when prompted.
@@ -567,13 +565,13 @@ group_decor	Decoración y jardín	2016-10-15T18:36:49.149605	Decoration and gard
 group_facilities	Instalaciones y seguridad	2016-10-15T18:36:49.149605	Facilities and security
 group_health	Salud e higiene	2016-10-15T18:36:49.149605	Health and hygiene
 group_sleeping	Hospedaje	2016-10-15T18:36:49.149605	Hospitality
-kb_action_1	Acción: ítem activo 1	2016-10-15T18:36:49.149605	Action: Active item 1
-kb_action_2	Acción: ítem activo 2	2016-10-15T18:36:49.149605	Action: Active item 2
-kb_action_3	Acción: ítem activo 3	2016-10-15T18:36:49.149605	Action: Active item 3
-kb_action_4	Acción: ítem activo 4	2016-10-15T18:36:49.149605	Action: Active item 4
-kb_action_5	Acción: ítem activo 5	2016-10-15T18:36:49.149605	Action: Active item 5
-kb_action_6	Acción: ítem activo 6	2016-10-15T18:36:49.149605	Action: Active item 6
-kb_teleport_to	Acción: Teletransportarse a	2016-10-15T18:36:49.149605	Action: Teleport to
+kb_action_1	Acción: ítem activo 1	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_action_2	Acción: ítem activo 2	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_action_3	Acción: ítem activo 3	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_action_4	Acción: ítem activo 4	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_action_5	Acción: ítem activo 5	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_action_6	Acción: ítem activo 6	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+kb_teleport_to	Acción: Teletransportarse a	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 make_filtered_water	Preparar Agua filtrada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 make_vitamin_water	Preparar Agua vitaminada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 missing_demands	Falta compensación	2016-10-15T18:36:49.149605	Missing demands
@@ -593,9 +591,8 @@ press_esc_cancel2	\nPulsa Esc botón derecho del ratón para cancelar	2016-10-15
 purchases	Compras	2016-10-15T18:36:49.149605	Purchases
 recipe_order_amount	Introduce cuantas veces quieres producir esta receta, o -1 para infinitas veces.	2016-10-15T18:36:49.149605	How many times to produce the recipe, or -1 for infinite times.
 recipe_order_amount_tip	Introduce cuantas veces quieres producir esta receta	2016-10-15T18:36:49.149605	How many times to produce the recipe
-spec_disallows	Prohibir el trabajo en:	2016-10-15T18:36:49.149605	Disallows working on:
-spec_of_amt_requires_xp_in	~A de ~A XP en ~A\n	2016-10-15T18:36:49.149605	~A of ~A XP in ~A\n
-spec_requires	Requiere XP en una tarea:	2016-10-15T18:36:49.149605	Requires XP in one job:
+spec_of_amt_requires_xp_in	~A de ~A XP en ~A\n	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
+spec_requires	Requiere XP en una tarea:	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 tutorial_station_floor_tool_3_2	Consejo: Puedes presionar mayúsculas para cambiar la herramienta de construcción por el borrador de suelos. También puedes pulsar Esc mientras la arrastras para cancelarla.	2016-10-15T18:36:49.149605	Tip: You can press shift to toggle the build floor tool into the floor eraser. You can press Esc while dragging to cancel it.
 uncompensated	Sin compensación	2016-10-15T18:36:49.149605	Uncompensated
 value_higher_min	El valor ha de ser superior a la cantidad mínima	2016-10-15T18:36:49.149605	Value must be higher than min amount
@@ -640,7 +637,7 @@ chuchu_full	Manada Chuchu	2017-02-17T12:14:02.097451	Chuchu Pack
 chuchu_member	Chuchu	2017-02-17T12:14:02.097451	Chuchu
 chuchu_name	Chuchu	2017-02-17T12:14:02.097451	Chuchu
 cocktail	Cóctel	2017-02-17T12:14:02.097451	Cocktail
-combat_medic_desc	En el centro de la batalla los médicos de combate separan la vida de la muerte. Capaz de curar oficiales con la máxima eficiencia.	2017-02-17T12:14:02.097451	In the heat of battle only combat medics stand between life and death. Capable of healing of officers without readily available medical equipment.
+combat_medic_desc	En el centro de la batalla los médicos de combate separan la vida de la muerte. Capaz de curar oficiales con la máxima eficiencia.	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 comics	Estantería de holocomics	2017-02-17T12:14:02.097451	Holocomics shelves
 comics_desc	Vende diversión anticuada	2017-02-17T12:14:02.097451	Sells old fashioned fun
 commercial_tier_1	Productos básicos I	2017-02-17T12:14:02.097451	Basic products I
@@ -671,7 +668,7 @@ direct_desc	Un objetivo	2017-02-17T12:14:02.097451	Single target
 disco_bar	Disco bar	2017-02-17T12:14:02.097451	Disco bar
 disco_bar_desc	Sirve bebidas sofisticadas	2017-02-17T12:14:02.097451	Sophisticated drinks are served here
 disco_table	Mesa de disco	2017-02-17T12:14:02.097451	Disco table
-disco_table_desc	Relájate con una bebida sofisticada	2017-02-17T12:14:02.097451	Chill out with a fancy drink
+disco_table_desc	Relájate con una bebida sofisticada	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 disease_cured	Enfermedad curada: ~A	2017-02-17T12:14:02.097451	Disease cured: ~A
 dizzy_sick	Marelapso	2017-02-17T12:14:02.097451	Dizzylapse
 dizzy_sick_desc	Me siento mareado	2017-02-17T12:14:02.097451	I feel very dizzy
@@ -683,7 +680,7 @@ electropet	Electromascota	2017-02-17T12:14:02.097451	Electropet
 electropet_display	Mostrador de electromascotas	2017-02-17T12:14:02.097451	Electropet display
 electropet_display_desc	Tu nueva mascota de alta tecnología, precio razonable y bajo mantenimiento te espera!	2017-02-17T12:14:02.097451	Your new high-tech, mid price, low maintenace friend is wating for you!
 enemy_member	Enemigo	2017-02-17T12:14:02.097451	Enemy
-event_invaders_warn3	Recibimos información de un grupo de asalto ~A que viene de ~A acercándose a la estación. Prepárate!	2017-02-17T12:14:02.097451	We have received reports of a ~A raiding party from ~A approaching our station. Be prepared!
+event_invaders_warn3	Recibimos información de un grupo de asalto ~A que viene de ~A acercándose a la estación. Prepárate!	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 excessive_machine	Máquina excesiva	2017-02-17T12:14:02.097451	Excessive machine
 excessive_machine_desc	Se encarga de tus necesidades más íntimas. No la rompas!	2017-02-17T12:14:02.097451	Taking care of all your intimate needs. Don't break it!
 expectations_high	Alta expectación	2017-02-17T12:14:02.097451	High expectations
@@ -778,7 +775,7 @@ jewellery	Joyería	2017-02-17T12:14:02.097451	Jewellery
 juice	Zumo	2017-02-17T12:14:02.097451	Juice
 jukebox	Jukebox	2017-02-17T12:14:02.097451	Jukebox
 jukebox_desc	Elige tu canción favorita y baila como si nadie te mirara	2017-02-17T12:14:02.097451	Pick your favorite song and dance like nobody's watching
-kb_set_target	Acción: elegir objetivo	2017-02-17T12:14:02.097451	Action: Set target
+kb_set_target	Acción: elegir objetivo	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 knowledge	Conocimiento	2017-02-17T12:14:02.097451	Knowledge
 lemurian_member	Lemuriano	2017-02-17T12:14:02.097451	Lemurian
 luxury_clothes	Ropa elegante	2017-02-17T12:14:02.097451	Luxury clothes
@@ -812,7 +809,7 @@ mutosis_desc	Ese grano se me fue de las manos...	2017-02-17T12:14:02.097451	That
 narcolepsy	Narcolepsia	2017-02-17T12:14:02.097451	Narcolepsy
 narcolepsy_desc	Me quedo dormido sin motivo	2017-02-17T12:14:02.097451	I fall asleep without a reason
 need_booking	Necesito registrarme	2017-02-17T12:14:02.097451	Needs booking
-need_booking_desc	Necesito registrar una habitación 	2017-02-17T12:14:02.097451	I need to book a room to sleep
+need_booking_desc	Necesito registrar una habitación	2017-02-17T12:14:02.097451	I need to book a room to sleep
 neutral_member	Neutral	2017-02-17T12:14:02.097451	Neutral
 nogi_member	Nogi	2017-02-17T12:14:02.097451	Nogi
 non_walkable	No se puede caminar encima	2017-02-17T12:14:02.097451	Cannot be walked over
@@ -845,10 +842,9 @@ pretentious_foods	Comida pretenciosa	2017-02-17T12:14:02.097451	Pretentious food
 pretentious_foods_desc	Productos tan sabrosos que son ilegales en algunos planetas	2017-02-17T12:14:02.097451	Products so savory they may be illegal in some planets
 projectile_direct_desc	Un objetivo, Proyectil	2017-02-17T12:14:02.097451	Single target, Projectile
 projectile_explosive_desc	Area, Proyectil	2017-02-17T12:14:02.097451	Area, Projectile
-projectile_reactive_deesc	Area temporizada, Proyectil	2017-02-17T12:14:02.097451	Area over time, Projectile
+projectile_reactive_deesc	Area temporizada, Proyectil	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 purifier_salts	Sales purificadoras	2017-02-17T12:14:02.097451	Purifier Salts
 reactive_area_desc	Area	2017-02-17T12:14:02.097451	Area
-recipe_difficulty	Dificultad:	2017-02-17T12:14:02.097451	Difficulty:
 recipe_mini	Receta:	2017-02-17T12:14:02.097451	Recipe:
 recreational_tier_1	Libreria I	2017-02-17T12:14:02.097451	Library I
 recreational_tier_2	Taberna I	2017-02-17T12:14:02.097451	Tavern I
@@ -896,7 +892,6 @@ ship_kind_droid	Nave Robot	2017-02-17T12:14:02.097451	Robot ship
 ship_kind_human	Nave Humana	2017-02-17T12:14:02.097451	Human ship
 ship_kind_lactian	Nave Lactiana	2017-02-17T12:14:02.097451	Lactian ship
 ship_kind_lemurian	Nave Lemuriana	2017-02-17T12:14:02.097451	Lemurian ship
-ship_kind_medus	Nave Medusiana	2017-02-17T12:14:02.097451	Medus ship
 ship_kind_nogi	Nave Nogi	2017-02-17T12:14:02.097451	Nogi ship
 ship_kind_pirates	Nave Pirata	2017-02-17T12:14:02.097451	Pirates ship
 shopping_list_desc	Lista de la compra:	2017-02-17T12:14:02.097451	Shopping list:
@@ -966,6 +961,489 @@ world_enlargement	Mundo agrandado	2017-02-17T12:14:02.097451	World Enlargement
 world_enlargement_desc	Todo es enorme!	2017-02-17T12:14:02.097451	Everything is huge!
 xray	Rayos X	2017-02-17T12:14:02.097451	XRay
 xray_desc	Obtiene imágenes del interior del cuerpo de un paciente, para facilitar su diagnóstico.	2017-02-17T12:14:02.097451	Creates internal images of a patient body, to help with medical diagnose.
+add_to_squad	Añadir a squad	2017-07-21T14:14:09.235034	Add to squad
+all_resources	Todos	2017-07-21T14:14:09.235034	All resources
+augustus	Augustus	2017-07-21T14:14:09.235034	Augustus
+augustus_desc	Cocinero infame en toda la galaxia. Es un Chef Master y además produce el doble de cantidad.	2017-07-21T14:14:09.235034	Galaxy (in)famous cook. He has a master level Chef spec and produces double the amount of food.
+bernice	Bernice	2017-07-21T14:14:09.235034	Bernice
+bernice_desc	Tu manager de la central, evaluando tu progreso.	2017-07-21T14:14:09.235034	Your HQ deputy, here to evaluate your progress.
+by_spec	Por Spec	2017-07-21T14:14:09.235034	By Spec
+cancel_rally_point	Cancelar punto de patruya	2017-07-21T14:14:09.235034	Cancel patrol point
+demand_one_of	Uno de	2017-07-21T14:14:09.235034	One of
+demand_value	Valor	2017-07-21T14:14:09.235034	Value
+disco_table_desc2	Descansa con una buena copa	2017-07-21T14:14:09.235034	Chill out with a fancy drink
+drunk	Borracho/a	2017-07-21T14:14:09.235034	Drunk
+drunk_desc	SISH está bien eshtoy bien...	2017-07-21T14:14:09.235034	YESH this okay I'm good
+equip_item_must_station	%s ha de estar presente en la estación	2017-07-21T14:14:09.235034	%s must be in the home station
+equip_item_no_reqs	~A no puede equipar ~A	2017-07-21T14:14:09.235034	~A cannot equip ~A
+equip_item_replace	Destruir ~A y reemplazar por ~A?	2017-07-21T14:14:09.235034	Destroy ~A and replace it with ~A?
+equip_item_slot_disabled	~A necesita una spec más alta para equipar ~A	2017-07-21T14:14:09.235034	~A needs a higher spec to equip ~A
+equip_officer_slot_current	Equipado %s	2017-07-21T14:14:09.235034	Equipped %s
+equip_officer_slot_equip	Equipar	2017-07-21T14:14:09.235034	Equip
+equip_officer_slot_no_selection	Selecciona un item	2017-07-21T14:14:09.235034	Select an item
+equip_officer_slot_none	Sin equipar	2017-07-21T14:14:09.235034	None equipped
+equip_officer_slot_selected	Seleccionado	2017-07-21T14:14:09.235034	Selected
+equip_officer_slot_stored	Almacenado en estación	2017-07-21T14:14:09.235034	Stored in station
+equip_officer_slot_title	Equipa %s para %s	2017-07-21T14:14:09.235034	Equip %s for %s
+event_augustus_warn	Augustus ha llegaod para ayudar en las cocinas! Trabajará en ellas mientras esté en la estación.	2017-07-21T14:14:09.235034	Augustus is here to help you with those kitchens! He will take on cooking jobs while he's in the station.
+event_bernice_fail	Se acabado el tiempo sin haber completado el trabajo, por lo tanto no se otorga ningún bonus. Espero que la estación rinda mejor en la próxima revisión.	2017-07-21T14:14:09.235034	Time ran out and the work was not completed, so no reward has been granted. I hope the station will perform better in the next review.
+event_bernice_goal_build	Bernice ha decidido que se necesitan más equipamientos. Construye %d objetos en dos minutos para obtener un bonus de %d créditos.	2017-07-21T14:14:09.235034	Bernice has determined more facilities are required. Build %d objects in two minutes for a %d credits reward.
+event_bernice_goal_floor	Bernice ha decidido que se necesita una estación más grande. Construye %d tiles de suelo en dos minutos para obtener un bonus de % créditos.	2017-07-21T14:14:09.235034	Bernice has determined a larger station is required. Build %d floor tiles in two minutes for a %d credits reward.
+event_bernice_goal_produce	Bernice ha decidido que se ha de producir a más velocidad. Manufactura %d productos en dos minutos para obtener un bonus de %d créditos.	2017-07-21T14:14:09.235034	Bernice has determined a higher production rate is required. Manufacture %d products in two minutes for a %d credits reward.
+event_bernice_succ	Se ha alcanzado el objetivo! Un bonus de %d créditos se ha depositado en la cuenta de la estación. Buen trabajo y nos vemos en la siguiente revisión!	2017-07-21T14:14:09.235034	The goal has been achieved! A %d credits reward has been deposited in the station account. Good work and see you in the next review!
+event_bernice_warn	Ha llegado el momento de revisar la estación! Bernice está comprobando los equipamientos y stocks.	2017-07-21T14:14:09.235034	It's review time! Bernice is in the station checking your facilities and stocks.
+event_breakage_warn	Algunas factorías se han estropeado!	2017-07-21T14:14:09.235034	Some factories in your station have broken down!
+event_explodefire_warn	%s ha explotado y se ha iniciado un fuego!	2017-07-21T14:14:09.235034	%s has exploded and started a fire!
+event_foodpoisoning_warn	Algunos habitantes de la estación han sido intoxicados!	2017-07-21T14:14:09.235034	Some station inhabitants are food poisoned!
+event_invaderbomb_out_of_time	Se ha terminado el tiempo y la bomba ha explotado!	2017-07-21T14:14:09.235034	You ran out of time! The bomb has exploded!
+event_invaderbomb_warn	Se ha descubiero un zapador enemigo camuflado! Busca una bomba cerca de su localización y ordena destruirla antes de que explote!	2017-07-21T14:14:09.235034	A hidden enemy sapper has been found! Look nearby for a ticking bomb and destroy it before it explodes!
+event_invaders_warn4	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A (nivel ~A) aproximándose a la estación. Prepárate!	2017-07-21T14:14:09.235034	We have received reports of a ~A raiding party from ~A (level ~A) approaching our station. Be prepared!
+event_kowka_warn	Кошка es una gata curiosa y quiere ver tu progreso. Conservas aún su amistad? Su ejército de robots ayudarán en tareas mientras estén en la estación.	2017-07-21T14:14:09.235034	Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here.
+event_liberty_warn	Liberty ha llegado! Su presencia hará sentir mejor a todo aquel que se acerque.	2017-07-21T14:14:09.235034	Liberty is here! Her presence will make everybody around her happy, visitor and resident alike.
+event_manysick_fail	Algunos visitantes %s no han sido curados, no se otorga el bonus,	2017-07-21T14:14:09.235034	Some %s visitors are not cured, no reward has been granted.
+event_manysick_succ	Todos los visitantes %s han sido curados! Disfruta del bonus de %d créditos y %d reputación.	2017-07-21T14:14:09.235034	All %s visitors have been cured! Enjoy a bonus of %d credits and %d reputation.
+event_manysick_warn	Los %s han teleportado de emergencia %d ciudadanos enfermos a la estación! Curálos en el tiempo indicado para un bonus de %d créditos y %d reputación.	2017-07-21T14:14:09.235034	The %s have emergency teleported %d sick citizens to your station! Cure them before the timer hits 0 for a bonus of %d credits and %d reputation.
+event_meteors_end	La lluvia de meteoritos ha terminado	2017-07-21T14:14:09.235034	The meteor rain has ended
+event_meteors_start	La lluvia de meteoritos ha empezado!	2017-07-21T14:14:09.235034	The meteor rain has started!
+event_meteors_warn	Se acerca una lluvia de meteoritos! El area indicada va a sufrir una destrucción masiva en un minuto.	2017-07-21T14:14:09.235034	A meteor rain is coming! The target area will be hit very hard in one minute.
+event_miasmacloud_ended	La nube de miasma ya no se expande	2017-07-21T14:14:09.235034	The miasma cloud is not expanding anymore
+event_miasmacloud_warn	Se ha estropeado un objeto y está expulsando una nube tóxica de miasma. Repáralo o destrúyelo para pararla.	2017-07-21T14:14:09.235034	An object has broken and is spewing an expanding, toxic miasma cloud. Repair it or destroy it to stop the cloud.
+event_octopus_warn	Tu arrogancia ha despertado una bestia olvidada del espacio profundo. Un pulpo espacial ataca la estación!	2017-07-21T14:14:09.235034	Your hubris has awoken a forgotten beast from deep space. A space octopus is attacking your station!
+event_pest_spawn_queen	La reina de la plaga ha aparecido!	2017-07-21T14:14:09.235034	The pest queen is now out of hiding!
+event_pest_warn	Una plaga está infestando la estación! Elimina suficientes parásitos para encontrar a su reina.	2017-07-21T14:14:09.235034	A pest is infesting your station! Eliminate enough pest critters to force their queen out of hiding.
+event_waterleak_warn	%s se ha roto y ha inundado sus alrededores.	2017-07-21T14:14:09.235034	%s has broken and flooded its surroundings!
+event_worm_warn	Tu arrogancia ha despertado una bestia olvidada del espacio profundo. Un gusano espacial ataca la estación!	2017-07-21T14:14:09.235034	Your hubris has awoken a forgotten beast from deep space. A space worm is attacking your station!
+event_xenos_spawned	Los xenomorfos han eclosionado!	2017-07-21T14:14:09.235034	The xenomorphs have spawned!
+event_xenos_warn	Se han encontrado huevos de xenomorfo en la estación! Elimínalos antes de que eclosionen, o atente a las consecuencias.	2017-07-21T14:14:09.235034	Xenomorph eggs have been found in your station! Eliminate them before they spawn, or deal with the consequences.
+field_medic	Médico de campo	2017-07-21T14:14:09.235034	Field Medic
+field_medic_desc	En las batallas más cruentas solo los médicos de campo son capaces de estar entre la vida y la muerte.	2017-07-21T14:14:09.235034	In the heat of battle only field medics stand between life and death.
+fine_grape_must	Mosto	2017-07-21T14:14:09.235034	Fine grape must
+goal_buildfactory1_desc	Construye un taller de jabón, una prensa de metal y un taller médico.	2017-07-21T14:14:09.235034	Build a soap maker, a metal press and a medical workshop.
+goal_galaxy1_desc	Desbloquea 3 sistemas en la pantalla de la galaxia.	2017-07-21T14:14:09.235034	Open 3 start systems in the galaxy screen.
+goal_recruit1_desc	Recluta a 5 oficiales nuevos en la pantalla de Personal.	2017-07-21T14:14:09.235034	Recruit 5 new officers in the Staff screen.
+industrialist_desc2	Los industriales pasan sus días en las factorías pesadas de la estación con el máximo de sus habilidades.	2017-07-21T14:14:09.235034	Industrialists spend their days toiling in the heavy factories of your station with the highest skill.
+invaderbomb	Bomba activada	2017-07-21T14:14:09.235034	Ticking bomb
+invaderbomb_desc	Destruye esta bomba antes de que el contador de tiempo del evento llegue a 0 para evitar una explosión enorme	2017-07-21T14:14:09.235034	Destroy this bomb before the event timer reaches 0 to avoid a big explosion
+inventory_missing_ingredients	No hay ingredientes suficientes	2017-07-21T14:14:09.235034	Not enough of one or more ingredients
+job_tier_1	Tier 1	2017-07-21T14:14:09.235034	Tier 1
+job_tier_2	Tier 2	2017-07-21T14:14:09.235034	Tier 2
+job_tier_3	Tier 3	2017-07-21T14:14:09.235034	Tier 3
+job_tier_current_xp	XP Actual	2017-07-21T14:14:09.235034	Current XP
+job_tier_rating	Nivel	2017-07-21T14:14:09.235034	Rating
+job_tier_speed	Velocidad	2017-07-21T14:14:09.235034	Speed
+job_warning	Advertencia	2017-07-21T14:14:09.235034	Warning
+jobs	Trabajos	2017-07-21T14:14:09.235034	Jobs
+jobs_enable_manual_prio	Usar prioridad manual	2017-07-21T14:14:09.235034	Use manual priorities
+kowka_desc	Heroína del Trabajo Socialista. Fue enviada a morir al espacio como parte de un experimento en el siglo 20, pero misteriosamente sobrevivió 38 siglos y ahora revoluciona robots.	2017-07-21T14:14:09.235034	Hero of Socialist Labour. She was sent to space to die as an experiment in the 20th century, but she mysteriously survived for 38 centuries and now rallies robots around her.
+kowka_guard	Guarda de Кошка	2017-07-21T14:14:09.235034	Кошка Guard
+kowka_guard_desc	El ejército privado de Кошка está ayudando a tu estación	2017-07-21T14:14:09.235034	The personal robot army of Кошка is helping around in your station.
+liberty_desc	Libertad y Valentía. Superviviente 38 siglos después de un experimento con animales, ahora trae la felicidad allá donde va.	2017-07-21T14:14:09.235034	Freedom and Courage. Survivor for 38 centuries of a long gone past of experimenting with animals, now brings joy everywhere she goes.
+libery_name	Liberty	2017-07-21T14:14:09.235034	Liberty
+no_ship_desired	No se desea nave	2017-07-21T14:14:09.235034	No ship desired
+npc_animal01	Restos animales	2017-07-21T14:14:09.235034	Animal remains
+npc_animal02	Restos animales	2017-07-21T14:14:09.235034	Animal remains
+npc_animal03	Restos animales	2017-07-21T14:14:09.235034	Animal remains
+npc_artifact01	Artefacto	2017-07-21T14:14:09.235034	Artifact
+npc_artifact02	Artefacto	2017-07-21T14:14:09.235034	Artifact
+npc_artifact03	Artefacto	2017-07-21T14:14:09.235034	Artifact
+npc_artifact04	Artefacto	2017-07-21T14:14:09.235034	Artifact
+npc_artifact05	Artefacto	2017-07-21T14:14:09.235034	Artifact
+npc_augustus	Augustus	2017-07-21T14:14:09.235034	Augustus
+npc_bagelhead	Bagelhead	2017-07-21T14:14:09.235034	Bagelhead
+npc_bicho01	Vacavaga	2017-07-21T14:14:09.235034	Lazzy moo
+npc_bicho02	Rata lemuriana	2017-07-21T14:14:09.235034	Lemurian rat
+npc_bicho03	Heliominder	2017-07-21T14:14:09.235034	Heliominder
+npc_bicho04	Tallhammer	2017-07-21T14:14:09.235034	Tallhammer
+npc_bicho05	Cucaracha esmeralda	2017-07-21T14:14:09.235034	Emerald roach
+npc_bicho06	Pedipole	2017-07-21T14:14:09.235034	Pedipole
+npc_bicho07	Tweetto	2017-07-21T14:14:09.235034	Tweetto
+npc_bicho08	Heavyhooves	2017-07-21T14:14:09.235034	Heavyhooves
+npc_bicho09	Haloffe	2017-07-21T14:14:09.235034	Haloffe
+npc_bicho10	Zojamb	2017-07-21T14:14:09.235034	Zojamb
+npc_bicho11	Bitty	2017-07-21T14:14:09.235034	Bitty
+npc_bicho12	Spikedigger	2017-07-21T14:14:09.235034	Spikedigger
+npc_bicho13	Scarhorn	2017-07-21T14:14:09.235034	Scarhorn
+npc_blorg01	Colono Blorg	2017-07-21T14:14:09.235034	Blorg colonist
+npc_blorg02	Colono Blorg	2017-07-21T14:14:09.235034	Blorg colonist
+npc_blorg03	Colono Blorg	2017-07-21T14:14:09.235034	Blorg colonist
+npc_blorg_boss	Jefe Blorg	2017-07-21T14:14:09.235034	Blorg boss
+npc_blorg_crate_pickable	Recursos Blorg	2017-07-21T14:14:09.235034	Blorg valuables
+npc_blorg_mine	Mina	2017-07-21T14:14:09.235034	Mine
+npc_blorg_visitor01	Visitante Blorg	2017-07-21T14:14:09.235034	Blorg visitor
+npc_blorg_visitor02	Visitante Blorg	2017-07-21T14:14:09.235034	Blorg visitor
+npc_blorg_visitor03	Visitante Blorg	2017-07-21T14:14:09.235034	Blorg visitor
+npc_blorg_visitor04	Visitante Blorg	2017-07-21T14:14:09.235034	Blorg visitor
+npc_chuchu01	Visitante Chuchu	2017-07-21T14:14:09.235034	Chuchu visitor
+npc_chuchu02	Visitante Chuchu	2017-07-21T14:14:09.235034	Chuchu visitor
+npc_chuchu03	Visitante Chuchu	2017-07-21T14:14:09.235034	Chuchu visitor
+npc_chuchu04	Visitante Chuchu	2017-07-21T14:14:09.235034	Chuchu visitor
+npc_chuchu05	Visitante Chuchu	2017-07-21T14:14:09.235034	Chuchu visitor
+npc_chuchucolony01	Guerrero Chuchu	2017-07-21T14:14:09.235034	Chuchu warrior
+npc_chuchucolony02	Elite Chuchu	2017-07-21T14:14:09.235034	Chuchu elite
+npc_chuchucolony03	Chuchu pesado	2017-07-21T14:14:09.235034	Chuchu heavy
+npc_chuchucolony04	Ingeniero Chuchu	2017-07-21T14:14:09.235034	Chuchu tinker
+npc_colonycrusantian01	Colono Crusantiano	2017-07-21T14:14:09.235034	Crusantian colonist
+npc_colonycrusantian02	Colono Crusantiano	2017-07-21T14:14:09.235034	Crusantian colonist
+npc_colonycrusantian03	Colono Crusantiano	2017-07-21T14:14:09.235034	Crusantian colonist
+npc_colonycrusantian04	Colono Crusantiano	2017-07-21T14:14:09.235034	Crusantian colonist
+npc_colonylemurian01	Zapador Lemuriano	2017-07-21T14:14:09.235034	Lemurian sapper
+npc_colonylemurian02	Fuerzas Lemurianas	2017-07-21T14:14:09.235034	Lemurian forces
+npc_colonylemurian03	Vigilante Lemuriano	2017-07-21T14:14:09.235034	Lemurian keeper
+npc_colonynogi01	Novicio Nogi	2017-07-21T14:14:09.235034	Nogi novice
+npc_colonynogi02	Mentalista Nogi	2017-07-21T14:14:09.235034	Nogi mentalist
+npc_colonynogi03	Anciano Nogi	2017-07-21T14:14:09.235034	Nogi elder
+npc_container01	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_container02	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_container03	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_container04	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_container05	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_container06	Contenedor	2017-07-21T14:14:09.235034	Container
+npc_crusantian_visitor01	Visitante Crusantiano	2017-07-21T14:14:09.235034	Crusantian visitor
+npc_crusantian_visitor02	Visitante Crusantiano	2017-07-21T14:14:09.235034	Crusantian visitor
+npc_crusantian_visitor03	Visitante Crusantiano	2017-07-21T14:14:09.235034	Crusantian visitor
+npc_crusantian_visitor04	Visitante Crusantiano	2017-07-21T14:14:09.235034	Crusantian visitor
+npc_crusantianbox01	Recursos Crusantianos	2017-07-21T14:14:09.235034	Crusantian cache
+npc_cucurbian01	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_cucurbian02	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_cucurbian03	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_cucurbian_boss	Jefe Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian boss
+npc_cucurbian_crate01	Recursos Cucurbianos	2017-07-21T14:14:09.235034	Cucurbian cache
+npc_droid01	Vigilante Robot	2017-07-21T14:14:09.235034	Robot sentry
+npc_droid02	Tropa Robot	2017-07-21T14:14:09.235034	Robot trooper
+npc_droid03	Robot exterminador	2017-07-21T14:14:09.235034	Robot slayer
+npc_droid04	Tanque Robot	2017-07-21T14:14:09.235034	Robot tank
+npc_droid05	Turbo Robot	2017-07-21T14:14:09.235034	Robot speeder
+npc_human01	Colono Humano	2017-07-21T14:14:09.235034	Human colonist
+npc_human02	Colono Humano	2017-07-21T14:14:09.235034	Human colonist
+npc_human03	Colono Humano	2017-07-21T14:14:09.235034	Human colonist
+npc_human04	Colono Humano	2017-07-21T14:14:09.235034	Human colonist
+npc_human_visitor01	Visitante Humano	2017-07-21T14:14:09.235034	Human visitor
+npc_human_visitor02	Visitante Humano	2017-07-21T14:14:09.235034	Human visitor
+npc_human_visitor03	Visitante Humano	2017-07-21T14:14:09.235034	Human visitor
+npc_human_visitor04	Visitante Humano	2017-07-21T14:14:09.235034	Human visitor
+npc_kowka	Кошка	2017-07-21T14:14:09.235034	Кошка
+npc_lemurian_visitor01	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian visitor
+npc_lemurian_visitor02	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian visitor
+npc_lemurian_visitor03	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian visitor
+npc_lemurianbox01	Recursos Lemurianos	2017-07-21T14:14:09.235034	Lemurian cache
+npc_medus01	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
+npc_medus02	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
+npc_medus03	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
+npc_medus04	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
+npc_medus05	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
+npc_meduscolony01	Guarda Medusiano	2017-07-21T14:14:09.235034	Medusian guard
+npc_meduscolony02	Medusiano Taladrador	2017-07-21T14:14:09.235034	Medusian driller
+npc_meduscolony03	Lanzador Medusiano	2017-07-21T14:14:09.235034	Medusian rocketer
+npc_meduscolony04	Demoledor Medusiano	2017-07-21T14:14:09.235034	Medusian demolisher
+npc_memorymodule	Módulo de memoria	2017-07-21T14:14:09.235034	Memory module
+npc_mineral01	Roca	2017-07-21T14:14:09.235034	Rock
+npc_mineral02	Roca	2017-07-21T14:14:09.235034	Rock
+npc_mineral03	Roca	2017-07-21T14:14:09.235034	Rock
+npc_mutant	Mutante	2017-07-21T14:14:09.235034	Mutant
+npc_nogi_visitor01	Visitante Nogi	2017-07-21T14:14:09.235034	Nogi visitor
+npc_nogi_visitor02	Visitante Nogi	2017-07-21T14:14:09.235034	Nogi visitor
+npc_nogi_visitor03	Visitante Nogi	2017-07-21T14:14:09.235034	Nogi visitor
+npc_nogi_visitor04	Visitante Nogi	2017-07-21T14:14:09.235034	Nogi visitor
+npc_nogibox01	Recursos Nogi	2017-07-21T14:14:09.235034	Nogi cache
+npc_octopus	Octohorror	2017-07-21T14:14:09.235034	Octohorror
+npc_pioneersbox01	Recursos Humanos	2017-07-21T14:14:09.235034	Human cache
+npc_pirate01	Recluta Pirata	2017-07-21T14:14:09.235034	Pirate grunt
+npc_pirate02	Soldado Pirata	2017-07-21T14:14:09.235034	Pirate soldier
+npc_pirate03	Mensajero Pirata	2017-07-21T14:14:09.235034	Pirate courier
+npc_pirate04	Bestia Pirata	2017-07-21T14:14:09.235034	Pirate brute
+npc_pirate_boss	Jefe Pirata	2017-07-21T14:14:09.235034	Pirate boss
+npc_pirates_crap	Basura	2017-07-21T14:14:09.235034	Trash
+npc_pirates_mine	Mina	2017-07-21T14:14:09.235034	Mine
+npc_pirates_unicrate01	Recursos Piratas	2017-07-21T14:14:09.235034	Pirate cache
+npc_pirates_unicrate02	Recursos Piratas	2017-07-21T14:14:09.235034	Pirate cache
+npc_piratesbox01	Recursos Piratas	2017-07-21T14:14:09.235034	Pirate cache
+npc_robotbox01	Recursos Robot	2017-07-21T14:14:09.235034	Robot cache
+npc_seeds	Semillas	2017-07-21T14:14:09.235034	Seeds
+npc_tribbler01	Parásito	2017-07-21T14:14:09.235034	Hairy pest
+npc_tribbler02	Parásito	2017-07-21T14:14:09.235034	Hairy pest
+npc_tribbler03	Parásito	2017-07-21T14:14:09.235034	Hairy pest
+npc_tribbler_boss	Reina parásito	2017-07-21T14:14:09.235034	Big hairy mess
+npc_veg01	Vegetación	2017-07-21T14:14:09.235034	Vegetation
+npc_veg02	Vegetación	2017-07-21T14:14:09.235034	Vegetation
+npc_veg03	Vegetación	2017-07-21T14:14:09.235034	Vegetation
+npc_visitorcucurbian01	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_visitorcucurbian02	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_visitorcucurbian03	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_visitorcucurbian04	Visitante Cucurbiano	2017-07-21T14:14:09.235034	Cucurbian visitor
+npc_worm	Gusano espacial	2017-07-21T14:14:09.235034	Space worm
+npc_xenomorph	Xenomorfo	2017-07-21T14:14:09.235034	Xenomorph
+obj_alienegg	Huevo xenormorfo	2017-07-21T14:14:09.235034	Xenomorph egg
+obj_blorg-arch	Arco	2017-07-21T14:14:09.235034	Arch
+obj_blorg-biojelly	Bioreactor	2017-07-21T14:14:09.235034	Bioreactor
+obj_blorg-crates1	Contenedor	2017-07-21T14:14:09.235034	Crates
+obj_blorg-crates2	Contenedor	2017-07-21T14:14:09.235034	Crates
+obj_blorg-crates3	Contenedor	2017-07-21T14:14:09.235034	Crates
+obj_blorg-house	Casa	2017-07-21T14:14:09.235034	House
+obj_blorg-jelly	Gelatina	2017-07-21T14:14:09.235034	Jelly
+obj_blorg-robotfactory	Factoría	2017-07-21T14:14:09.235034	Factory
+obj_blorg-robotmegabrain	Cerebro	2017-07-21T14:14:09.235034	Brain
+obj_blorg-ship-house	Nave reacondicionada	2017-07-21T14:14:09.235034	Repurposed ship
+obj_blorg-shuttle	Lanzadera	2017-07-21T14:14:09.235034	Shuttle
+obj_blorg-turret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_blorgbuilding04	Casa grande	2017-07-21T14:14:09.235034	Big house
+obj_blorgwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_blorgwallturret	Torreta	2017-07-21T14:14:09.235034	Turrent
+obj_capsule	Cápsula	2017-07-21T14:14:09.235034	Capsule
+obj_capsule-ok	Cápsula	2017-07-21T14:14:09.235034	Capsule
+obj_chuchubox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_chuchubox02	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_chuchubox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_chuchubox04	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_chuchubox05	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_chuchubuilding01	Silo	2017-07-21T14:14:09.235034	Grain silo
+obj_chuchubuilding02	Casa grande	2017-07-21T14:14:09.235034	Big house
+obj_chuchubuilding03	Casa	2017-07-21T14:14:09.235034	House
+obj_chuchubuilding04	Torre de vigilancia	2017-07-21T14:14:09.235034	Surveillance tower
+obj_chuchudeposit	Depósito	2017-07-21T14:14:09.235034	Deposit
+obj_chuchudestillery	Destilería	2017-07-21T14:14:09.235034	Distillery
+obj_chuchufield	Campo	2017-07-21T14:14:09.235034	Field
+obj_chuchupress	Prensa hidráulica	2017-07-21T14:14:09.235034	Hydraulic press
+obj_chuchuwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_chuchuwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_computer-off	Ordenador	2017-07-21T14:14:09.235034	Computer
+obj_computer-on	Ordenador	2017-07-21T14:14:09.235034	Computer
+obj_crashed-ship	Nave estrellada	2017-07-21T14:14:09.235034	Crashed ship
+obj_crusantianbox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_crusantianbox02	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_crusantianbox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_crusantianbuilding01	Torre	2017-07-21T14:14:09.235034	Tower
+obj_crusantianbuilding02	Ayuntamiento	2017-07-21T14:14:09.235034	Town hall
+obj_crusantianbuilding03	Casa	2017-07-21T14:14:09.235034	House
+obj_crusantianbuilding04	Casa	2017-07-21T14:14:09.235034	House
+obj_crusantianfield	Campos	2017-07-21T14:14:09.235034	Fields
+obj_crusantianwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_crusantianwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_cucu-1	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_cucu-2	Casa	2017-07-21T14:14:09.235034	House
+obj_cucu-3	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_cucu-airvent	Ventilación	2017-07-21T14:14:09.235034	Air vent
+obj_cucu-debris-1	Restos	2017-07-21T14:14:09.235034	Debris
+obj_cucu-debris-2	Restos	2017-07-21T14:14:09.235034	Debris
+obj_cucu-elevator	Ascensor	2017-07-21T14:14:09.235034	Elevator
+obj_cucu-superweapon	Cañón orbital	2017-07-21T14:14:09.235034	Anti orbital beam
+obj_cucurbianairvent	Ventilación	2017-07-21T14:14:09.235034	Air vent
+obj_cucurbianwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_cucurbianwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_destroyedbuilding01	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding02	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding03	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding04	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding05	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding06	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding07	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding08	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding09	Restos	2017-07-21T14:14:09.235034	Debris
+obj_destroyedbuilding10	Restos	2017-07-21T14:14:09.235034	Debris
+obj_embassy-statue	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_generator	Generador	2017-07-21T14:14:09.235034	Generator
+obj_generator-off	Generador	2017-07-21T14:14:09.235034	Generator
+obj_generator-on	Generador	2017-07-21T14:14:09.235034	Generator
+obj_hive-crystal	Formación mineral	2017-07-21T14:14:09.235034	Crystal
+obj_hive-crystal2	Formación mineral	2017-07-21T14:14:09.235034	Crystal
+obj_hive-crystal3	Formación mineral	2017-07-21T14:14:09.235034	Crystal
+obj_hive-mother	Formación mineral	2017-07-21T14:14:09.235034	Crystal
+obj_hive-nest	Nido	2017-07-21T14:14:09.235034	Nest
+obj_hive-pupa	Pupa	2017-07-21T14:14:09.235034	Pupa
+obj_human-boxes1	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_human-boxes2	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_human-boxes3	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_human-plant	Campo	2017-07-21T14:14:09.235034	Field
+obj_human-plant-burnt	Campo quemado	2017-07-21T14:14:09.235034	Burnt field
+obj_human-short	Casa	2017-07-21T14:14:09.235034	House
+obj_human-station-box	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_human-tall	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_human-tower	Torre	2017-07-21T14:14:09.235034	Tower
+obj_lemurianbox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_lemurianbox02	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_lemurianbox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_lemurianbuilding01	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_lemurianbuilding02	Casa grande	2017-07-21T14:14:09.235034	Big house
+obj_lemurianbuilding03	Centro de comunicación	2017-07-21T14:14:09.235034	Comm center
+obj_lemuriancomputer	Ordenador	2017-07-21T14:14:09.235034	Computer
+obj_lemurianfield	Campo	2017-07-21T14:14:09.235034	Field
+obj_lemurianmill	Molino	2017-07-21T14:14:09.235034	Mill
+obj_lemurianwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_lemurianwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_medusbomb	Bomba	2017-07-21T14:14:09.235034	Bomb
+obj_medusbox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_medusbox02	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_medusbox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_medusbox04	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_medusbuilding01	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_medusbuilding02	Casa grande	2017-07-21T14:14:09.235034	Big house
+obj_medusbuilding03	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_medusbuilding04	Casa	2017-07-21T14:14:09.235034	House
+obj_medusfield	Campo	2017-07-21T14:14:09.235034	Field
+obj_medustree	Campo	2017-07-21T14:14:09.235034	Field
+obj_medusturbine	Turbina	2017-07-21T14:14:09.235034	Turbine
+obj_meduswall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_meduswallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_nogibox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_nogibox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_nogibuilding01	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_nogibuilding02	Casa	2017-07-21T14:14:09.235034	House
+obj_nogibuilding03	Pisos	2017-07-21T14:14:09.235034	Condo
+obj_nogibuilding04	Casa	2017-07-21T14:14:09.235034	House
+obj_nogicondensator	Condensador	2017-07-21T14:14:09.235034	Capacitor
+obj_nogiextractor	Extractor	2017-07-21T14:14:09.235034	Extractor
+obj_nogigenerator	Generador	2017-07-21T14:14:09.235034	Generator
+obj_nogiwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_nogiwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_pest-field	Campo infestado	2017-07-21T14:14:09.235034	Plagued field
+obj_pest-house	Casa infestada	2017-07-21T14:14:09.235034	Infested house
+obj_pest-pile	Pila infestada	2017-07-21T14:14:09.235034	Pest pile
+obj_pioneerswall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_pioneerswallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_pirate-antenna	Antena	2017-07-21T14:14:09.235034	Antenna
+obj_pirate-building-bikes	Motos	2017-07-21T14:14:09.235034	Bikes
+obj_pirate-building-shuttle	Lanzadera	2017-07-21T14:14:09.235034	Shuttle
+obj_pirate-building-tent	Tienda	2017-07-21T14:14:09.235034	Tent
+obj_pirate-building-tower1	Torre	2017-07-21T14:14:09.235034	Tower
+obj_pirate-building-tower2	Torre	2017-07-21T14:14:09.235034	Tower
+obj_pirate-command	Torre de control	2017-07-21T14:14:09.235034	Control center
+obj_pirate-crate	Contenedor	2017-07-21T14:14:09.235034	Crate
+obj_pirate-debris-ab1	Restos	2017-07-21T14:14:09.235034	Debris
+obj_pirate-debris-ab2	Restos	2017-07-21T14:14:09.235034	Debris
+obj_pirate-debris-crap	Basura	2017-07-21T14:14:09.235034	Trash
+obj_pirate-debris-crates1	Cajas	2017-07-21T14:14:09.235034	Crates
+obj_pirate-debris-crates2	Cajas	2017-07-21T14:14:09.235034	Crates
+obj_pirate-mineassembler	Factoría	2017-07-21T14:14:09.235034	Factory
+obj_pirate-turret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_pirateswall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_pirateswallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_probe	Sonda	2017-07-21T14:14:09.235034	Probe
+obj_probe2	Sonda	2017-07-21T14:14:09.235034	Probe
+obj_robotbattery01	Batería	2017-07-21T14:14:09.235034	Battery
+obj_robotbattery02	Batería	2017-07-21T14:14:09.235034	Battery
+obj_robotbox01	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_robotbox02	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_robotbox03	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_robotbox04	Cajas	2017-07-21T14:14:09.235034	Boxes
+obj_robotbuilding01	Acelerador	2017-07-21T14:14:09.235034	Accelerator
+obj_robotbuilding02	Fundición	2017-07-21T14:14:09.235034	Foundry
+obj_robotbuilding03	Percolador	2017-07-21T14:14:09.235034	Percolator
+obj_robotcondensator	Condensador	2017-07-21T14:14:09.235034	Capacitor
+obj_robotsensor	Sensor	2017-07-21T14:14:09.235034	Sensor
+obj_robotturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_robotwall	Pared	2017-07-21T14:14:09.235034	Wall
+obj_robotwallturret	Torreta	2017-07-21T14:14:09.235034	Turret
+obj_ruinsgreybuilding01	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreybuilding02	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreybuilding03	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreybuilding04	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreybuilding05	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreybuilding06	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinsgreycolumns01	Columnas	2017-07-21T14:14:09.235034	Columns
+obj_ruinsgreycolumns02	Columnas	2017-07-21T14:14:09.235034	Columns
+obj_ruinsgreycolumns03	Columnas	2017-07-21T14:14:09.235034	Columns
+obj_ruinsgreycolumns04	Columnas	2017-07-21T14:14:09.235034	Columns
+obj_ruinsgreyrubble01	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreyrubble02	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreyrubble03	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreyrubble04	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreyrubble05	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreyrubble06	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinsgreystatue01	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_ruinsgreystatue02	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_ruinspyhall01	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyhall02	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyhall03	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyhall04	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyhall05	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyhall06	Sala	2017-07-21T14:14:09.235034	Hall
+obj_ruinspyrbuilding01	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinspyrbuilding02	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinspyrbuilding03	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinspyrbuilding04	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinspyrbuilding05	Ruinas	2017-07-21T14:14:09.235034	Ruins
+obj_ruinspyrpyramid01part0	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid01part1	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid01part2	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid01part3	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid01part4	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid02part1	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid02part2	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid02part3	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid03	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrpyramid04	Pirámide	2017-07-21T14:14:09.235034	Pyramid
+obj_ruinspyrrubble01	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrrubble02	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrrubble03	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrrubble04	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrrubble05	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrrubble06	Restos	2017-07-21T14:14:09.235034	Rubble
+obj_ruinspyrsphinx01	Esfinge	2017-07-21T14:14:09.235034	Sphinx
+obj_ruinspyrsphinx02	Esfinge	2017-07-21T14:14:09.235034	Sphinx
+obj_ruinspyrsphinx03	Esfinge	2017-07-21T14:14:09.235034	Sphinx
+obj_ruinspyrsphinx04	Esfinge	2017-07-21T14:14:09.235034	Sphinx
+obj_ruinspyrstatue01	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_ruinspyrstatue02	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_ruinspyrstatue03	Estatua	2017-07-21T14:14:09.235034	Statue
+obj_ship-debris-1	Restos	2017-07-21T14:14:09.235034	Debris
+obj_ship-debris-2	Restos	2017-07-21T14:14:09.235034	Debris
+obj_ship-debris-3	Restos	2017-07-21T14:14:09.235034	Debris
+obj_shuttle	Lanzadera	2017-07-21T14:14:09.235034	Shuttle
+obj_silo	Silo	2017-07-21T14:14:09.235034	Silo
+obj_soup	Sopa	2017-07-21T14:14:09.235034	Soup
+obj_soy-empty	Campo	2017-07-21T14:14:09.235034	Field
+obj_surprise-crate	Cajas	2017-07-21T14:14:09.235034	Crate
+officer_location_station	Estación	2017-07-21T14:14:09.235034	Home station
+planetarium	Planetario	2017-07-21T14:14:09.235034	Planetarium
+planetarium_desc_friendly	Pero tu buena reputación con ~A te permite pagar un tributo y obtener la misma información, sin violencia y sin perder reputación.	2017-07-21T14:14:09.235034	But your good standing with ~A allows you to instead pay a tribute to get the same information, without bloodshed or reputation loss.
+planetarium_desc_hostile	Destruir este edificio desbloqueará los siguientes sistemas: ~A	2017-07-21T14:14:09.235034	Destroying this building will unlock the following star systems: ~A
+planetarium_pay	Pagar tributo	2017-07-21T14:14:09.235034	Pay tribute
+planetarium_price	Precio: ~A @ui_icon_20px_credits04.png	2017-07-21T14:14:09.235034	Price: ~A @ui_icon_20px_credits04.png
+planetarium_warn_rep	Destruir este edificio reducirá masivamente tu reputación con ~A.	2017-07-21T14:14:09.235034	Destroying this building will massively reduce your reputation with ~A.
+price_too_much	No hay suficientes créditos	2017-07-21T14:14:09.235034	Not enough credits
+prod_current_queue2	Cola actual	2017-07-21T14:14:09.235034	Current queue
+producing_recipe2	Produciendo	2017-07-21T14:14:09.235034	Producing
+projectile_reactive_desc	Area en tiempo, Proyectil	2017-07-21T14:14:09.235034	Area over time, Projectile
+recipe_difficulty	Dificultad:	2017-07-21T14:14:09.235034	Difficulty:
+recruit_hire_price	Precio de contrato: ~A @ui_icon_20px_credits04.png	2017-07-21T14:14:09.235034	Hiring bonus: ~A @ui_icon_20px_credits04.png
+recruit_hire_price_too_much	No hay suficientes créditos	2017-07-21T14:14:09.235034	Not enough credits
+remove_from_squad	Quitar de squad	2017-07-21T14:14:09.235034	Remove from squad
+room_of_tiles	Habitación de %d tiles	2017-07-21T14:14:09.235034	Room of %d tiles
+select_officer_open_fleet	Abrir pantalla de la flota	2017-07-21T14:14:09.235034	Open fleet screen
+select_officer_open_ship	Abrir puente de la nave	2017-07-21T14:14:09.235034	Open ship bridge
+select_ship	Selecciona nave	2017-07-21T14:14:09.235034	Select a ship
+ship_kind_medus	Nave Medusiana	2017-07-21T14:14:09.235034	Medusian ship
+space_octopus	Pulpo espacial	2017-07-21T14:14:09.235034	Space octopus
+space_pest	Parásito	2017-07-21T14:14:09.235034	Pest critter
+space_pest_queen	Reina parásito	2017-07-21T14:14:09.235034	Pest queen
+space_worm	Gusano espacial	2017-07-21T14:14:09.235034	Space worm
+spec	Spec	2017-07-21T14:14:09.235034	Spec
+spec_disallows	Prohibe el trabajo en:	2017-07-21T14:14:09.235034	Disallows working on:
+spec_info_demands	Requiere:	2017-07-21T14:14:09.235034	Demands:
+spec_info_salary	Salario: %d @ui_icon_20px_credits04.png por min.	2017-07-21T14:14:09.235034	Salary: %d @ui_icon_20px_credits04.png per min.
+spec_not_ready2	Para ascender a %s al menos un trabajo de llegar a su XP requerido.	2017-07-21T14:14:09.235034	To promote to %s at least one job must reach its required XP
+spec_promote_to	Ascender a %s	2017-07-21T14:14:09.235034	Promote to %s
+staff_gui_basics_panel_demands	Requiere	2017-07-21T14:14:09.235034	Demands
+staff_gui_basics_panel_equipment	Equipo	2017-07-21T14:14:09.235034	Equipment
+staff_gui_basics_panel_vitals	Vitals	2017-07-21T14:14:09.235034	Vitals
+staff_gui_crew_of_none	Sin nave	2017-07-21T14:14:09.235034	No ship assigned
+staff_ui_basics	@ui_icon_20px_stats_01.png Básico	2017-07-21T14:14:09.235034	@ui_icon_20px_stats_01.png Basics
+staff_ui_jobs_xp	@ui_icon_20px_jobs_01.png Trabajo y XP	2017-07-21T14:14:09.235034	@ui_icon_20px_jobs_01.png Jobs and XP
+staff_ui_spec	@ui_icon_20px_xp2.png Spec	2017-07-21T14:14:09.235034	@ui_icon_20px_xp2.png Spec
+storage_area_full	El área está llena	2017-07-21T14:14:09.235034	Storage area is full
+storage_area_no_empty_floor	No hay espacio para nuevos tipos de recurso	2017-07-21T14:14:09.235034	No available space for new resource kinds
+systems_unlocked	Estos sistemas ya se pueden explorar: ~A	2017-07-21T14:14:09.235034	The following systems can now be explored: ~A
+tutorial_planet_basics_1	¡Has aterrizado en el planeta tutorial!\nLos planetas son tu principal fuente de recursos, por lo que son vitales para tu supervivencia. Visita nuevos planetas para encontrar todo tipo de recursos	2017-07-21T14:14:09.235034	So you've landed on the tutorial planet!\nPlanets are your main source of resources, so they are vital for your survival. Visit new planets to find all kinds of resources.
+tutorial_planet_extraction_3	Este edificio se utiliza para extraer recursos biológicos del planeta. El suelo destacado está cerca de algunos nodos de frutas y verduras, haz clic en él para construir el extractor. Al menos un nodo debe quedar dentro del círculo de su área de influencia. Recuerda que puedes seleccionar a todo tu equipo con [Tab] y luego teletransportarlos cerca con [T].	2017-07-21T14:14:09.235034	This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [Tab] then teleport [T) them nearby.
+tutorial_planet_planetarium	Abrir nuevos sistemas	2017-07-21T14:14:09.235034	Opening new systems
+tutorial_planet_planetarium_1	En algún momento el sistema inicial de nivel 1 donde reside tu estación se te va a quedar corto. Necesitarás más recursos y más visitantes para mantener tu estación. La manera de abrir nuevos sistemas es visitando un planetario. Todos los planetas habitados tienen uno. Selecciona Siguiente para ver el de este planeta.	2017-07-21T14:14:09.235034	At some point the starter level 1 system with the asteroid you call Home will become too small. You'll need new resources and more visitors to keep your station going. The way to open new systems is by visiting a planetarium. Every inhabited planet has one. Click next to see this planet planetarium.
+tutorial_planet_planetarium_2	Los planetarios contienen el conocimiento de local de la galaxia. Tal como dice su panel de información, es tu elección obtener ese conocimiento por la fuerza o pagando. Piensa en las consecuencias! Después de obtenerlo todos los sistemas enlazados quedarán abiertos a tus naves.	2017-07-21T14:14:09.235034	Planetariums contain the local galactic knowledge. As its info panel says, it's your choice to obtain that knowledge by force or by paying up. Beware the consequences! After obtaining it, all linked systems from the planet system will be open for travel.
+unassigned	Sin asignar	2017-07-21T14:14:09.235034	Unassigned
+v_xp	%d XP	2017-07-21T14:14:09.235034	%d XP
+value_too_high_res	Pila max para %s es %d	2017-07-21T14:14:09.235034	Max stack size for %s is %d
+water_leak	Escape de agua	2017-07-21T14:14:09.235034	Water leak
+xeno_egg	Huevo de xenormorfo	2017-07-21T14:14:09.235034	Xenomorph egg
+xeno_egg_desc	Destruye este huevo antes de que el contador llegue a 0 para evitar que un xenomorfo eclosione.	2017-07-21T14:14:09.235034	Destroy this egg before the event timer reaches 0 to avoid spawning a xenomorph
+xenomorph	Xenomorfo	2017-07-21T14:14:09.235034	Xenomorph
 Luxury_kitchen_desc	La mejor cocina del universo se prepara aquí	old	The absolute best cuisine in the universe is prepared here
 advanced_kitchen	Cocina avanzada	old	Advanced kitchen
 advanced_kitchen_desc	Prepara algunas comidas y bebidas muy buenas	old	Prepare some really great food and drinks
@@ -1131,7 +1609,7 @@ fibers	Fibras	old	Fibers
 fibers_node	Nodo de fibras	old	Fibers node
 filtered_water	Agua filtrada	old	Filtered water
 fine_soup	Caldo fino	old	Fine soup
-fine_wine	Buen vino	old	Fine wine
+fine_wine	Buen vino	old	NOT FOUND IN GAME
 finish_other_research	Termina o cancela la investigación actual para empezar ést	old	Finish or cancel the current research to start this one
 firefighter	Bombero	old	Firefighter
 firefighter_robot	Robot bombero	old	Firefighter robot
@@ -1161,7 +1639,6 @@ goal_buildbar1_desc	Construye un bar, 3 mesas de bar y 2 pistas de baile.	old	Bu
 goal_buildbar1_title	Construye un club de baile	old	Build a dance club
 goal_builddecorations1_desc	Construye 10 objetos decorativos	old	Build 10 decorations.
 goal_builddecorations1_title	Construye 10 decoraciones	old	Build 10 decorations
-goal_buildfactory1_desc	Construye un taller químico, una prensa de metal y un taller médico.	old	Build a chemical workshop, a metal press and a medical workshop.
 goal_buildfactory1_title	Construye una zona de trabajo básica	old	Build a basic workshop area
 goal_buildhospital1_desc	Construye una cama de hospital, un dispensador de medicamentos y haz 10 pastillas.	old	Build a hospital bed, a meds dispenser and make 10 pills.
 goal_buildhospital1_title	Construye un hospital simple	old	Build a stater hospital
@@ -1201,7 +1678,6 @@ goal_doctor1_desc	Tus médicos deben cuidar a 10 pacientes en la cama del hospit
 goal_doctor1_title	Cura a 10 pacientes	old	Heal 10 patients
 goal_extract1_desc	Haz que tus extractores extraigan 100 unidades de recursos bio, 100 unidades de recursos minerales y 100 unidades de recursos de fluidos en uno o más planetas.	old	Have your planet extractors extract 100 units of bio resources, 100 units of mineral resources and 100 units of fluid resources on one or more planets.
 goal_extract1_title	Extrae diferentes recursos	old	Extract different resources
-goal_galaxy1_desc	Desbloquea 3 sistemas en la pantalla de la galaxia. [DEV] Por ahora utiliza el botón de trucos dentro de cualquier sistema estelar ya desbloqueado	old	Open 3 start systems in the galaxy screen. [DEV] for now use the cheat button inside any already open star system
 goal_galaxy1_title	Desbloquea 3 sistemas	old	Open 3 star systems
 goal_jobs1_desc	Utiliza la matriz de trabajos en la estación para cambiar una asignación de trabajo 10 veces.	old	Use the job matrix in the station to change a job assignation 10 times.
 goal_jobs1_title	Cambiar trabajos	old	Shuffle job matrix
@@ -1229,7 +1705,6 @@ goal_planet4_desc	Aterriza al menos 3 veces en planetas de nivel 20 o superior.	
 goal_planet4_title	Aterriza 3 veces en planetas de nivel 20	old	Land 3 times on planets of level 20
 goal_progress	Progreso: ~A%	old	Progress: ~A%
 goal_ready_alert	El objetivo <<~A>> está ahora disponible.	old	The goal <<~A>> is now available.
-goal_recruit1_desc	Recluta a 5 oficiales nuevos en la pantalla de Personal. [DEV] revise this	old	Recruit 5 new officers in the Staff screen. [DEV] revise this
 goal_recruit1_title	Recluta a 5 oficiales nuevos	old	Recruit 5 new officers
 goal_recycle1_desc	Recicla 50 piezas de basura. Asegúrate de que tienes al menos una recicladora y que el trabajo de limpieza está habilitado para algunos de tus oficiales.	old	Recycle 50 pieces of litter. Make sure you have at least one recycler and that the cleaning job is enabled for some of your officers.
 goal_recycle1_title	Recicla 50 piezas de basura	old	Recycle 50 pieces of litter
@@ -1300,7 +1775,7 @@ job_warn_no_recipe	Selecciona una receta para activar la producción.	old	Select
 job_warn_no_resources	Uno o más recursos necesarios no se pueden entregar a este objeto.	old	One or more required resources cannot be delivered to this object.
 job_warn_wait_worker	A la espera de un trabajador cualificado.	old	Waiting for a qualified worker.
 k_thousands	K	old	K
-kb_squad_all	Seleccionar todos los miembros del equipo	old	Select all squad members
+kb_squad_all	Seleccionar todos los miembros del equipo	old	NOT FOUND IN GAME
 kb_walk_to	Acción: Caminar a	old	NOT FOUND IN GAME
 lemurian_adjective	Lemuriano %s	old	Lemurian %s
 lemurian_adjective2	Lemuriano ~A	old	Lemurian ~A
