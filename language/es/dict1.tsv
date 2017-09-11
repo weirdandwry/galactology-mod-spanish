@@ -1,3 +1,138 @@
+error_bad_save	Error cargando partida: no se puede leer el archivo o está corrupto	2016-07-03T20:26:00.861377	Error loading game: cannot read the save file, or it is corrupted.
+error_missing_mods_1	Esta partida hace uso de los siguientes mods, que no están suscritos o instalados:\n	2016-07-03T20:26:00.861377	This save file makes use of the following mods which are not subscribed and/or installed:\n
+error_missing_mods_2	El juego puede bloquearse o mostrar errores si cargas esta partida. Continuar?	2016-07-03T20:26:00.861377	The game may crash or display errors if you try to load this save file. Load it anyway?
+failure	Fallo	2016-07-03T20:26:00.861377	Failure
+file_manager	Archivos de partida	2016-07-03T20:26:00.861377	File manager
+in_stasis	Conservado	2016-07-03T20:26:00.861377	In stasis
+key_unbind	Desasignar	2016-07-03T20:26:00.861377	Unbind
+ok	OK	2016-07-03T20:26:00.861377	OK
+options_menu	Opciones	2016-07-03T20:26:00.861377	Options
+staff_screen	Personal	2016-07-03T20:26:00.861377	Staff
+tile_construction_job	Construcción de suelo	2016-07-03T20:26:00.861377	Floor construction
+tile_destruction_job	Destrucción de suelo	2016-07-03T20:26:00.861377	Floor destruction
+yes	Si	2016-07-03T20:26:00.861377	Yes
+all_officers	Todos	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
+alphabetically	Alfabético	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
+by_mind	Ánimo	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
+galaxy_filter_cvis	Mostrar civs	2016-10-14T12:38:54.517333	Show civs
+galaxy_filter_none	La galaxia	2016-10-14T12:38:54.517333	Just the galaxy
+galaxy_filter_reps	Civs	2016-10-14T12:38:54.517333	Civs
+galaxy_filter_resources2	Recurso extraído: %s	2016-10-14T12:38:54.517333	Extracted resource: %s
+mind_tip	Ánimo: %d	2016-10-14T12:38:54.517333	Mind: %d
+missing_demands	Demandas pendientes	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
+pending_upgrade	Promoción pendiente	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
+ship_arrived_info	%s es ahora %s	2016-10-14T12:38:54.517333	%s is now %s
+ship_auto_status_run	Autopilotada	2016-10-14T12:38:54.517333	Autopiloted
+ship_auto_status_stop	Piloto manual	2016-10-14T12:38:54.517333	Manual piloting
+ship_distance_to_other	Distancia a %s (L%d): %0.2f parsecs	2016-10-14T12:38:54.517333	Distance to %s (L%d): %0.2f parsecs
+vsync	VSync	2016-10-14T12:38:54.517333	VSync
+vsync_default	No modificar	2016-10-14T12:38:54.517333	Default
+vsync_late	Tardío	2016-10-14T12:38:54.517333	Late
+vsync_off	Desactivar	2016-10-14T12:38:54.517333	Off
+vsync_on	Activar	2016-10-14T12:38:54.517333	On
+alert_delete	Borrar	2017-02-17T12:08:46.816707	Delete
+alert_minimize	Ocultar	2017-02-17T12:08:46.816707	Hide
+civs_points	%d / %d puntos	2017-02-17T12:08:46.816707	%d / %d points
+explore_warn_no_weapons	Ningún miembro de la tripulación tiene un arma. Estás seguro de querer visitar el planeta?	2017-02-17T12:08:46.816707	Nobody in the ship crew is equipped with a weapon. Are you sure want to explore the planet?
+galaxy_filter_none_show	Mostrar solo nombres	2017-02-17T12:08:46.816707	Show just galaxy labels
+galaxy_filter_show_civ_ships	Mostrar o ocultar naves visitantes	2017-02-17T12:08:46.816707	Toggle civ ships
+show_all_ships	Mostrar todas las naves	2017-02-17T12:08:46.816707	Show all ships
+show_only_spatials_ships	Mostrar solo naves de Spatials	2017-02-17T12:08:46.816707	Show only Spatials ships
+ugc_but_create	Crear	2017-02-17T12:08:46.816707	Create
+ugc_but_update	Actualizar	2017-02-17T12:08:46.816707	Update
+ugc_change_desc	Listado de cambios (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Update changelog (you can paste from a real text editor)
+ugc_changelog	Listado de cambios de la actualización:	2017-02-17T12:08:46.816707	Update changelog:
+ugc_create_new_mod	Crear un mod	2017-02-17T12:08:46.816707	Create new mod
+ugc_desc	Descripción:	2017-02-17T12:08:46.816707	Description:
+ugc_entry_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
+ugc_entry_desc_too_log	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
+ugc_entry_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
+ugc_entry_title_too_log	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
+ugc_error_conn	Error conectando con Steamworks	2017-02-17T12:08:46.816707	Error while connecting with Steamworks
+ugc_error_logged	Se necesita estar conectado a Steam para realizar esta acción	2017-02-17T12:08:46.816707	Must be logged into Steam to perform this action
+ugc_error_priv	No hay suficientes privilegios asociados a la cuenta de Steam	2017-02-17T12:08:46.816707	Not enough privileges with the current user account in Steam
+ugc_error_timeout	Tiempo de espera agotado conectando con Steamworks	2017-02-17T12:08:46.816707	Timeout while connecting with Steam
+ugc_folder	Carpeta actual:	2017-02-17T12:08:46.816707	Content folder:
+ugc_folder_desc	Selecciona una carpeta que contenga los archivos del mod	2017-02-17T12:08:46.816707	Select mod content folder to upload
+ugc_image	Imagen:	2017-02-17T12:08:46.816707	Image:
+ugc_mod_desc	Descripción (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Mod description (you can paste from a real text editor)
+ugc_mod_title	Título del mod	2017-02-17T12:08:46.816707	Mod title
+ugc_my_workshop	Mi Workshop	2017-02-17T12:08:46.816707	My Workshop
+ugc_tag_translation	Traducción	2017-02-17T12:08:46.816707	Translation
+ugc_tags	Tags:	2017-02-17T12:08:46.816707	Tags:
+ugc_title	Título:	2017-02-17T12:08:46.816707	Title:
+ugc_user_warning	Esta herramienta es para modders. Para instalar y jugar con mods usa el panel de Mods al crear una nueva partida.	2017-02-17T12:08:46.816707	This is a tool for mod developers. To install and activate mods for your games use the Mods panel in the New Game window.
+ugc_valid_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
+ugc_valid_desc_too_long	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
+ugc_valid_folder_req	La carpeta es obligatoria	2017-02-17T12:08:46.816707	A content folder is required
+ugc_valid_image_req	La imagen es obligatoria	2017-02-17T12:08:46.816707	An image file is required
+ugc_valid_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
+ugc_valid_title_too_long	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
+ugc_vis	Visibilidad:	2017-02-17T12:08:46.816707	Visibility:
+ugc_vis_friends	Amigos	2017-02-17T12:08:46.816707	Friends
+ugc_vis_private	Privado	2017-02-17T12:08:46.816707	Private
+ugc_vis_public	Público	2017-02-17T12:08:46.816707	Public
+ugc_warn_already	Se está creando o subiendo un mod, espera por favor	2017-02-17T12:08:46.816707	A Mod is still being created and/or updated, please wait
+civ_encountered	El primer sistema %s ha sido descubierto! Ya puedes ver esta civ en la pantalla de civs.	2017-07-21T14:12:23.817671	First %s star system discovered! You can now see this civ in the civs screen.
+error_saving_game	Error guardando la partida	2017-07-21T14:12:23.817671	Error saving game
+event_finished	Evento finalizado	2017-07-21T14:12:23.817671	Event finished
+event_ongoing	En curso	2017-07-21T14:12:23.817671	Ongoing
+event_progress	Progreso: %s	2017-07-21T14:12:23.817671	Event progress: %s
+event_timer	Tiempo restante: %s	2017-07-21T14:12:23.817671	Remaining time: %s
+explore_warn_already_exploring_other	Solo puede explorarse un planeta a la vez.	2017-07-21T14:12:23.817671	Only one planet can be explored at the same time.
+explore_warn_no_ship	No hay ninguna nave orbitando este planeta. Arrastra y suelta una nave para darle una orden manual de navegación. Cuando llegue al planeta serás notificado y podrás explorar su superficie.	2017-07-21T14:12:23.817671	No ship is parked in this planet. Drag and drop a ship on this planet to set a manual travel order and when it arrives you'll be able to explore its surface.
+fs_delete_file	Borrar partida	2017-07-21T14:12:23.817671	Delete file
+fs_load_file	Cargar partida	2017-07-21T14:12:23.817671	Load file
+fs_new_file	Nueva partida	2017-07-21T14:12:23.817671	New file
+fs_new_file_name	Introduce el nombre de la nueva partida	2017-07-21T14:12:23.817671	Enter name for new save file
+fs_new_file_name_too_long	El nombre es demasiado largo	2017-07-21T14:12:23.817671	Name is too long
+fs_new_file_name_too_short	El nombre es demasiado corto	2017-07-21T14:12:23.817671	Name is too short
+fs_overwrite_file	Sobreescribir partida	2017-07-21T14:12:23.817671	Overwrite file
+fs_prompt_select	Selecciona la partida	2017-07-21T14:12:23.817671	Select a file
+game_speed_3x	Velocidad 3x	2017-07-21T14:12:23.817671	Game speed 3x
+game_speed_6x	Velocidad 6x	2017-07-21T14:12:23.817671	Game speed 6x
+latest_save	Última partida: %s	2017-07-21T14:12:23.817671	Latest save: %s
+mod_outdated	El mod seleccinado no es compatible con esta versión del juego	2017-07-21T14:12:23.817671	The selected mod is not compatible with this version of the game
+not_exploring_short	Sin exploración	2017-07-21T14:12:23.817671	Not exploring
+obsolete	Obsoleto	2017-07-21T14:12:23.817671	Obsolete
+planet_info_friend	Damos la bienvenida a nuestros amigos los Spatials. Por favor no os lo llevéis todo.	2017-07-21T14:12:23.817671	We welcome our friends The Spatials to our humble planet. Please do not steal everything.
+planet_info_hostile	Invasores! Llamando a todas las unidades!	2017-07-21T14:12:23.817671	Invaders detected! Deploy all units for combat!
+planet_info_neutral	Hola! Lleva cuidado a donde apuntas con esas armas, vale?	2017-07-21T14:12:23.817671	Hi there! Be careful where you point those guns at, would you?
+planet_info_no_civ	No se ha detectado inteligencia avanzada en este planeta. Incluyendo árboles.	2017-07-21T14:12:23.817671	No signs of advanced intelligence detected in this planet. That includes trees.
+shell_autosaving	Guardando automáticamente...	2017-07-21T14:12:23.817671	Autosaving...
+shell_saving	Guardando...	2017-07-21T14:12:23.817671	Saving...
+staff_view_counter	Total %d	2017-07-21T14:12:23.817671	Total %d
+staff_view_counter_filtered	Total %d / Filtrado %d	2017-07-21T14:12:23.817671	Total %d / Filtered %d
+accept	Aceptar	2017-09-10T18:06:18.056540	Accept
+wall_construction_job	Construcción de pared	2017-09-10T18:06:18.056540	Wall construction
+arid_planet	Planeta árido	2017-09-10T18:06:18.056540	Arid planet
+black_hole	Agujero negro	2017-09-10T18:06:18.056540	Black hole
+current_game	Partida actual	2017-09-10T18:06:18.056540	Current game
+enable_alert_popups	Permitir popups de alerta	2017-09-10T18:06:18.056540	Enable alert popups
+enable_events	Permitir eventos	2017-09-10T18:06:18.056540	Enable events
+enable_violent_events	Permitir eventos violentos	2017-09-10T18:06:18.056540	Enable violent events
+exploration	Exploración	2017-09-10T18:06:18.056540	Exploration
+frozen_planet	Planeta helado	2017-09-10T18:06:18.056540	Frozen planet
+gaia_planet	Planeta gaia	2017-09-10T18:06:18.056540	Gaia planet
+gas_planet	Planeta gaseoso	2017-09-10T18:06:18.056540	Gas planet
+home	Hogar	2017-09-10T18:06:18.056540	Home
+level_n_paren	(nivel %d)	2017-09-10T18:06:18.056540	(level %d)
+new_game_option_events	Eventos:	2017-09-10T18:06:18.056540	Events:
+new_game_option_events_desc	Las opciones de eventos también pueden cambiarse dentro de la partida en cualquier momento	2017-09-10T18:06:18.056540	Event options can also be changed in-game at any time
+new_game_option_pick_planet_kind	Tipo de planeta:	2017-09-10T18:06:18.056540	Planet kind:
+new_game_options	Opciones	2017-09-10T18:06:18.056540	Options
+oceanic_planet	Planeta oceánico	2017-09-10T18:06:18.056540	Oceanic planet
+options_more_languages	@ui_icon_30px_lenguage.png Más idiomas	2017-09-10T18:06:18.056540	@ui_icon_30px_lenguage.png More languages
+options_need_game	No hay una partida cargada. Las opciones de partida se guardan con la partida. Empieza o carga una partida para poder cambiarlas.	2017-09-10T18:06:18.056540	No game has been loaded. Gameplay options are stored per-save. Please start a new game or load a saved game to change gameplay options.
+options_save_desc	Las opciones de esta pestaña se guardan con la partida. Asegúrate de guardar la partida después de cambiar las opciones.	2017-09-10T18:06:18.056540	The options in this tab are stored in the save game file, not in the global options. Make sure to save the game after making any changes.
+press_new_key	Pulsa la nueva tecla para:	2017-09-10T18:06:18.056540	Press the new key for:
+random	Aleatorio	2017-09-10T18:06:18.056540	Random
+ship_order_item_subtile_home	Descargar, tripulación desembarca, esperar avituallamiento	2017-09-10T18:06:18.056540	Unload cargo, crew disembarks, wait for vitals
+ship_order_item_subtile_other	Cargar mercancía	2017-09-10T18:06:18.056540	Load cargo
+star	Estrella	2017-09-10T18:06:18.056540	Star
+terra_planet	Planeta terrestre	2017-09-10T18:06:18.056540	Terra planet
+volcanic_planet	Planeta volcánico	2017-09-10T18:06:18.056540	Volcanic planet
+wall_destruction_job	Destrucción de pared	2017-09-10T18:06:18.056540	Wall destruction
 alert_reports	Alertas e informes	old	Alerts and reports
 asteroid	Asteroide	old	Asteroid
 audio	Audio	old	Audio
@@ -119,10 +254,10 @@ ship_not_available_full_morale	Uno o más oficiales no están en condiciones	old
 ship_not_available_invalid	Nave fuera de servicio	old	Ship is in an invalid state
 ship_not_available_some_already_exploring	Ya existe una nave explorando un planeta	old	A ship is already exploring a planet
 ship_not_available_this_already_exploring	Nave explorando un planeta	old	Ship is exploring a planet
-ship_order_item_subtile_home_m	Descarga, tripulación desembarca, esperar %dm	old	Unload cargo, crew disembarks, wait %dm
-ship_order_item_subtile_home_s	Descarga, tripulación desembarca, esperar %ds	old	Unload cargo, crew disembarks, wait %ds
-ship_order_item_subtile_other_m	Cargar, esperar %dm	old	Load cargo, wait %dm
-ship_order_item_subtile_other_s	Cargar, esperar %ds	old	Load cargo, wait %ds
+ship_order_item_subtile_home_m	Descarga, tripulación desembarca, esperar %dm	old	NOT FOUND IN GAME
+ship_order_item_subtile_home_s	Descarga, tripulación desembarca, esperar %ds	old	NOT FOUND IN GAME
+ship_order_item_subtile_other_m	Cargar, esperar %dm	old	NOT FOUND IN GAME
+ship_order_item_subtile_other_s	Cargar, esperar %ds	old	NOT FOUND IN GAME
 ship_order_item_tile	Viajar a %s (L%d) en %s	old	Travel to %s (L%d) in %s
 ship_order_item_tile_star	Viajar a %s (L%d)	old	Travel to %s (L%d)
 ship_orders_drag_icon	Arrastra este icono a un planeta o estrella para crear una nueva orden	old	Drag this icon to a planet or star to create a new order
@@ -155,110 +290,3 @@ window	Ventana	old	Window
 window_size	Tamaño ventana	old	Window size
 zoom_in	Zoom+	old	Zoom in
 zoom_out	Zoom-	old	Zoom out
-civ_encountered	El primer sistema %s ha sido descubierto! Ya puedes ver esta civ en la pantalla de civs.	2017-07-21T14:12:23.817671	First %s star system discovered! You can now see this civ in the civs screen.
-error_saving_game	Error guardando la partida	2017-07-21T14:12:23.817671	Error saving game
-event_finished	Evento finalizado	2017-07-21T14:12:23.817671	Event finished
-event_ongoing	En curso	2017-07-21T14:12:23.817671	Ongoing
-event_progress	Progreso: %s	2017-07-21T14:12:23.817671	Event progress: %s
-event_timer	Tiempo restante: %s	2017-07-21T14:12:23.817671	Remaining time: %s
-explore_warn_already_exploring_other	Solo puede explorarse un planeta a la vez.	2017-07-21T14:12:23.817671	Only one planet can be explored at the same time.
-explore_warn_no_ship	No hay ninguna nave orbitando este planeta. Arrastra y suelta una nave para darle una orden manual de navegación. Cuando llegue al planeta serás notificado y podrás explorar su superficie.	2017-07-21T14:12:23.817671	No ship is parked in this planet. Drag and drop a ship on this planet to set a manual travel order and when it arrives you'll be able to explore its surface.
-fs_delete_file	Borrar partida	2017-07-21T14:12:23.817671	Delete file
-fs_load_file	Cargar partida	2017-07-21T14:12:23.817671	Load file
-fs_new_file	Nueva partida	2017-07-21T14:12:23.817671	New file
-fs_new_file_name	Introduce el nombre de la nueva partida	2017-07-21T14:12:23.817671	Enter name for new save file
-fs_new_file_name_too_long	El nombre es demasiado largo	2017-07-21T14:12:23.817671	Name is too long
-fs_new_file_name_too_short	El nombre es demasiado corto	2017-07-21T14:12:23.817671	Name is too short
-fs_overwrite_file	Sobreescribir partida	2017-07-21T14:12:23.817671	Overwrite file
-fs_prompt_select	Selecciona la partida	2017-07-21T14:12:23.817671	Select a file
-game_speed_3x	Velocidad 3x	2017-07-21T14:12:23.817671	Game speed 3x
-game_speed_6x	Velocidad 6x	2017-07-21T14:12:23.817671	Game speed 6x
-latest_save	Última partida: %s	2017-07-21T14:12:23.817671	Latest save: %s
-level_n_paren	(nivel %d)	2017-07-21T14:12:23.817671	(level %d)
-mod_outdated	El mod seleccinado no es compatible con esta versión del juego	2017-07-21T14:12:23.817671	The selected mod is not compatible with this version of the game
-not_exploring_short	Sin exploración	2017-07-21T14:12:23.817671	Not exploring
-obsolete	Obsoleto	2017-07-21T14:12:23.817671	Obsolete
-planet_info_friend	Damos la bienvenida a nuestros amigos los Spatials. Por favor no os lo llevéis todo.	2017-07-21T14:12:23.817671	We welcome our friends The Spatials to our humble planet. Please do not steal everything.
-planet_info_hostile	Invasores! Llamando a todas las unidades!	2017-07-21T14:12:23.817671	Invaders detected! Deploy all units for combat!
-planet_info_neutral	Hola! Lleva cuidado a donde apuntas con esas armas, vale?	2017-07-21T14:12:23.817671	Hi there! Be careful where you point those guns at, would you?
-planet_info_no_civ	No se ha detectado inteligencia avanzada en este planeta. Incluyendo árboles.	2017-07-21T14:12:23.817671	No signs of advanced intelligence detected in this planet. That includes trees.
-press_new_key	Pulsa la nueva tecla para:	2017-07-21T14:12:23.817671	Press the new key for:
-shell_autosaving	Guardando automáticamente...	2017-07-21T14:12:23.817671	Autosaving...
-shell_saving	Guardando...	2017-07-21T14:12:23.817671	Saving...
-staff_view_counter	Total %d	2017-07-21T14:12:23.817671	Total %d
-staff_view_counter_filtered	Total %d / Filtrado %d	2017-07-21T14:12:23.817671	Total %d / Filtered %d
-alert_delete	Borrar	2017-02-17T12:08:46.816707	Delete
-alert_minimize	Ocultar	2017-02-17T12:08:46.816707	Hide
-civs_points	%d / %d puntos	2017-02-17T12:08:46.816707	%d / %d points
-explore_warn_no_weapons	Ningún miembro de la tripulación tiene un arma. Estás seguro de querer visitar el planeta?	2017-02-17T12:08:46.816707	Nobody in the ship crew is equipped with a weapon. Are you sure want to explore the planet?
-galaxy_filter_none_show	Mostrar solo nombres	2017-02-17T12:08:46.816707	Show just galaxy labels
-galaxy_filter_show_civ_ships	Mostrar o ocultar naves visitantes	2017-02-17T12:08:46.816707	Toggle civ ships
-show_all_ships	Mostrar todas las naves	2017-02-17T12:08:46.816707	Show all ships
-show_only_spatials_ships	Mostrar solo naves de Spatials	2017-02-17T12:08:46.816707	Show only Spatials ships
-ugc_but_create	Crear	2017-02-17T12:08:46.816707	Create
-ugc_but_update	Actualizar	2017-02-17T12:08:46.816707	Update
-ugc_change_desc	Listado de cambios (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Update changelog (you can paste from a real text editor)
-ugc_changelog	Listado de cambios de la actualización:	2017-02-17T12:08:46.816707	Update changelog:
-ugc_create_new_mod	Crear un mod	2017-02-17T12:08:46.816707	Create new mod
-ugc_desc	Descripción:	2017-02-17T12:08:46.816707	Description:
-ugc_entry_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
-ugc_entry_desc_too_log	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
-ugc_entry_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
-ugc_entry_title_too_log	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
-ugc_error_conn	Error conectando con Steamworks	2017-02-17T12:08:46.816707	Error while connecting with Steamworks
-ugc_error_logged	Se necesita estar conectado a Steam para realizar esta acción	2017-02-17T12:08:46.816707	Must be logged into Steam to perform this action
-ugc_error_priv	No hay suficientes privilegios asociados a la cuenta de Steam	2017-02-17T12:08:46.816707	Not enough privileges with the current user account in Steam
-ugc_error_timeout	Tiempo de espera agotado conectando con Steamworks	2017-02-17T12:08:46.816707	Timeout while connecting with Steam
-ugc_folder	Carpeta actual:	2017-02-17T12:08:46.816707	Content folder:
-ugc_folder_desc	Selecciona una carpeta que contenga los archivos del mod	2017-02-17T12:08:46.816707	Select mod content folder to upload
-ugc_image	Imagen:	2017-02-17T12:08:46.816707	Image:
-ugc_mod_desc	Descripción (puedes copiar y pegar desde un editor externo)	2017-02-17T12:08:46.816707	Mod description (you can paste from a real text editor)
-ugc_mod_title	Título del mod	2017-02-17T12:08:46.816707	Mod title
-ugc_my_workshop	Mi Workshop	2017-02-17T12:08:46.816707	My Workshop
-ugc_tag_translation	Traducción	2017-02-17T12:08:46.816707	Translation
-ugc_tags	Tags:	2017-02-17T12:08:46.816707	Tags:
-ugc_title	Título:	2017-02-17T12:08:46.816707	Title:
-ugc_user_warning	Esta herramienta es para modders. Para instalar y jugar con mods usa el panel de Mods al crear una nueva partida.	2017-02-17T12:08:46.816707	This is a tool for mod developers. To install and activate mods for your games use the Mods panel in the New Game window.
-ugc_valid_desc_req	La descripción es obligatoria	2017-02-17T12:08:46.816707	Description is required
-ugc_valid_desc_too_long	La descripción es demasiado larga	2017-02-17T12:08:46.816707	Description is too long
-ugc_valid_folder_req	La carpeta es obligatoria	2017-02-17T12:08:46.816707	A content folder is required
-ugc_valid_image_req	La imagen es obligatoria	2017-02-17T12:08:46.816707	An image file is required
-ugc_valid_title_req	El título es obligatorio	2017-02-17T12:08:46.816707	Title is required
-ugc_valid_title_too_long	El título es demasiado largo	2017-02-17T12:08:46.816707	Title is too long
-ugc_vis	Visibilidad:	2017-02-17T12:08:46.816707	Visibility:
-ugc_vis_friends	Amigos	2017-02-17T12:08:46.816707	Friends
-ugc_vis_private	Privado	2017-02-17T12:08:46.816707	Private
-ugc_vis_public	Público	2017-02-17T12:08:46.816707	Public
-ugc_warn_already	Se está creando o subiendo un mod, espera por favor	2017-02-17T12:08:46.816707	A Mod is still being created and/or updated, please wait
-all_officers	Todos	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
-alphabetically	Alfabético	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
-by_mind	Ánimo	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
-galaxy_filter_cvis	Mostrar civs	2016-10-14T12:38:54.517333	Show civs
-galaxy_filter_none	La galaxia	2016-10-14T12:38:54.517333	Just the galaxy
-galaxy_filter_reps	Civs	2016-10-14T12:38:54.517333	Civs
-galaxy_filter_resources2	Recurso extraído: %s	2016-10-14T12:38:54.517333	Extracted resource: %s
-mind_tip	Ánimo: %d	2016-10-14T12:38:54.517333	Mind: %d
-missing_demands	Demandas pendientes	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
-pending_upgrade	Promoción pendiente	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
-ship_arrived_info	%s es ahora %s	2016-10-14T12:38:54.517333	%s is now %s
-ship_auto_status_run	Autopilotada	2016-10-14T12:38:54.517333	Autopiloted
-ship_auto_status_stop	Piloto manual	2016-10-14T12:38:54.517333	Manual piloting
-ship_distance_to_other	Distancia a %s (L%d): %0.2f parsecs	2016-10-14T12:38:54.517333	Distance to %s (L%d): %0.2f parsecs
-vsync	VSync	2016-10-14T12:38:54.517333	VSync
-vsync_default	No modificar	2016-10-14T12:38:54.517333	Default
-vsync_late	Tardío	2016-10-14T12:38:54.517333	Late
-vsync_off	Desactivar	2016-10-14T12:38:54.517333	Off
-vsync_on	Activar	2016-10-14T12:38:54.517333	On
-error_bad_save	Error cargando partida: no se puede leer el archivo o está corrupto	2016-07-03T20:26:00.861377	Error loading game: cannot read the save file, or it is corrupted.
-error_missing_mods_1	Esta partida hace uso de los siguientes mods, que no están suscritos o instalados:\n	2016-07-03T20:26:00.861377	This save file makes use of the following mods which are not subscribed and/or installed:\n
-error_missing_mods_2	El juego puede bloquearse o mostrar errores si cargas esta partida. Continuar?	2016-07-03T20:26:00.861377	The game may crash or display errors if you try to load this save file. Load it anyway?
-failure	Fallo	2016-07-03T20:26:00.861377	Failure
-file_manager	Archivos de partida	2016-07-03T20:26:00.861377	File manager
-in_stasis	Conservado	2016-07-03T20:26:00.861377	In stasis
-key_unbind	Desasignar	2016-07-03T20:26:00.861377	Unbind
-ok	OK	2016-07-03T20:26:00.861377	OK
-options_menu	Opciones	2016-07-03T20:26:00.861377	Options
-staff_screen	Personal	2016-07-03T20:26:00.861377	Staff
-tile_construction_job	Construcción de suelo	2016-07-03T20:26:00.861377	Floor construction
-tile_destruction_job	Destrucción de suelo	2016-07-03T20:26:00.861377	Floor destruction
-yes	Si	2016-07-03T20:26:00.861377	Yes

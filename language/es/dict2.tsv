@@ -19,10 +19,7 @@ ship_order_wait_time_dialog_label	Escribe el tiempo de espera en minutos, o 0 pa
 sneaker_last_resort_alert	Un hostil oculto se ha infiltrado sin ser detectado en la estación y acaba de revelarse!	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 storage_filter_disabled	Esta zona de almacenamiento está siendo utilizada como un área de descarga y no permite el filtrado de recursos	2016-07-03T20:30:59.196653	This storage area is being used as a drop area and does not allow resource filtering
 tutorial_galaxy_autopilot_1	Visitar manualmente planetas para transportar carga sería muy aburrido . Por esa razón las naves espaciales están equipadas con un piloto automático . Haz clic en la nave resaltada para abrir su ventana del piloto automático.	2016-07-03T20:30:59.196653	Manually visiting planets to transport cargo would be very boring. For this reason space ships are equipped with an autopilot. Click on the highlighted ship to open its autopilot window.
-tutorial_galaxy_autopilot_2	Esta es la ventana del piloto automático de la nave. Puedes añadir órdenes a su lista, reorganizarlas, establecer la duración del estacionamiento e iniciar y detener el piloto automático..\nHagamos una ruta entre el planeta tutorial y tu hogar.\nArrastra el icono resaltado a Hogar.	2016-07-03T20:30:59.196653	This is the space ship autopilot window. You can add orders to its listing, rearrange them, set the parking duration, then start and stop the autopilot.\nLet's set up a route between the tutorial planet and your home station.\nDrag the highlighted icon to Home.
-tutorial_galaxy_autopilot_3	Una nueva orden para ir al Hogar ha sido creada.\nAhora arrastra la nave de nuevo hacia Tutoland. Recuerda que puedes mover ventanas desde su barra de título si bloquean tu objetivo.	2016-07-03T20:30:59.196653	A new order has been created for visiting Home.\nNow drag it again to Tutoland. Remember you can move windows around by their title bar if they block your target.
-tutorial_galaxy_autopilot_4	Ahora haz clic en el botón Iniciar para empezar la ruta. La nave viajará sin que intervengas, se cargará automáticamente y entregará la carga cuando visite el Hogar.	2016-07-03T20:30:59.196653	Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo and delivering it when it visits Home.
-tutorial_galaxy_autopilot_5	¡Eso es! Puedes probar otras opciones. Puede ser una buena idea aumentar el tiempo de espera en la estación seleccionando la orden de Hogar y haciendo clic en el botón del reloj de arena para dar a tus oficiales más tiempo para descansar.	2016-07-03T20:30:59.196653	That's it! You can explore the other options. It may be a good idea to increase the wait time while in the station by selecting the Home order and clicking on the hourglass button, to give your officers more time to rest.
+tutorial_galaxy_autopilot_3	Una nueva orden para ir al Hogar ha sido creada.\nAhora arrastra la nave de nuevo hacia Tutoland. Recuerda que puedes mover ventanas desde su barra de título si bloquean tu objetivo.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_galaxy_autopilot_6	[DEV] Aún no hay mecanismo en el juego para desbloquear nuevos sistemas estelares . Por ahora utiliza el botón de truco en la vista del sistema para desbloquearlos.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_galaxy_basics_1	Ah, la galaxia. Hay mucho por explorar. ¡Puede ser abrumador! Vamos a empezar poco a poco.\nEsta es la vista general de la galaxia. Puedes hacer clic en las estrellas para hacer zoom en su sistema planetario . Por ahora solo tu sistema principal está desbloqueado para viajar . Haz click en el.	2016-07-03T20:30:59.196653	Ah, the galaxy. So much to explore. It can be overwhelming! Let's start small.\nThis is the top level galaxy view. You can click on the stars to zoom into their planetary system. For now only your home system is open for travel. Click on it.
 tutorial_galaxy_basics_2	Por ahora, el foco principal de la galaxia es ser tu fuente de recursos primarios para  tus fábricas y cocinas. El filtro de Recursos mostrará los recursos disponibles en un planeta para que puedas planificar su exploración y controlar su producción.	2016-07-03T20:30:59.196653	At this stage, the main focus for the galaxy is to be your source of raw resources for your factories and kitchens. The Resources overlay will display the available resources in a planet, so you can plan your exploration and monitor their production.
@@ -31,7 +28,7 @@ tutorial_galaxy_basics_5	¡Vamos a explorar este planeta! Haz clic en Tutoland.	
 tutorial_galaxy_basics_6	Para explorar el planeta haz clic en el botón Explorar. Cambiarás a la pantalla Planeta y podrás empezar los tutoriales básicos de planeta.	2016-07-03T20:30:59.196653	To explore the planet click on the Explore button. You will switch to the planet screen and you can start the basic planet tutorials there.
 tutorial_galaxy_basics_7	Esas son las cosas básicas. Asegúrate de seguir con el tutorial de extracción en planeta, a continuación, y luego haz el tutorial de piloto automático aquí. Haz clic en Menú.	2016-07-03T20:30:59.196653	That's it for the basics. Make sure you follow the Extraction tutorial on the planet, then try the Autopilot tutorial here. Click Menu now.
 tutorial_menu_goals_hint	Consejo: Si has terminado con los tutoriales revisa los Objetivos en la barra de herramientas superior.	2016-07-03T20:30:59.196653	Tip: If you are done with tutorials check the Goals in the top toolbar.
-tutorial_planet_basics_6	La barra de equipo está encima de tu barra de acción . Al hacer clic en el botón Todos en el lado derecho se selecciona todo tu equipo, y la siguiente orden de acción que des se aplicará a todos los miembros del equipo. El botón Todos está asociado de forma predeterminada a [Tab] y se puede utilizar de forma rápida desde cualquier otra herramienta.	2016-07-03T20:30:59.196653	The squad bar is on top of your action bar. By clicking on the All button in the right side it selects your entire squad, and the next action order you give will apply to every squad member. The All button is bound by default to [Tab] and can be quickly used while inside any other tool.
+tutorial_planet_basics_6	La barra de equipo está encima de tu barra de acción . Al hacer clic en el botón Todos en el lado derecho se selecciona todo tu equipo, y la siguiente orden de acción que des se aplicará a todos los miembros del equipo. El botón Todos está asociado de forma predeterminada a [Tab] y se puede utilizar de forma rápida desde cualquier otra herramienta.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_planet_extraction_1	Vamos a construir un extractor de recursos. Estos edificios persisten en la superficie del planeta y generarán periódicamente recursos listos para ser recogidos por tus naves. Debes construirlos cerca de uno o más nodos de recursos para que estos queden dentro de su área de influencia. Selecciona la herramienta de construcción.	2016-07-03T20:30:59.196653	Let's build a resource extractor. These buildings persist on the surface of the planet, and will periodically generate resources ready to be picked up by your space ships. You must build them near one or resource nodes, so the nodes are inside their area of influence. Select the build tool.
 tutorial_planet_extraction_4	Ahora el objeto debe ser construido por tus oficiales. Habrá que esperar a que terminen el trabajo. Recuerda que puedes utilizar la herramienta de teletransporte si han aterrizado lejos del objeto en construcción.	2016-07-03T20:30:59.196653	The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction.
 tutorial_planet_extraction_5	¡Eso es! Ahora este extractor generará frutos que serán almacenados localmente. Viaja a este planeta para cargarlos en una nave y usa la función de piloto automático en la galaxia para automatizar la entrega a tu estación .	2016-07-03T20:30:59.196653	That's it! This extractor will now generate fruits and they will get stored locally. Park on this planet to load them into a space ship, and use the autopilot feature in the galaxy to automate the delivery to your station.
@@ -44,14 +41,14 @@ tutorial_station_basics_1	¡Bienvenido a The Spatials: Galactology!\nEsta es tu 
 tutorial_station_basics_3_1	La barra de herramientas de la izquierda tiene todas las herramientas que necesitas para construir y administrar tu estación. La primera herramienta es la herramienta de Info. Siempre puedes seleccionar esta herramienta pulsando la tecla Esc.	2016-07-03T20:30:59.196653	The left toolbar has all the tools you need to build and manage your station. The first tool is the Info tool. You can always select this tool with the Esc key.
 tutorial_station_basics_3_2	Selecciona la herramienta y luego haz clic con el botón izquierdo en cualquier oficial o elemento de la estación.	2016-07-03T20:30:59.196653	Select the tool and then left click on any officer or item on the station.
 tutorial_station_basics_4	La herramienta de Info muestra información sobre el objeto seleccionado. También puede ofrecer controles adicionales para cambiar aspectos de dicho objeto, como asignar recetas en una cocina.\nSi el elemento sobre el que deseas hacer clic está detrás de otro elemento, basta con hacer clic sobre el mismo punto una o más veces para recorrer todos los elementos en ese punto.	2016-07-03T20:30:59.196653	The Info tool displays information about the selected object. It can also offer additional controls for changing aspects of that object, like setting the recipe in a kitchen.\nIf the item you want to click is behind another item, just click on the same point one or more times, to cycle thru all items in that point.
-tutorial_station_floor_tool_1	La estación se compone de habitaciones unidas por pasillos. Vamos a construir un pasillo.\nSelecciona la herramienta de construir suelos.	2016-07-03T20:30:59.196653	Your station is composed of rooms, linked by corridors. Let's build a corridor.\nSelect the Build floor tool
-tutorial_station_floor_tool_2	Selecciona el pasillo.	2016-07-03T20:30:59.196653	Select the corridor floor
-tutorial_station_floor_tool_3_1	La herramienta de construcción de suelos dibuja en la estación un plano del suelo seleccionado cuando se arrastra con el botón izquierdo del ratón.\nDibuja un pasillo entre las dos marcas.	2016-07-03T20:30:59.196653	The build floor tool draws a blueprint of the selected floor on the station when you drag with left mouse button.\nDraw a corridor between the two markers.
-tutorial_station_floor_tool_4	La herramienta de suelo simplemente dibuja un plano. Para conseguir que el suelo real se construya, se crea un trabajo para tus oficiales. Espera a que terminen.	2016-07-03T20:30:59.196653	The floor tool just draws a blueprint. In order to get the actual floor built a job is created for your officers. Let's wait for them to finish.
-tutorial_station_floor_tool_5	¡Hecho! Ahora vamos a construir una habitación. Selecciona el tipo de habitación destacado en la herramienta de construir suelo.	2016-07-03T20:30:59.196653	Done! Let's build a room now. Select the highlighted room type in the floor build tool.
-tutorial_station_floor_tool_6	Ahora arrastra con el botón izquierdo del ratón entre las dos marcas. Se trata de una habitación, por lo que la figura dibujada es un rectángulo.	2016-07-03T20:30:59.196653	Now drag with the left mouse button between the two markers. This is a room, so the drawn shape is a rectangle.
-tutorial_station_floor_tool_7	Tus oficiales están construyendo la habitación, vamos a esperar a que terminen.	2016-07-03T20:30:59.196653	Your officers are building the room,  let's wait for them to finish.
-tutorial_station_floor_tool_8	¡Hecho! Pero las habitaciones vacías no son muy útiles. Vuelve al menú y selecciona el tutorial de la herramienta  de objetos para aprender cómo construir su primera cocina.	2016-07-03T20:30:59.196653	Done! But empty rooms are not very useful. Go back to the menu and select the object tool tutorial to learn how to build your first kitchen.
+tutorial_station_floor_tool_1	La estación se compone de habitaciones unidas por pasillos. Vamos a construir un pasillo.\nSelecciona la herramienta de construir suelos.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_2	Selecciona el pasillo.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_3_1	La herramienta de construcción de suelos dibuja en la estación un plano del suelo seleccionado cuando se arrastra con el botón izquierdo del ratón.\nDibuja un pasillo entre las dos marcas.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_4	La herramienta de suelo simplemente dibuja un plano. Para conseguir que el suelo real se construya, se crea un trabajo para tus oficiales. Espera a que terminen.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_5	¡Hecho! Ahora vamos a construir una habitación. Selecciona el tipo de habitación destacado en la herramienta de construir suelo.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_6	Ahora arrastra con el botón izquierdo del ratón entre las dos marcas. Se trata de una habitación, por lo que la figura dibujada es un rectángulo.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_7	Tus oficiales están construyendo la habitación, vamos a esperar a que terminen.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
+tutorial_station_floor_tool_8	¡Hecho! Pero las habitaciones vacías no son muy útiles. Vuelve al menú y selecciona el tutorial de la herramienta  de objetos para aprender cómo construir su primera cocina.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_station_object_tool_1	Las habitaciones por si solas no son suficientes para servir a tus oficiales y visitantes. Construyamos algunos objetos.\nSelecciona la herramienta de construcción de objetos.	2016-07-03T20:30:59.196653	Rooms alone are not enough to serve your officers and visitors. Let's build some objects now.\nSelect the Build object tool.
 tutorial_station_object_tool_2	La herramienta de objetos muestra todos los objetos desbloqueados y disponibles para construir en la estación . En primer lugar seleccionamos la categoría del objeto. Haz clic en la categoría de comida y bebidas.	2016-07-03T20:30:59.196653	The object tool lists all unlocked objects available for building in the station. First we select the object category. Click on the food & drink category.
 tutorial_station_object_tool_3	Ahora haz clic en el objeto resaltado: la Cocina básica.	2016-07-03T20:30:59.196653	Now click on the highlighted object: the basic kitchen.
@@ -332,9 +329,7 @@ job_matrix_per_job_prio_disabled	Usar prioridades de trabajo globales para este 
 job_matrix_per_job_prio_enabled	Programar prioridades de trabajo individuales para este oficial	2016-10-14T14:03:39.281009	Set individual job priorities for this officer
 job_matrix_prompt_officer_prio	Introduce valor prioritario para la tarea, 1 a 99, o 0 para desactivarla.	2016-10-14T14:03:39.281009	Enter priority value for the job, 1 to 99, or 0 for disabling it.
 job_speed	Velocidad: ~0,2Fx	2016-10-14T14:03:39.281009	Speed: ~0,2Fx
-job_warn_no_resources2	~A no puede ser entregado a este objeto.	2016-10-14T14:03:39.281009	~A cannot be delivered to this object.
-kb_build_rotate_left	Construir: Rotar la izquierda	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
-kb_build_rotate_right	Construir: Rotar a la derecha	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+job_warn_no_resources2	~A no puede ser entregado a este objeto.	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 kb_squad_combat	Cambiar a modo de escuadrón de combate	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 keep_slot_empty	Mantener vacía la ranura o asiento seleccionado	2016-10-14T14:03:39.281009	Keep the selected slot or seat empty
 litter	Basura	2016-10-14T14:03:39.281009	Litter
@@ -503,10 +498,10 @@ spec_requires_xp_in	~A de ~A XP en ~A\n	2016-10-14T14:03:39.281009	NOT FOUND IN 
 spec_unlocks	Desloquea especialización:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 spec_upgrade_to	Mejorar a\n~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 speed_n	Velocidad: ~0,2F mParsec/s	2016-10-14T14:03:39.281009	Speed: ~0,2F mParsec/s
-squad_all	Todo	2016-10-14T14:03:39.281009	All
-squad_combat	Combate	2016-10-14T14:03:39.281009	Combat
-squad_combat_busy_desc	Sólo combate	2016-10-14T14:03:39.281009	Only combat
-squad_combat_button	Los miembros del escuadrón ignorarán todas las tareas y se centrarán en el combate	2016-10-14T14:03:39.281009	Squad members will ignore all tasks and will focus on combat
+squad_all	Todo	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+squad_combat	Combate	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+squad_combat_busy_desc	Sólo combate	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+squad_combat_button	Los miembros del escuadrón ignorarán todas las tareas y se centrarán en el combate	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 staff_ui_current_spec	Especialización:	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 staff_ui_upgrade_spec	@ui_icon_20px_xp2.png Promoción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 steel	Acero	2016-10-14T14:03:39.281009	Steel
@@ -524,7 +519,7 @@ tutorial_planet_basics_2	Al igual que en la estación, puedes desplazarte alrede
 tutorial_planet_basics_3	Para dar órdenes a tus oficiales, puedes seleccionarlos con la herramienta de info y a continuación, utilizar el panel de órdenes en la parte inferior de la pantalla para decirles dónde caminar o teletransportarse. Vamos a probarlo. Selecciona cualquier oficial con la herramienta de info.	2016-10-14T14:03:39.281009	To give orders to your officers, you can select them with the info tool, then use the orders panel in the bottom of the screen to teleport them or use their active items. Let's try it. Select any officer with the info tool.
 tutorial_planet_basics_4	La barra de acción aparece cuando la entidad seleccionada acepta órdenes directas de ti. Por ejemplo, puedes decirle al oficial seleccionado que camine hasta un cierto punto usando la acción Caminar a.	2016-10-14T14:03:39.281009	The action bar is displayed when the selected entity allows direct orders from you. For an officer the most direct order is to walk to some point, which is always bound to the right mouse button. Other actions may show up in a context menu when using the right mouse button, like direct work orders.
 tutorial_planet_basics_5	Si quieres que tus oficiales lleguen a un sitio difícil, siempre puedes utilizar la herramienta de teletransporte. Fíjate cómo ésta y otras acciones anuncian un keybind en su información (T para Teletransportarse a). Haz uso de las asociaciones de teclas para emitir órdenes rápidamente.	2016-10-14T14:03:39.281009	If you want your officers to reach a difficult spot, you can always use the teleporter tool. Notice how this and other actions advertise a keybind in their tooltip (by default it's T for Teleport). Make use of keyboard bindings to quickly issue orders.
-tutorial_planet_basics_7	Todos tus oficiales están armados y preparados, en modo automático. Atacarán automáticamente a los enemigos o curarán a sus amigos mientras se encuentren en su radio de acción, sin necesidad de darles órdenes. Puedes hacer shift-click para activar o desactivar este modo en los botones de acción en la barra inferior, y entonces usar esos botones tu mismo. También puedes sub-seleccionar miembros de tu squad haciendo shift-click en sus mini botones.	2016-10-14T14:03:39.281009	All your officers are armed and ready, and in full auto mode. They will engage enemies or heal friendlies that are in range without your input. You can shift-click any action button to enable or disable this auto mode, then use the action buttons yourself to control attacks and healing. You can split your squad by changing the squad selection with shift-click on the squad buttons.
+tutorial_planet_basics_7	Todos tus oficiales están armados y preparados, en modo automático. Atacarán automáticamente a los enemigos o curarán a sus amigos mientras se encuentren en su radio de acción, sin necesidad de darles órdenes. Puedes hacer shift-click para activar o desactivar este modo en los botones de acción en la barra inferior, y entonces usar esos botones tu mismo. También puedes sub-seleccionar miembros de tu squad haciendo shift-click en sus mini botones.	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 tutorial_planet_extraction_2	Ahora haz clic en el objeto resaltado: el Extractor de Bio.	2016-10-14T14:03:39.281009	Now click on the highlighted object: the extractor.
 tutorial_station_basics_2	Desplázate alrededor de tu estación espacial pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2016-10-14T14:03:39.281009	Scroll around your space station by using the WASD keys. Zoom in and out using the mouse wheel.
 tutorial_station_production_5	La pestaña de factoría permite cambiar la receta de la cocina seleccionada. Por defecto no hay recetas seleccionadas y la cocina está apagada. Ponla a cocinar raciones de verduras haciendo clic en el botón resaltado.	2016-10-14T14:03:39.281009	The factory tab allows to add new production orders to the selected kitchen. By default its production queue has no orders and the kitchen is disabled. Let's create a new order. Click the Create order button.
@@ -532,7 +527,6 @@ tutorial_station_production_5_3	Ahora tenemos que indicar la cantidad de veces q
 tutorial_station_production_5_4	El pedido está configurado y listo para ser creado. Haz clic en Añadir a la cola para crear la orden y añadirla a la cola de producción de la cocina.	2016-10-14T14:03:39.281009	Our order is now configured and ready to be created. Click Add to queue to create the order and add it to the kitchen production queue.
 tutorial_station_production_6	Ahora tus agentes empezaran a cocinar raciones, siempre y cuando tenga los recursos necesarios y tengan habilitado el trabajo de cocina.\nEspera a que terminen una ración.	2016-10-14T14:03:39.281009	Your officers will now start cooking rations, as long as they have the required resources, they have the cooking job enabled, and the production queue still has orders to complete.\nLet's wait for them to finish one ration.
 tutorial_station_stocks_8	En este panel se pueden ajustar los parámetros para el sistema de mantenimiento de stocks de este mostrador de alimentos. Hagamos un stock de raciones. Haz clic en la etiqueta de "disabled", y selecciona las raciones en la ventana emergente.	2016-10-14T14:03:39.281009	In this panel you can adjust the parameters for the stock keeping system in this food vendor. It's already set to stock rations by default, but you can change its resource if you wish so.
-tutorial_station_stocks_9	¡Ya esta! Este mostrador de comida ahora empezara a almacenar raciones. Tus oficiales almacenarán raciones en ella hasta llegar a la cantidad máxima configurada. Cuando se encuentran lejos de tus centros de producción, los objetos de mantenimiento de stocks ayudan a una distribución eficiente de tus productos y recursos.\nVeamos un par de ellos.\nSelecciona la herramienta de construcción de objetos.	2016-10-14T14:03:39.281009	This food vendor will now start stocking rations. Your officers will deliver rations to it up to the configured max amount. When located far from your production centers, stock keeping objects help with the efficient distribution of your products and resources.\nLet's look at two more of them.\nSelect the Build object tool.
 tutorial_station_title	Tutorial de Estación	2016-10-14T14:03:39.281009	Station tutorial
 tutorial_waiting	Esperando...	2016-10-14T14:03:39.281009	Waiting...
 type_restock_at_stock	Las tareas de restocking se iniciaran el stock sea igual o inferior a este valor y hasta alcanzar la cantidad máxima de existencias.	2016-10-14T14:03:39.281009	Restocking tasks will start when the stock amount is equal or lower to this value, until it reaches the max stock amount.
@@ -571,7 +565,6 @@ kb_action_3	Acción: ítem activo 3	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 kb_action_4	Acción: ítem activo 4	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 kb_action_5	Acción: ítem activo 5	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 kb_action_6	Acción: ítem activo 6	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
-kb_teleport_to	Acción: Teletransportarse a	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 make_filtered_water	Preparar Agua filtrada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 make_vitamin_water	Preparar Agua vitaminada	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 missing_demands	Falta compensación	2016-10-15T18:36:49.149605	Missing demands
@@ -593,7 +586,7 @@ recipe_order_amount	Introduce cuantas veces quieres producir esta receta, o -1 p
 recipe_order_amount_tip	Introduce cuantas veces quieres producir esta receta	2016-10-15T18:36:49.149605	How many times to produce the recipe
 spec_of_amt_requires_xp_in	~A de ~A XP en ~A\n	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 spec_requires	Requiere XP en una tarea:	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
-tutorial_station_floor_tool_3_2	Consejo: Puedes presionar mayúsculas para cambiar la herramienta de construcción por el borrador de suelos. También puedes pulsar Esc mientras la arrastras para cancelarla.	2016-10-15T18:36:49.149605	Tip: You can press shift to toggle the build floor tool into the floor eraser. You can press Esc while dragging to cancel it.
+tutorial_station_floor_tool_3_2	Consejo: Puedes presionar mayúsculas para cambiar la herramienta de construcción por el borrador de suelos. También puedes pulsar Esc mientras la arrastras para cancelarla.	2016-10-15T18:36:49.149605	NOT FOUND IN GAME
 uncompensated	Sin compensación	2016-10-15T18:36:49.149605	Uncompensated
 value_higher_min	El valor ha de ser superior a la cantidad mínima	2016-10-15T18:36:49.149605	Value must be higher than min amount
 value_lower_max	El valor debe ser inferior a la cantidad máxima	2016-10-15T18:36:49.149605	Value must be lower than max amount
@@ -878,8 +871,8 @@ sauna	Sauna	2017-02-17T12:14:02.097451	Sauna
 sauna_desc	Bienestar milenario para el cuidado más efectivo	2017-02-17T12:14:02.097451	Millenia old wellness for the most effective care.
 security_desc	Expertos en armas y con mucha puntería, los agentes de seguirdad protegen la estación y sus expediciones.	2017-02-17T12:14:02.097451	Experts in guns and with a sharp eye, security officers protect the station and your galaxy expeditions.
 set target to ~A	Seleccionar ~A como objetivo	2017-02-17T12:14:02.097451	Set forced target to ~A
-set_target	Forzar un objetivo de combate	2017-02-17T12:14:02.097451	Force combat target
-set_target_label	Selecciona para elegir ~A como objetivo de combate	2017-02-17T12:14:02.097451	Click to set ~A preferred combat target
+set_target	Forzar un objetivo de combate	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
+set_target_label	Selecciona para elegir ~A como objetivo de combate	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 shield_1_name	Escudo de daño	2017-02-17T12:14:02.097451	Damage shield
 shield_2_name	Super escudo de daño	2017-02-17T12:14:02.097451	Super damage shield
 shield_3_name	Ultra escudo de daño	2017-02-17T12:14:02.097451	Ultra damage shield
@@ -911,7 +904,6 @@ specops_desc	Oficiales de seguridad especializados en el manejo de las armas con
 specops_spec	SpecOps	2017-02-17T12:14:02.097451	SpecOps
 star_map	Mapa estelar	2017-02-17T12:14:02.097451	Star map
 stinky_cheese	Queso apestoso	2017-02-17T12:14:02.097451	Stinky cheese
-storage_area_desc	Marca el suelo alrededor de su ubicación como un área de almacenamiento para los diferentes tipos de artículos. No proporciona un control de existencias preciso.	2017-02-17T12:14:02.097451	Marks the room around its location as a floor storage area for resources and products. It does not provide precise stock control.
 storage_area_must_single2	Las areas de almacenamiento no pueden compartir habitación con otros objetos	2017-02-17T12:14:02.097451	Storage areas cannot share a room with other objects
 striking_warning	~A está en huelga porque sus necesidades no están siendo cubiertas. No trabajará y puede que sabotee las instalaciones.	2017-02-17T12:14:02.097451	~A is going on strike for awhile since their demands are not being met. They refuse to work and may sabotage station equipment.
 surgeon_table	Cápsula de cirugía	2017-02-17T12:14:02.097451	Surgery pod
@@ -924,16 +916,14 @@ tavern_table_desc	Tómate tu bebida en un ambiente familiar	2017-02-17T12:14:02.
 tending_workplace_action	Atendiendo ~A	2017-02-17T12:14:02.097451	Tending ~A
 tonicx	Tónico X	2017-02-17T12:14:02.097451	Tonic X
 travel_shop	Sección de viajes	2017-02-17T12:14:02.097451	Travel section
-travel_shop_desc	Mapas estelares y traductores automáticos	2017-02-17T12:14:02.097451	Maps of the galaxy and translator tablets
 treatment	Tratamiento médico	2017-02-17T12:14:02.097451	Medical treatment
 treatment_desc	El tratamiento de ~A requiere de estos pasos:	2017-02-17T12:14:02.097451	The treatment of ~A requires the following steps:
-tutorial_station_production_5_2	El panel de info de la fábrica ahora muestra el modo de creación de ordenes. Hay que elegir una receta, cocinemos algunas raciones. Elige la receta de raciones.	2017-02-17T12:14:02.097451	The factory info panel has changed to the order creation view. First select a recipe, let's cook some rations. Click the Cook Rations recipe to select it.
 universal_printer	Impresora universal	2017-02-17T12:14:02.097451	Universal printer
 universal_printer_desc	Imprime todo el material necesario para la tecnología de recreación	2017-02-17T12:14:02.097451	Prints everything required by recreational facilities
 vaccine	Vacuna	2017-02-17T12:14:02.097451	Vaccine
 visitor_bored	Aburrido	2017-02-17T12:14:02.097451	Bored
 visitor_bored_desc	Dónde está la diversión?	2017-02-17T12:14:02.097451	Where's the fun?
-visitor_fee	Entrada	2017-02-17T12:14:02.097451	Visitor fee
+visitor_fee	Entrada	2017-02-17T12:14:02.097451	NOT FOUND IN GAME
 visitor_gambler	Ludópata	2017-02-17T12:14:02.097451	Gambler
 visitor_gambler_desc	Una. Partida. Más. Hasta que caiga rendido... Creo que necesito otra copa.	2017-02-17T12:14:02.097451	One. More. Round. Until I need to sleep... I think I need a strong drink.
 visitor_gourmet	Gourmet	2017-02-17T12:14:02.097451	Gourmet
@@ -961,7 +951,7 @@ world_enlargement	Mundo agrandado	2017-02-17T12:14:02.097451	World Enlargement
 world_enlargement_desc	Todo es enorme!	2017-02-17T12:14:02.097451	Everything is huge!
 xray	Rayos X	2017-02-17T12:14:02.097451	XRay
 xray_desc	Obtiene imágenes del interior del cuerpo de un paciente, para facilitar su diagnóstico.	2017-02-17T12:14:02.097451	Creates internal images of a patient body, to help with medical diagnose.
-add_to_squad	Añadir a squad	2017-07-21T14:14:09.235034	Add to squad
+add_to_squad	Añadir a squad	2017-07-21T14:14:09.235034	NOT FOUND IN GAME
 all_resources	Todos	2017-07-21T14:14:09.235034	All resources
 augustus	Augustus	2017-07-21T14:14:09.235034	Augustus
 augustus_desc	Cocinero infame en toda la galaxia. Es un Chef Master y además produce el doble de cantidad.	2017-07-21T14:14:09.235034	Galaxy (in)famous cook. He has a master level Chef spec and produces double the amount of food.
@@ -996,7 +986,6 @@ event_breakage_warn	Algunas factorías se han estropeado!	2017-07-21T14:14:09.23
 event_explodefire_warn	%s ha explotado y se ha iniciado un fuego!	2017-07-21T14:14:09.235034	%s has exploded and started a fire!
 event_foodpoisoning_warn	Algunos habitantes de la estación han sido intoxicados!	2017-07-21T14:14:09.235034	Some station inhabitants are food poisoned!
 event_invaderbomb_out_of_time	Se ha terminado el tiempo y la bomba ha explotado!	2017-07-21T14:14:09.235034	You ran out of time! The bomb has exploded!
-event_invaderbomb_warn	Se ha descubiero un zapador enemigo camuflado! Busca una bomba cerca de su localización y ordena destruirla antes de que explote!	2017-07-21T14:14:09.235034	A hidden enemy sapper has been found! Look nearby for a ticking bomb and destroy it before it explodes!
 event_invaders_warn4	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A (nivel ~A) aproximándose a la estación. Prepárate!	2017-07-21T14:14:09.235034	We have received reports of a ~A raiding party from ~A (level ~A) approaching our station. Be prepared!
 event_kowka_warn	Кошка es una gata curiosa y quiere ver tu progreso. Conservas aún su amistad? Su ejército de robots ayudarán en tareas mientras estén en la estación.	2017-07-21T14:14:09.235034	Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here.
 event_liberty_warn	Liberty ha llegado! Su presencia hará sentir mejor a todo aquel que se acerque.	2017-07-21T14:14:09.235034	Liberty is here! Her presence will make everybody around her happy, visitor and resident alike.
@@ -1010,11 +999,9 @@ event_miasmacloud_ended	La nube de miasma ya no se expande	2017-07-21T14:14:09.2
 event_miasmacloud_warn	Se ha estropeado un objeto y está expulsando una nube tóxica de miasma. Repáralo o destrúyelo para pararla.	2017-07-21T14:14:09.235034	An object has broken and is spewing an expanding, toxic miasma cloud. Repair it or destroy it to stop the cloud.
 event_octopus_warn	Tu arrogancia ha despertado una bestia olvidada del espacio profundo. Un pulpo espacial ataca la estación!	2017-07-21T14:14:09.235034	Your hubris has awoken a forgotten beast from deep space. A space octopus is attacking your station!
 event_pest_spawn_queen	La reina de la plaga ha aparecido!	2017-07-21T14:14:09.235034	The pest queen is now out of hiding!
-event_pest_warn	Una plaga está infestando la estación! Elimina suficientes parásitos para encontrar a su reina.	2017-07-21T14:14:09.235034	A pest is infesting your station! Eliminate enough pest critters to force their queen out of hiding.
 event_waterleak_warn	%s se ha roto y ha inundado sus alrededores.	2017-07-21T14:14:09.235034	%s has broken and flooded its surroundings!
 event_worm_warn	Tu arrogancia ha despertado una bestia olvidada del espacio profundo. Un gusano espacial ataca la estación!	2017-07-21T14:14:09.235034	Your hubris has awoken a forgotten beast from deep space. A space worm is attacking your station!
 event_xenos_spawned	Los xenomorfos han eclosionado!	2017-07-21T14:14:09.235034	The xenomorphs have spawned!
-event_xenos_warn	Se han encontrado huevos de xenomorfo en la estación! Elimínalos antes de que eclosionen, o atente a las consecuencias.	2017-07-21T14:14:09.235034	Xenomorph eggs have been found in your station! Eliminate them before they spawn, or deal with the consequences.
 field_medic	Médico de campo	2017-07-21T14:14:09.235034	Field Medic
 field_medic_desc	En las batallas más cruentas solo los médicos de campo son capaces de estar entre la vida y la muerte.	2017-07-21T14:14:09.235034	In the heat of battle only field medics stand between life and death.
 fine_grape_must	Mosto	2017-07-21T14:14:09.235034	Fine grape must
@@ -1403,10 +1390,9 @@ price_too_much	No hay suficientes créditos	2017-07-21T14:14:09.235034	Not enoug
 prod_current_queue2	Cola actual	2017-07-21T14:14:09.235034	Current queue
 producing_recipe2	Produciendo	2017-07-21T14:14:09.235034	Producing
 projectile_reactive_desc	Area en tiempo, Proyectil	2017-07-21T14:14:09.235034	Area over time, Projectile
-recipe_difficulty	Dificultad:	2017-07-21T14:14:09.235034	Difficulty:
 recruit_hire_price	Precio de contrato: ~A @ui_icon_20px_credits04.png	2017-07-21T14:14:09.235034	Hiring bonus: ~A @ui_icon_20px_credits04.png
 recruit_hire_price_too_much	No hay suficientes créditos	2017-07-21T14:14:09.235034	Not enough credits
-remove_from_squad	Quitar de squad	2017-07-21T14:14:09.235034	Remove from squad
+remove_from_squad	Quitar de squad	2017-07-21T14:14:09.235034	NOT FOUND IN GAME
 room_of_tiles	Habitación de %d tiles	2017-07-21T14:14:09.235034	Room of %d tiles
 select_officer_open_fleet	Abrir pantalla de la flota	2017-07-21T14:14:09.235034	Open fleet screen
 select_officer_open_ship	Abrir puente de la nave	2017-07-21T14:14:09.235034	Open ship bridge
@@ -1417,8 +1403,6 @@ space_pest	Parásito	2017-07-21T14:14:09.235034	Pest critter
 space_pest_queen	Reina parásito	2017-07-21T14:14:09.235034	Pest queen
 space_worm	Gusano espacial	2017-07-21T14:14:09.235034	Space worm
 spec	Spec	2017-07-21T14:14:09.235034	Spec
-spec_disallows	Prohibe el trabajo en:	2017-07-21T14:14:09.235034	Disallows working on:
-spec_info_demands	Requiere:	2017-07-21T14:14:09.235034	Demands:
 spec_info_salary	Salario: %d @ui_icon_20px_credits04.png por min.	2017-07-21T14:14:09.235034	Salary: %d @ui_icon_20px_credits04.png per min.
 spec_not_ready2	Para ascender a %s al menos un trabajo de llegar a su XP requerido.	2017-07-21T14:14:09.235034	To promote to %s at least one job must reach its required XP
 spec_promote_to	Ascender a %s	2017-07-21T14:14:09.235034	Promote to %s
@@ -1444,6 +1428,151 @@ water_leak	Escape de agua	2017-07-21T14:14:09.235034	Water leak
 xeno_egg	Huevo de xenormorfo	2017-07-21T14:14:09.235034	Xenomorph egg
 xeno_egg_desc	Destruye este huevo antes de que el contador llegue a 0 para evitar que un xenomorfo eclosione.	2017-07-21T14:14:09.235034	Destroy this egg before the event timer reaches 0 to avoid spawning a xenomorph
 xenomorph	Xenomorfo	2017-07-21T14:14:09.235034	Xenomorph
+aluminium_wall	Pared de aluminio	2017-09-10T18:08:44.842159	Aluminium wall
+bistro_drinks_desc	La presentación más elegante para las mejores bebidas	2017-09-10T18:08:44.842159	The fanciest presentation for premium drinks.
+bistro_food_desc	Una manera exquisita de servir alimentos	2017-09-10T18:08:44.842159	An exquisite way to serve food.
+build_info_stocks	Stocks	2017-09-10T18:08:44.842159	Stocks
+build_out_of_bounds	Fuera de la zona válida	2017-09-10T18:08:44.842159	Outside of valid building area
+build_walls	Construir paredes	2017-09-10T18:08:44.842159	Build walls
+building_info_shop	Tienda: permite el pago por los productors almacenados o por su uso a los visitantes	2017-09-10T18:08:44.842159	Shop: Enables the payment of its stored products or usage fees by visitors
+built_object	Objeto construido	2017-09-10T18:08:44.842159	Built object
+built_wall	Pared construida	2017-09-10T18:08:44.842159	Built wall
+cant_build_needs_room	Requiere una habitación completamente pavimentada y delimitada por paredes/puertas	2017-09-10T18:08:44.842159	Requires a fully floored, fully wall/door delimited room
+combat_busy_desc	Solo combate	2017-09-10T18:08:44.842159	Only combat
+combat_mode_disabled	Modo de combate desactivado	2017-09-10T18:08:44.842159	Combat mode disabled
+combat_mode_enabled	Modo de combate activado	2017-09-10T18:08:44.842159	Combat mode enabled
+contemplated	Contemplado	2017-09-10T18:08:44.842159	Contemplated
+contemplated_desc	Qué objetos tan bellos!	2017-09-10T18:08:44.842159	Such beautiful objects
+contemplation	Contemplación	2017-09-10T18:08:44.842159	Contemplation
+crew_n2	Tripulación: ~A slots, ~A% listo	2017-09-10T18:08:44.842159	Crew: ~A slots, ~A% ready
+deposited_scroll	Depositado %d	2017-09-10T18:08:44.842159	Deposited %d
+dismantled_object	Objeto desconstruido	2017-09-10T18:08:44.842159	Dismantled object
+door_allowed	Autorizados	2017-09-10T18:08:44.842159	Authorized units
+door_allowed_desc	Equivale a una nota pegada a la puerta; los invasores violentos lo van a ignorar	2017-09-10T18:08:44.842159	This is equivalent to a polite sign stuck on the door; violent invaders will ignore it.
+door_desc	Controla el acceso a diferentes zonas de la estación. Permite mantener a los turistas alejados de las zonas de producción.	2017-09-10T18:08:44.842159	Control access to station areas. Allows to keep away visitors from storage and production rooms.
+door_lock	Cerrar	2017-09-10T18:08:44.842159	Lock
+door_lock_title	Completamente cerrada	2017-09-10T18:08:44.842159	Total locking
+door_lock_title_desc	Cierra la puerta con firmeza; los invasores violentos tendrán que destruirla.	2017-09-10T18:08:44.842159	This will firmly lock the door for all units; violent invaders will need to destroy it.
+door_officers	Oficiales	2017-09-10T18:08:44.842159	Officers
+door_robots	Robots	2017-09-10T18:08:44.842159	Robots
+door_tourists	Turistas	2017-09-10T18:08:44.842159	Tourists
+drink_shop_desc	Aquí se sirven bebidas	2017-09-10T18:08:44.842159	Drinks are served here.
+equipmatrix_available	Disponible	2017-09-10T18:08:44.842159	Available
+equipmatrix_too_low_cell	Insuficiente	2017-09-10T18:08:44.842159	Too low
+erase_walls_tool	Borrar paredes	2017-09-10T18:08:44.842159	Erase walls
+eraser_hint	Presiona Shift para modo borrador	2017-09-10T18:08:44.842159	Hold Shift for eraser mode
+event_invaderbomb_warn	Se ha descubiero un zapador enemigo camuflado! Busca una bomba cerca de su localización y ordena destruirla antes de que explote! La bomba es un enemigo neutral, usa órdenes de ataque con Shift para marcarla como objetivo.	2017-09-10T18:08:44.842159	A hidden enemy sapper has been found! Look nearby for a ticking bomb and destroy it before it explodes! The bomb is a neutral unit and requires manual target orders.
+event_pest_warn	Una plaga está infestando la estación! Elimina suficientes parásitos para encontrar a su reina. La plaga es un enemigo neutral, usa órdenes de ataque con Shift para marcarla como objetivo.	2017-09-10T18:08:44.842159	A pest is infesting your station! Eliminate enough pest critters to force their queen out of hiding. Critters are neutral units and require manual target orders.
+event_xenos_warn	Se han encontrado huevos de xenomorfo en la estación! Elimínalos antes de que eclosionen, o atente a las consecuencias. Los huevos son un enemigo neutral, usa órdenes de ataque con Shift para marcarlos como objetivo.	2017-09-10T18:08:44.842159	Xenomorph eggs have been found in your station! Eliminate them before they spawn, or deal with the consequences. Eggs are neutral units and require manual target orders.
+eyedropper_hint	Alt + click para copiar existentes	2017-09-10T18:08:44.842159	Alt + click to copy existing
+group_control	@ui_icon_30px_lupa.png Control	2017-09-10T18:08:44.842159	@ui_icon_30px_lupa.png Crowd control
+group_damage	@ui_icon_30px_lupa.png Daño	2017-09-10T18:08:44.842159	@ui_icon_30px_lupa.png Damage
+group_healing	@ui_icon_30px_lupa.png Cura	2017-09-10T18:08:44.842159	@ui_icon_30px_lupa.png Healing
+group_shielding	@ui_icon_30px_lupa.png Escudo	2017-09-10T18:08:44.842159	@ui_icon_30px_lupa.png Shielding
+job_warn_no_resources3	Sin stock o sin camino para ~A	2017-09-10T18:08:44.842159	No stock of or no path to required ~A
+job_warn_no_resources4	Sin stock o sin camino para los recursos	2017-09-10T18:08:44.842159	No stock of or no path to required resources
+kb_build_rotate_left	Construir: Rotar la izquierda	2017-09-10T18:08:44.842159	Build: Rotate left
+kb_build_rotate_right	Construir: Rotar a la derecha	2017-09-10T18:08:44.842159	Build: Rotate right
+kb_combat_mode	Activar modo combate	2017-09-10T18:08:44.842159	Toggle combat mode
+kb_group_1	Seleccionar groupo 1	2017-09-10T18:08:44.842159	Select group 1
+kb_group_2	Seleccionar groupo 2	2017-09-10T18:08:44.842159	Select group 2
+kb_group_3	Seleccionar groupo 3	2017-09-10T18:08:44.842159	Select group 3
+kb_group_4	Seleccionar groupo 4	2017-09-10T18:08:44.842159	Select group 4
+kb_group_5	Seleccionar groupo 5	2017-09-10T18:08:44.842159	Select group 5
+kb_group_6	Seleccionar groupo 6	2017-09-10T18:08:44.842159	Select group 6
+kb_set_attack_target	Acción: Seleccionar objetivos de ataque	2017-09-10T18:08:44.842159	Action: Set attack target(s)
+kb_set_cc_target	Acción: Seleccionar objetivos de control	2017-09-10T18:08:44.842159	Action: Set crowd control target(s)
+kb_set_heal_target	Acción: Seleccionar objetivos de cura	2017-09-10T18:08:44.842159	Action: Set healing target(s)
+kb_set_shield_target	Acción: Seleccionar objetivos de escudo	2017-09-10T18:08:44.842159	Action: Set shielding target(s)
+kb_teleport_to	Acción: Teletransportarse a	2017-09-10T18:08:44.842159	Action: Teleport to
+list	Lista	2017-09-10T18:08:44.842159	List
+lunch_shop_desc	Aquí se sirven diferentes comidas	2017-09-10T18:08:44.842159	Food is served here.
+mind_combat	Solo combate	2017-09-10T18:08:44.842159	Combat focus
+mind_combat_desc	Ni trabajo ni necesidades importan	2017-09-10T18:08:44.842159	Work and vitals are of no concern
+mind_crew	Tripulación	2017-09-10T18:08:44.842159	Ship crew
+mind_crew_desc	Mis necesidades son lo más importante	2017-09-10T18:08:44.842159	I take my needs very seriously
+pallet_desc	Almacena una sola clase de artículo con control de valores máximo y mínimo, sin restricción con el tipo de recurso	2017-09-10T18:08:44.842159	Stock one kind of item with control over max and min values, with no restrictions on the kind of resource
+rebuildable_ruins_build	Reconstruir	2017-09-10T18:08:44.842159	Rebuild
+rebuildable_ruins_desc	Las ruinas de un objeto que se puede reconstruir o reciclar.	2017-09-10T18:08:44.842159	Ruins of an object that can be rebuilt or recycled.
+rebuildable_ruins_recycle	Reciclar	2017-09-10T18:08:44.842159	Recycle
+recipe_difficulty	Dificultad:	2017-09-10T18:08:44.842159	Difficulty:
+removed_wall	Pared eliminada	2017-09-10T18:08:44.842159	Removed wall
+resource_tag_extracted	Extraído	2017-09-10T18:08:44.842159	Extracted
+robot_inventory	Inventario de robots	2017-09-10T18:08:44.842159	Robot inventory
+robot_inventory_max_robots	Máximo permitido: %d	2017-09-10T18:08:44.842159	Max allowed: %d
+robot_inventory_total_robots	Total: %d	2017-09-10T18:08:44.842159	Total: %d
+robots_cannot_build_more	No se pueden construir más robots	2017-09-10T18:08:44.842159	Cannot build more robots
+ruins	Ruinas	2017-09-10T18:08:44.842159	Ruins
+securitydoor_desc	Puerta blindada para controlar el acceso. Permite mantener a los turistas alejados de las zonas de producción.	2017-09-10T18:08:44.842159	Strong door for controlling access. Allows to keep away visitors from storage and production rooms.
+set_group_target_cc_label	Click izquierdo o arrastra para seleccionar los objetivos a controlar\nPresiona Shift para también controlar a neutrales	2017-09-10T18:08:44.842159	Left click or left drag to set the group preferred crowd control target(s)\nHold Shift to also control neutral units
+set_group_target_damage_label	Click izquierdo o arrastra para seleccionar los objetivos a atacar\nPresiona Shift para también atacar a neutrales	2017-09-10T18:08:44.842159	Left click or left drag to set the group preferred attack target(s)\nHold Shift to also attack neutral units
+set_group_target_heal_label	Click izquierdo o arrastra para seleccionar los objetivos a curar	2017-09-10T18:08:44.842159	Left click or left drag to set the group preferred healing target(s)
+set_group_target_shield_label	Click izquierdo o arrastra para seleccionar los objetivos a escudar	2017-09-10T18:08:44.842159	Left click or left drag to set the group preferred shielding target(s)
+set_target_cc	Controlar objetivos	2017-09-10T18:08:44.842159	Crowd control target(s)
+set_target_cc_label	Click izquierdo o arrastra para seleccionar los objetivos de ~A a controlar\nPresiona Shift para también controlar a neutrales	2017-09-10T18:08:44.842159	Left click or left drag to set ~A preferred crowd control target(s)\nHold Shift to also control neutral units
+set_target_damage	Atacar objetivos	2017-09-10T18:08:44.842159	Attack target(s)
+set_target_damage_label	Click izquierdo o arrastra para seleccionar los objetivos de ~A a atacar\nPresiona Shift para también atacar a neutrales	2017-09-10T18:08:44.842159	Left click or left drag to set ~A preferred attack target(s)\nHold Shift to also attack neutral units
+set_target_heal	Curar objetivos	2017-09-10T18:08:44.842159	Heal target(s)
+set_target_heal_label	Click izquierdo o arrastra para seleccionar los objetivos de ~A a curar	2017-09-10T18:08:44.842159	Left click or left drag to set ~A preferred healing target(s)
+set_target_shield	Escudar objetivos	2017-09-10T18:08:44.842159	Shield target(s)
+set_target_shield_label	Click izquierdo o arrastra para seleccionar los objetivos de ~A a escudar	2017-09-10T18:08:44.842159	Left click or left drag to set ~A preferred shielding target(s)
+ship_allowed_cargo	Recursos permitidos: %d/%d	2017-09-10T18:08:44.842159	Allowed resources: %d/%d
+ship_allowed_desc	Selecciona los recursos de planeta autorizados para esta nave:	2017-09-10T18:08:44.842159	Select the resources this ship will be allowed to pick from planets:
+ship_allowed_edit	Cambiar los recursos autorizados	2017-09-10T18:08:44.842159	Change allowed cargo resources
+ship_servicing	La nave está volviendo a la estación para descargar y descansar la tripulación. Ignorará el piloto automático hasta estar lista.	2017-09-10T18:08:44.842159	The ship is going back home to unload and refresh the crew and may ignore the autopilot orders until it's done
+ship_servicing_cond	Regreso: %d%% listo o carga llena	2017-09-10T18:08:44.842159	Fly home: %d%% ready or full hold
+ship_servicing_depart	Continua piloto automático con %d%% listo	2017-09-10T18:08:44.842159	Continues autopilot at %d%% ready
+spec_disallows	Prohibe el trabajo en:	2017-09-10T18:08:44.842159	Disallows working on:
+spec_info_demands	Requiere:	2017-09-10T18:08:44.842159	Demands:
+station_attrition_warn	Algunos objetos en la estación están sufriendo daños al estar expuestos a la atmósfera del planeta, dado que un tile de suelo o de pared su habitación ha sido destruido o borrado. Asegúrate de que todas las habitaciones están 100% rodeadas de paredes o puertas, y que el 100% de su suelo está pavimentado.	2017-09-10T18:08:44.842159	Station objects are suffering damage from being exposed to the planet atmosphere by an incomplete wall or by an unbuilt floor tile. Make sure all station rooms are fully delimited by walls or doors, and that their floors are fully built with room tiles.
+steel_wall	Pared de acero	2017-09-10T18:08:44.842159	Steel wall
+storage_area_desc	Marca el suelo alrededor de su ubicación como un área de almacenamiento para los diferentes tipos de artículos. No proporciona un control de existencias preciso.	2017-09-10T18:08:44.842159	Marks the room around its location as a floor storage area for resources and products. It does not provide precise stock control. Can stock any kind of resource or product.
+stored_group_clear	Grupo %s borrado	2017-09-10T18:08:44.842159	Cleared group %s
+stored_group_selected	Grupo %s seleccionado	2017-09-10T18:08:44.842159	Selected group %s
+stored_group_set	Group %s guardado	2017-09-10T18:08:44.842159	Stored group %s
+stored_scroll	Almacenado %d	2017-09-10T18:08:44.842159	Stored %d
+table	Tabla	2017-09-10T18:08:44.842159	Table
+teleport_group_to_label	Click para teletransportar el grupo a la posición seleccionada	2017-09-10T18:08:44.842159	Click to teleport the group to the selected position
+thousand_sep	%1,%2	2017-09-10T18:08:44.842159	%1,%2
+titanium_wall	Parde de titanio	2017-09-10T18:08:44.842159	Titanium wall
+toggle_combatmode	Activar modo combate	2017-09-10T18:08:44.842159	Toggle combat mode
+travel_shop_desc	Mapas estelares y traductores automáticos	2017-09-10T18:08:44.842159	Maps of the galaxy and translator tablets.
+tutorial_galaxy_autopilot_2	Esta es la ventana del piloto automático de la nave. Puedes añadir órdenes a su lista, reorganizarlas, e iniciar y detener el piloto automático.\nHagamos una ruta al planeta tutorial.\nArrastra el icono resaltado a Tutoland. Recuerda que puedes mover ventanas arrastrando su barra de título.	2017-09-10T18:08:44.842159	This is the space ship autopilot window. You can add orders to its listing, rearrange them, then start and stop the autopilot.\nLet's set up a route to the tutorial planet.\nDrag the highlighted icon to Tutoland. Remember you can move windows around by their title bar if they block your target.
+tutorial_galaxy_autopilot_4	Ahora haz clic en el botón Iniciar para empezar la ruta. La nave viajará sin que intervengas y se cargará automáticamente en cada planeta que visite. Cuando su bodega de carga esté llena, o cuando su tripulación requiera descanso, volverá automáticamente a la estación hogar.	2017-09-10T18:08:44.842159	Now click on the start button to start the route. The ship will travel without your intervention, automatically loading cargo, and visiting all the planets in its order list. Once it's full, or its crew becomes too exhausted, it will automatically travel back home to unload and to wait for its crew to get their morale up.
+tutorial_galaxy_autopilot_5	¡Eso es! Puedes probar otras opciones. Arrastrando directamente una nave a un planta pondrá el piloto automático en pausa, recuerda reactivarlo si es necesario. Cuando estés listo prueba a visitar otros planetas del sistema para extraner nuevos recursos, y luego añadir órdenes de vista en el piloto automático.	2017-09-10T18:08:44.842159	That's it! Directly dragging a ship to a planet while it's in autopilot mode will stop the autopilot and put it under your direct manual orders. Remember to restart the autopilot if desired in that case. When you feel ready you can visit other planets in this system to find and extract new resources, then add more orders to the autopilot to visit the planets and recover them.
+tutorial_planet_basics_6b	La multiselección es útil para dar órdenes a más de un oficial al mismo tiempo. Puedes seleccionar múltiples oficiales arrastrando con el botón izquierdo del ratón y dibujado un rectángulo en un área del mapa. Órdenes de caminar, el teleportador, y ódenes de combate son válidas con un grupo de oficiales seleccionado.	2017-09-10T18:08:44.842159	Multiselection is useful to give orders to more than one officer at the same time. You can select multiple officers by dragging the left mouse button to draw a rectangle over an area on the map. Walking orders, the global teleport and target orders remain usable when selecting multiple officers.
+tutorial_planet_basics_7b	Todos tus oficiales están armados y preparados, en modo automático siempre. Atacarán a enemigos o curará a amigos sin necesidad de que se lo indiques. Pero si deseas seleccionar manualmente sus objetivos puedes utilizar las órdenes de combate en la barra inferior de acciones.	2017-09-10T18:08:44.842159	All your officers are armed and ready, and in full auto mode. They will engage enemies or heal friendlies that are in range without your input. You can also hint your currently selected officer(s) to attack or heal a different target by using the manual target actions in the action bar.
+tutorial_planet_basics_8b	Por último se pueden utilizar las teclas 1 a 6 (por defecto) para guardar grupos seleccionados. Con una selección hecha, presiona por ejemplo Ctrl-1 para guardar la selección en la tecla 1. Desde ese momento al pulsar la tecla 1 se cambia la selección a lo que hayas guardado. Cuando visitas un planeta se guarda en el grupo 1 una selección con toda la tripulación.	2017-09-10T18:08:44.842159	Finally it's also possible to set the keys 1 to 6 (in the default keybind) as a quick group selection. Make an officer selection then press Ctrl-1 to set the first quick group to the current selection. From that point just pressing 1 will select that same group. The game automatically sets group 1 to be the entire landing crew when exploring a planet.
+tutorial_planet_extraction_6_dev	[DEV] Recomiendo despegar y hacer el tutorial de galaxia.	2017-09-10T18:08:44.842159	[DEV] I recommend to take off now and take the autopilot tutorial in the galaxy.
+tutorial_planet_squad	Básicos y órdenes de equipos	2017-09-10T18:08:44.842159	Basics and actions
+tutorial_station_building	Construcción	2017-09-10T18:08:44.842159	Building
+tutorial_station_building_1	La estación se compone de habtiaciones. Se han de delimitar siempre mendiante paredes o puertas, y su suelo ha de estar completamente pavimentado. Solo cuando esas condiciones se cumplen el juego considera que se trata de una habitación válida, y solo entonces será posible construir en su interior la mayoría de objetos.\nSelecciona la herramienta de suelos	2017-09-10T18:08:44.842159	Your station is composed of rooms. Rooms must be always be delimited by walls or doors, and their ground must be completely covered in floor tiles. Only when these conditions are met the game will consider such an area as a room, and only then it will be possible to build the majority of station objects.\nSelect the Floor build tool
+tutorial_station_building_10	Bien! La habitación está casi lista. Hay que cerrar el último tile en la esquina, pero si construimos una pared sería imposible entrar o salir. Es necesario una puerta. Selecciona la herramienta de objetos.	2017-09-10T18:08:44.842159	Good! The room is almost ready. We need to close the last tile in the corner, but if we built a wall there it would be impossible to enter or exit. We need a door. Select the Object tool.
+tutorial_station_building_11	La herramienta de objetos lista todos los objetos disponibles para construir. Selecciona primero la categoría. Haz click en la categoría de seguridad.	2017-09-10T18:08:44.842159	The object tool lists all unlocked objects available for building in the station. First we select the object category. Click on the Security category.
+tutorial_station_building_12	Ahora haz click en el objeto resaltado: una puerta.	2017-09-10T18:08:44.842159	Now click on the highlighted object: a door.
+tutorial_station_building_13	Construye una puerta haciendo click en el tile marcado. Puedes rotar la puerta antes de construirla mediante las teclas Q o E, o arrastrando el ratón mientras lo puisas para construir el objeto.	2017-09-10T18:08:44.842159	Build a door by clicking on the highlighted tile. You can rotate the object before construction using Q and E or by dragging the mouse once you click to build it.
+tutorial_station_building_14	Al igual que las herramientas de pared o suelo, la herramienta de objeto solo pinta un plano, y el objeto se ha de construir por parte de tus oficiales. Vamos a esperar a que terminen.	2017-09-10T18:08:44.842159	Just like the floor or wall tool, the object tool only places a blueprint, and the object must be built by your officers. Let's wait for them to finish the job.
+tutorial_station_building_15	La habitación está completada y es válida. Las herramientas lo indicarán pintando su suelo con un tinte verde. Si en algún momento se pierde un trozo de suelo o de pared los objetos de su interior empezarán a recibir daños por la atmósfera del planeta, y pueden llegar a bloquearse.	2017-09-10T18:08:44.842159	This is now a complete, valid room. The building tools will display its floor area with a green tint to indicate it's a valid floor for indoor objects. If a room loses a floor tile, or a wall is destroyed, and it is exposed to the outside, then its objects will start to receive damage and can break down.
+tutorial_station_building_16	Una habitación válida pero vacía no es muy útil. El siguiente tutorial explica algunos objetos básicos y como empezar a producir comida.	2017-09-10T18:08:44.842159	An valid but empty room is not very useful. The next tutorial shows some basic objects to get started with food production and facilities.
+tutorial_station_building_2	La herramienta de suelo pinta un plano con el suelo seleccionado cuando arrastras con el botón izquierdo.\nArrastra con el botón izquierdo del ratón entre los dos marcadores.	2017-09-10T18:08:44.842159	The build floor tool draws a blueprint of the selected floor on the station when you drag with left mouse button.\nDrag with the left mouse button between the two markers.
+tutorial_station_building_2_b	Pista: puedes presionar shift para activar el borrador de suelos. Y presionar Esc mientras arrastras el ratón para cancelar la operación.	2017-09-10T18:08:44.842159	Tip: You can press shift to toggle the build floor tool into the floor eraser. You can press Esc while dragging to cancel it.
+tutorial_station_building_3	Como la herramienta solo pinta un plano, son tus oficiales los que construirán el suelo. Vamos a esperar a que terminen.	2017-09-10T18:08:44.842159	The floor tool just draws a blueprint. In order to get the actual floor built a job is created for your officers. Let's wait for them to finish.
+tutorial_station_building_4	Listo! Pero una habitación es más que un suelo, también es paredes. Selecciona la herramienta de paredes.	2017-09-10T18:08:44.842159	Done! But rooms are not just a floor, they also need walls. Select the wall tool
+tutorial_station_building_5	Vamos a dibujar los planos de las paredes alrededor del suelo.\nArrastra con el botón izquierdo pulsado entre los dos marcadores.	2017-09-10T18:08:44.842159	Let's lay down the blueprints for the walls around the floor.\nDrag with the left mouse button between the two markers.
+tutorial_station_building_5_b	Pista: puedes presionar shift para activar el borrador de paredes. Y presionar Esc mientras arrastras el ratón para cancelar la operación.	2017-09-10T18:08:44.842159	Tip: You can press shift to toggle the build wall tool into the wall eraser. You can press Esc while dragging to cancel it.
+tutorial_station_building_6	Otro segmento. Arrastra con el botón izquierdo pulsado entre los dos marcadores.	2017-09-10T18:08:44.842159	Now another side. Drag with the left mouse button between the two markers.
+tutorial_station_building_7	Un segmento más. Arrastra con el botón izquierdo pulsado entre los dos marcadores.	2017-09-10T18:08:44.842159	One more side. Drag with the left mouse button between the two markers.
+tutorial_station_building_8	Y el útlimo segmento de pared. Vamos a dejar un tile vacío para poder construir una puerta. Arrastra con el botón izquierdo pulsado entre los dos marcadores.	2017-09-10T18:08:44.842159	And the final wall segment. We are going to leave one empty tile to build a door later on. Drag with the left mouse button between the two markers.
+tutorial_station_building_9	Espermos a que se construyan las paredes	2017-09-10T18:08:44.842159	Let's wait for the walls to be constructed.
+tutorial_station_object_tool	Instalaciones	2017-09-10T18:08:44.842159	Facilities
+tutorial_station_production_5_2	El panel de info de la fábrica ahora muestra el modo de creación de ordenes. Hay que elegir una receta, cocinemos algunas raciones. Elige la receta de raciones.	2017-09-10T18:08:44.842159	The factory info panel has changed to the order creation view. First select a recipe, let's cook some rations. Click the Basic Rations recipe to select it.
+tutorial_station_stocks_13	Estos son los pasos básicos de construcción, producción y logística. Pero tu éxito también depende de extraer recursos y avanzar en la investigación. Sigue con los tutoriales de galaxia e investigación, visitando sus pantallas con los botones de la barra superior.	2017-09-10T18:08:44.842159	There are the basics of building, production and logistics for your station. But your success also depends on extracting resources and advancing research. Check out now the tutorials for the galaxy and the research screens by opening them using their buttons in the top left toolbar.
+tutorial_station_stocks_9	Este mostrador de comida ahora empezará a almacenar raciones. Tus oficiales almacenarán raciones en ella hasta llegar a la cantidad máxima configurada. Cuando se encuentran lejos de tus centros de producción, los objetos de mantenimiento de stocks ayudan a una distribución eficiente de tus productos y recursos. También son un punto de venta de productos a turistas, una vez permitas sus visitas.\nVeamos un par de ellos.\nSelecciona la herramienta de construcción de objetos.	2017-09-10T18:08:44.842159	This food shop will now start stocking rations. Your officers will deliver rations to it up to the configured max amount. When located far from your production centers, stock keeping objects help with the efficient distribution of your products and resources. They also enable the sale of products to visitors once you allow them in your station.\nLet's look at two more of them.\nSelect the Build object tool.
+visitor_usage	Uso de turistas	2017-09-10T18:08:44.842159	Visitor usage
+walk_group_to_label	Click para ordenar al grupo seleccionado caminar a una posición	2017-09-10T18:08:44.842159	Click to make the group walk to the selected position
+walls_build_info	Click y arrastra para dibujar el plano de una pared, o dibuja tile a tile. Pulsa Esc para cancelar mientras arrastras una línea.	2017-09-10T18:08:44.842159	Click and drag a line to draw a wall blueprint, or click to paint tile by tile. You can press Esc while dragging to cancel the line.
+walls_tool	Constuir paredes	2017-09-10T18:08:44.842159	Build walls
+warn_no_shop	Sin tienda, obtenido gratis	2017-09-10T18:08:44.842159	Not in a shop, picked for free
 Luxury_kitchen_desc	La mejor cocina del universo se prepara aquí	old	The absolute best cuisine in the universe is prepared here
 advanced_kitchen	Cocina avanzada	old	Advanced kitchen
 advanced_kitchen_desc	Prepara algunas comidas y bebidas muy buenas	old	Prepare some really great food and drinks
@@ -1481,9 +1610,7 @@ bed_desc	Restaura el sueño	old	NOT FOUND IN GAME
 bio_extractor	Extractor de Bio	old	Bio Extractor
 bio_extractor_desc	Extrae recursos biológicos dentro de su área de influencia	old	Extract biological resources within its area of influence
 bistro_drinks	Bebidas de Bistró	old	Bistro drinks
-bistro_drinks_desc	La presentación más elegante para las mejores bebidas	old	The fanciest presentation for premium drinks
 bistro_food	Comidas de Bistró	old	Bistro food
-bistro_food_desc	Una manera exquisita de servir alimentos	old	An exquisite way to serve food
 bistro_table	Mesa de Bistró	old	Bistro table
 bistro_table_desc	Un asiento de lujo para disfrutar de un banquete	old	Luxury seating to enjoy a sumptuous meal
 blood_from	Sangre de ~A	old	Blood from ~A
@@ -1585,9 +1712,7 @@ dismantle	Desmontar	old	Dismantle
 dock_officer_info_label	Selecciona una nave para que atraque aquí. La carga será descargada en torno a este muelle y los oficiales desembarcarán aquí.	old	Select the officer ship to dock here. Cargo will be unloaded around this dock and officers will disembark here.
 dock_officer_select	Seleccionar nave	old	Select ship
 door	Puerta	old	Door
-door_desc	Controla el acceso a diferentes zonas de la estación	old	Control access to station areas
 drink_shop	Bebidas de Cafetería	old	Diner drinks
-drink_shop_desc	Aquí se sirven bebidas	old	Drinks are served here
 empty_slot	Ranura vacía	old	Empty slot
 enable_storage	Permitir almacenamiento de:	old	Enable storage of:
 enemy	Enemigo	old	Enemy
@@ -1772,7 +1897,7 @@ item	Ítem	old	Item
 job_matrix_tool	Matriz de trabajos	old	NOT FOUND IN GAME
 job_warn_no_credits	No hay suficientes créditos.	old	Not enough credits.
 job_warn_no_recipe	Selecciona una receta para activar la producción.	old	Select a recipe to activate production.
-job_warn_no_resources	Uno o más recursos necesarios no se pueden entregar a este objeto.	old	One or more required resources cannot be delivered to this object.
+job_warn_no_resources	Uno o más recursos necesarios no se pueden entregar a este objeto.	old	NOT FOUND IN GAME
 job_warn_wait_worker	A la espera de un trabajador cualificado.	old	Waiting for a qualified worker.
 k_thousands	K	old	K
 kb_squad_all	Seleccionar todos los miembros del equipo	old	NOT FOUND IN GAME
@@ -1785,7 +1910,6 @@ library_table	Mesa de biblioteca	old	Library table
 library_table_desc	Tranquilo y cómodo escritorio para la lectura	old	Calm and quiet table for reading
 locked	Bloqueado	old	Locked
 lunch_shop	Comidas de Cafetería	old	Diner food
-lunch_shop_desc	Aquí se sirven diferentes comidas	old	Food is served here
 luxury_dinner	Ágape lujoso	old	Luxury dinner
 luxury_kitchen	Cocina de lujo	old	Luxury kitchen
 m_millions	M	old	M
@@ -1848,7 +1972,6 @@ okay	De acuerdo	old	Okay
 output	Salida	old	Output
 pacifist	Pacifista	old	Pacifist
 pallet	Pallet	old	Pallet
-pallet_desc	Almacena una clase de artículo con control de valores máximo y mínimo	old	Stock one kind of item with control over max and min values
 passing_out	Desmayado	old	Passing out
 patient	Paciente	old	Patient
 pending	Pendiente	old	Pending
@@ -1959,7 +2082,6 @@ secscan	Escáner de seguridad	old	Security scanner
 secscan_desc	Escanea visitantes para detectar impostores	old	Scans visitors to detect impostors
 security_robot	Robot de seguridad	old	Security robot
 securitydoor	Puerta de seguridad	old	Security door
-securitydoor_desc	Puerta blindada para controlar el acceso	old	Strong door for controlling access
 seeds	Semillas	old	Seeds
 seeds_node	Nodo de semillas	old	Seeds node
 select	Seleccionar	old	Select
@@ -1994,7 +2116,7 @@ spatials_crew	Los Spatials	old	The Spatials
 spatials_name	Los Spatials	old	The Spatials
 spores	Esporas	old	Spores
 spores_node	Nodo de esporas	old	Spores node
-squad_all_button	Selecciona a todos los miembros del equipo para dar órdenes grupales	old	Select all squad members to give group orders
+squad_all_button	Selecciona a todos los miembros del equipo para dar órdenes grupales	old	NOT FOUND IN GAME
 stance_is	Posición: ~A	old	Stance: ~A
 start_research	Iniciar Investigación	old	Start Research
 stocks_control	Control de stocks	old	Stocks control
@@ -2028,13 +2150,11 @@ tutorial_galaxy_autopilot	Piloto automático	old	Autopilot
 tutorial_galaxy_basics	Básicos	old	Basics
 tutorial_galaxy_title	Tutorial de Galaxia	old	Galaxy Tutorial
 tutorial_planet_extraction	Extracción	old	Extraction
-tutorial_planet_squad	Básicos y órdenes de equipos	old	Basics and squad orders
 tutorial_planet_title	Tutorial de Planeta	old	Planet Tutorial
 tutorial_research_basics	Investigación	old	Research
 tutorial_research_title	Tutorial de Investigación	old	Research Tutorial
 tutorial_station_basics	Básicos	old	Basics
-tutorial_station_floor_tool	Herramienta de suelo	old	Floor tool
-tutorial_station_object_tool	Herramienta de objetos	old	Object tool
+tutorial_station_floor_tool	Herramienta de suelo	old	NOT FOUND IN GAME
 tutorial_station_production	Producción	old	Production
 tutorial_station_stocks	Stocks	old	Stocks
 tutorial_station_vitals	Vitals	old	Vitals
