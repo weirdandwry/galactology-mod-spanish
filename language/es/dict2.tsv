@@ -31,7 +31,6 @@ tutorial_menu_goals_hint	Consejo: Si has terminado con los tutoriales revisa los
 tutorial_planet_basics_6	La barra de equipo está encima de tu barra de acción . Al hacer clic en el botón Todos en el lado derecho se selecciona todo tu equipo, y la siguiente orden de acción que des se aplicará a todos los miembros del equipo. El botón Todos está asociado de forma predeterminada a [Tab] y se puede utilizar de forma rápida desde cualquier otra herramienta.	2016-07-03T20:30:59.196653	NOT FOUND IN GAME
 tutorial_planet_extraction_1	Vamos a construir un extractor de recursos. Estos edificios persisten en la superficie del planeta y generarán periódicamente recursos listos para ser recogidos por tus naves. Debes construirlos cerca de uno o más nodos de recursos para que estos queden dentro de su área de influencia. Selecciona la herramienta de construcción.	2016-07-03T20:30:59.196653	Let's build a resource extractor. These buildings persist on the surface of the planet, and will periodically generate resources ready to be picked up by your space ships. You must build them near one or resource nodes, so the nodes are inside their area of influence. Select the build tool.
 tutorial_planet_extraction_4	Ahora el objeto debe ser construido por tus oficiales. Habrá que esperar a que terminen el trabajo. Recuerda que puedes utilizar la herramienta de teletransporte si han aterrizado lejos del objeto en construcción.	2016-07-03T20:30:59.196653	The object must now be built by your officers. Let's wait for them to finish the job. Remember you can use the teleport tool if they landed far from the object under construction.
-tutorial_planet_extraction_5	¡Eso es! Ahora este extractor generará frutos que serán almacenados localmente. Viaja a este planeta para cargarlos en una nave y usa la función de piloto automático en la galaxia para automatizar la entrega a tu estación .	2016-07-03T20:30:59.196653	That's it! This extractor will now generate fruits and they will get stored locally. Park on this planet to load them into a space ship, and use the autopilot feature in the galaxy to automate the delivery to your station.
 tutorial_research_basics_1	Esta es la pantalla de Investigación . Hay muchos tipos de tecnología en la galaxia, pero no todos ellos están disponibles desde el principio. Debes de investigarlos, y esta pantalla te permite gestionar esa investigación.	2016-07-03T20:30:59.196653	This is the Research screen. There's many technologies in the galaxy, but not all of them are available to you at the start. You must research them, and this screen allows you to manage that research.
 tutorial_research_basics_2	La investigación se divide en grupos tecnológicos. Veamos el grupo de Alimentos y bebidas haciendo clic en el botón.	2016-07-03T20:30:59.196653	Research is divided into technology groups. Let's see the Food & drink group by clicking on its button.
 tutorial_research_basics_3	Podemos ver los niveles de tecnología para el grupo de alimentos y bebidas. Alcanzar cada nivel puede desbloquear nuevas recetas y/u objetos para construir en la estación . Haz clic en Iniciar Investigación para declarar este nivel como el nivel de investigación actual.	2016-07-03T20:30:59.196653	We can see the tiers for food & drink technology. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier.
@@ -84,7 +83,7 @@ action_cooldown	[~A] está en espera	2016-10-14T14:03:39.281009	[~A] is in coold
 active_absorb	~A absorción	2016-10-14T14:03:39.281009	~A absorb
 active_damage	~A-~A daño	2016-10-14T14:03:39.281009	~A-~A damage
 active_healing	~A-~A cura	2016-10-14T14:03:39.281009	~A-~A healing
-active_item	Ítem activo	2016-10-14T14:03:39.281009	Active item
+active_item	Ítem activo	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 all	Todos	2016-10-14T14:03:39.281009	All
 all_officers	Todos	2016-10-14T14:03:39.281009	All officers
 alphabetically	Alfabético	2016-10-14T14:03:39.281009	Alphabetically
@@ -110,7 +109,6 @@ bed_officer	Cama de oficial	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bed_officer_desc	Cama de lujo para los oficiales con más experiencia	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bed_plain	Cama normal	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bed_workplace_action	Atender a ~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
-bedofficer	Cama de oficial	2016-10-14T14:03:39.281009	Officer bed
 bonus_absorb_short	+Absorción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bonus_amt_absorb	Bonus: ~A absorción	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bonus_amt_damage	Bonus: ~A DPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
@@ -119,10 +117,10 @@ bonus_amt_health	Bonus: ~A vida	2016-10-14T14:03:39.281009	Bonus: ~A health
 bonus_damage_short	+DPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bonus_healing_short	+CPS	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 bonus_health_short	+Vida	2016-10-14T14:03:39.281009	+Health
-build_ship_engines	Construir motores de nave	2016-10-14T14:03:39.281009	Build ship engines
-build_ship_hull	Construir casco de nave	2016-10-14T14:03:39.281009	Build ship hull
-build_ship_lifesupport	Construir soporte de vida de nave	2016-10-14T14:03:39.281009	Build ship life support
-build_ship_structure	Construir estructura de nave	2016-10-14T14:03:39.281009	Build ship structure
+build_ship_engines	Construir motores de nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+build_ship_hull	Construir casco de nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+build_ship_lifesupport	Construir soporte de vida de nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+build_ship_structure	Construir estructura de nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 by_mind	Ánimo	2016-10-14T14:03:39.281009	By Mind
 cant_build_blocked	El tile está bloqueado por los cuatro lados	2016-10-14T14:03:39.281009	The tile is blocked on its four sides
 cant_build_too_many	Demasiados objetos de este tipo	2016-10-14T14:03:39.281009	Too many objects of this kind
@@ -154,16 +152,13 @@ decor_balloons	Globos	2016-10-14T14:03:39.281009	Balloons
 decor_bannerspatials	Banderas de estación	2016-10-14T14:03:39.281009	Station banner
 decor_bust	Busto	2016-10-14T14:03:39.281009	Bust
 decor_cabinets	Taquillas	2016-10-14T14:03:39.281009	Lockers
-decor_classydivisor	Divisor estiloso	2016-10-14T14:03:39.281009	Classy divisor
 decor_colorbox	Cubos de colores	2016-10-14T14:03:39.281009	Color cubes
 decor_darktech01	Tótem de desesperación	2016-10-14T14:03:39.281009	Totem of despair
 decor_darktech02	Icono del martirio	2016-10-14T14:03:39.281009	Icon of grief
 decor_energycolumn	Columna de luz	2016-10-14T14:03:39.281009	Light column
 decor_galaxyball	Mapa de la galaxia	2016-10-14T14:03:39.281009	Live galaxy map
-decor_glassdivisor	Divisor de vidrio	2016-10-14T14:03:39.281009	Glass divisor
 decor_holoprojector	Holoproyector	2016-10-14T14:03:39.281009	Holoprojector
 decor_holoscreen	Holopantalla	2016-10-14T14:03:39.281009	Holoscreen
-decor_homelydivisor	Divisor	2016-10-14T14:03:39.281009	Divisor
 decor_lamp01	Lámpara	2016-10-14T14:03:39.281009	Lamp
 decor_lamp02	Lámpara	2016-10-14T14:03:39.281009	Lamp
 decor_lamp03	Lámpara	2016-10-14T14:03:39.281009	Lamp
@@ -334,7 +329,7 @@ kb_squad_combat	Cambiar a modo de escuadrón de combate	2016-10-14T14:03:39.2810
 keep_slot_empty	Mantener vacía la ranura o asiento seleccionado	2016-10-14T14:03:39.281009	Keep the selected slot or seat empty
 litter	Basura	2016-10-14T14:03:39.281009	Litter
 litter_desc	Limpiadores con acceso a la recicladora pueden retirar estos desperdicios	2016-10-14T14:03:39.281009	Cleaners with access to a recycler can remove this litter
-make_active	Crear ítem activo L~A-L~A	2016-10-14T14:03:39.281009	Make active item L~A-L~A
+make_active	Crear ítem activo L~A-L~A	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 make_chest	Crear ítem para pecho L~A-L~A	2016-10-14T14:03:39.281009	Make chest item L~A-L~A
 make_feet	Crear ítem para pies L~A-L~A	2016-10-14T14:03:39.281009	Make feet item L~A-L~A
 make_hands	Crear ítem para manos L~A-L~A	2016-10-14T14:03:39.281009	Make hands item L~A-L~A
@@ -456,8 +451,8 @@ ship_busy_cannot_edit	La nave no está aparcada en la base	2016-10-14T14:03:39.2
 ship_cargo_info	Carga: ~A usada/ ~A total	2016-10-14T14:03:39.281009	Cargo: ~A used / ~A total
 ship_construction_is_paused	La construcción de la nave está pausada	2016-10-14T14:03:39.281009	Ship construction is paused
 ship_construction_start	Comenzar construcción	2016-10-14T14:03:39.281009	Start construction
-ship_engines_parts	Partes de motor de la nave	2016-10-14T14:03:39.281009	Ship engine parts
-ship_hull_parts	Partes de casco de la nave	2016-10-14T14:03:39.281009	Ship hull parts
+ship_engines_parts	Partes de motor de la nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+ship_hull_parts	Partes de casco de la nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 ship_kind_authority	Autoridad	2016-10-14T14:03:39.281009	Authority
 ship_kind_benevolence	Benevolencia	2016-10-14T14:03:39.281009	Benevolence
 ship_kind_diligence	Diligencia	2016-10-14T14:03:39.281009	Diligence
@@ -467,8 +462,8 @@ ship_kind_intervention	Intervención	2016-10-14T14:03:39.281009	Intervention
 ship_kind_rationality	Rationalidad	2016-10-14T14:03:39.281009	Rationality
 ship_kind_temerity	Temeridad	2016-10-14T14:03:39.281009	Temerity
 ship_kind_volition	Voluntad	2016-10-14T14:03:39.281009	Volition
-ship_lifesupport_parts	Partes de soporte vital de la nave	2016-10-14T14:03:39.281009	Ship life support parts
-ship_must_parked_home	La nave debe estar aparcada en tu estación para poder ser desmantelada	2016-10-14T14:03:39.281009	The ship must be parked in your home station to be available for dismantling
+ship_lifesupport_parts	Partes de soporte vital de la nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
+ship_must_parked_home	La nave debe estar aparcada en tu estación para poder ser desmantelada	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 ship_planner_cancel	Cancelar construcción	2016-10-14T14:03:39.281009	Cancel construction
 ship_planner_info	Construcción de naves	2016-10-14T14:03:39.281009	Ship construction
 ship_planner_must_single	Sólo un planificador de naves por estación	2016-10-14T14:03:39.281009	Only one ship planner per station
@@ -476,7 +471,7 @@ ship_planner_needed	Construir un planificador de naves primero	2016-10-14T14:03:
 ship_planner_pause	Pausar construcción	2016-10-14T14:03:39.281009	Pause construction
 ship_planner_resume	Reanudar construcción	2016-10-14T14:03:39.281009	Resume construction
 ship_scrap_confirm	¿Estás seguro? La nave será destruida y una cantidad escasa de recursos será obtenida	2016-10-14T14:03:39.281009	Are you sure? The ship will be destroyed and a small amount of resources will be obtained
-ship_structure_parts	Estructuras de la nave	2016-10-14T14:03:39.281009	Ship structure parts
+ship_structure_parts	Estructuras de la nave	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 shipplanner	Planificador de naves	2016-10-14T14:03:39.281009	Ship planner
 shipplanner_desc	Selecciona una nave para construir y controla el proceso de ensamblaje. Tras colocarlo construye uno ó más bancos de trabajo	2016-10-14T14:03:39.281009	Selects a ship for construction and monitors its building process. After building this object build one or more ship work desks.
 ships	Naves	2016-10-14T14:03:39.281009	Ships
@@ -604,7 +599,6 @@ basic_soap	Jabón básico	2017-02-17T12:14:02.097451	Basic soap
 beam_desc	Un objetivo, Rayo	2017-02-17T12:14:02.097451	Single target, Beam
 bed_plain2	Cama básica	2017-02-17T12:14:02.097451	Basic bed
 bed_plain_desc	Recarga el sueño. Usable por cualquier oficial. No usable para visitantes.	2017-02-17T12:14:02.097451	Restores sleep. Can be used by any officer. Cannot be used by visitors.
-bedofficer_desc	Cama de lujo para los oficiales con más experiencia. Marca la habitación en la que se coloca como área de propiedad del oficial. No usable para visitantes.	2017-02-17T12:14:02.097451	Comfortable bed for your officers. It marks its room as an ownership area for its assigned owner. Cannot be used by visitors.
 billiard	Billar	2017-02-17T12:14:02.097451	Billiard
 billiard_desc	Gopea bolas con un palo en una mesa de tela verde. Provee diversión.	2017-02-17T12:14:02.097451	Hit balls with a stick on a green cloth table. Provides Fun.
 bionanites	Bionanitas	2017-02-17T12:14:02.097451	Bionanites
@@ -646,7 +640,6 @@ crowd_control	Control de masas	2017-02-17T12:14:02.097451	Crowd control
 crowd_control_short	CM	2017-02-17T12:14:02.097451	CC
 crusantian_member	Crusantiano	2017-02-17T12:14:02.097451	Crusantian
 cryopod	Cryo pod	2017-02-17T12:14:02.097451	Cryo pod
-cryopod_desc	Permite a tus oficiales obtener un descanso completo en pocos segundos. Cuenta como cama de oficial. No es usable por visitantes.	2017-02-17T12:14:02.097451	Allows your officers to get a full night sleep in mere seconds. Counts as an officer bed with respect to spec demands. Cannot be used by visitors.
 cucurbian_member	Cucurbiante	2017-02-17T12:14:02.097451	Cucurbian
 dance_floor	Pista de baile	2017-02-17T12:14:02.097451	Dance floor
 dance_floor_desc	Solo disponible para formas de vida basadas en materia	2017-02-17T12:14:02.097451	Available only for matter-based life forms.
@@ -736,10 +729,7 @@ holocomics	Holocomics	2017-02-17T12:14:02.097451	Holocomics
 holofiction	HoloFicción v19.2	2017-02-17T12:14:02.097451	HoloFiction v19.2
 holofiction_desc	Una enorme cantidad de diversión en 4D	2017-02-17T12:14:02.097451	An amazing amount of fun in 4D
 holohistorical	HoloHistoria v24.8	2017-02-17T12:14:02.097451	HoloHistory v24.8
-holohistorical_desc	Revive los tiempos antiguos	2017-02-17T12:14:02.097451	Revive ye olden times
 hospitality_job	Hospitalidad	2017-02-17T12:14:02.097451	Hospitality
-hospitality_tier_1	Cuartel	2017-02-17T12:14:02.097451	Barracks
-hospitality_tier_2	Dormitorios de oficiales	2017-02-17T12:14:02.097451	Officer bedrooms
 hospitality_tier_3	Motel	2017-02-17T12:14:02.097451	Motel
 hospitality_tier_4	Hotel de lujo	2017-02-17T12:14:02.097451	Luxury hotel
 hospitality_tier_5	Cryodescanso	2017-02-17T12:14:02.097451	Cryoresting
@@ -986,7 +976,7 @@ event_breakage_warn	Algunas factorías se han estropeado!	2017-07-21T14:14:09.23
 event_explodefire_warn	%s ha explotado y se ha iniciado un fuego!	2017-07-21T14:14:09.235034	%s has exploded and started a fire!
 event_foodpoisoning_warn	Algunos habitantes de la estación han sido intoxicados!	2017-07-21T14:14:09.235034	Some station inhabitants are food poisoned!
 event_invaderbomb_out_of_time	Se ha terminado el tiempo y la bomba ha explotado!	2017-07-21T14:14:09.235034	You ran out of time! The bomb has exploded!
-event_invaders_warn4	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A (nivel ~A) aproximándose a la estación. Prepárate!	2017-07-21T14:14:09.235034	We have received reports of a ~A raiding party from ~A (level ~A) approaching our station. Be prepared!
+event_invaders_warn4	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A (nivel ~A) aproximándose a la estación. Prepárate!	2017-07-21T14:14:09.235034	NOT FOUND IN GAME
 event_kowka_warn	Кошка es una gata curiosa y quiere ver tu progreso. Conservas aún su amistad? Su ejército de robots ayudarán en tareas mientras estén en la estación.	2017-07-21T14:14:09.235034	Кошка is a curious cat and she's here to check on the progress of her friend. Are you still a friend? Her robot army will help around in the station while they are here.
 event_liberty_warn	Liberty ha llegado! Su presencia hará sentir mejor a todo aquel que se acerque.	2017-07-21T14:14:09.235034	Liberty is here! Her presence will make everybody around her happy, visitor and resident alike.
 event_manysick_fail	Algunos visitantes %s no han sido curados, no se otorga el bonus,	2017-07-21T14:14:09.235034	Some %s visitors are not cured, no reward has been granted.
@@ -1417,7 +1407,6 @@ storage_area_full	El área está llena	2017-07-21T14:14:09.235034	Storage area i
 storage_area_no_empty_floor	No hay espacio para nuevos tipos de recurso	2017-07-21T14:14:09.235034	No available space for new resource kinds
 systems_unlocked	Estos sistemas ya se pueden explorar: ~A	2017-07-21T14:14:09.235034	The following systems can now be explored: ~A
 tutorial_planet_basics_1	¡Has aterrizado en el planeta tutorial!\nLos planetas son tu principal fuente de recursos, por lo que son vitales para tu supervivencia. Visita nuevos planetas para encontrar todo tipo de recursos	2017-07-21T14:14:09.235034	So you've landed on the tutorial planet!\nPlanets are your main source of resources, so they are vital for your survival. Visit new planets to find all kinds of resources.
-tutorial_planet_extraction_3	Este edificio se utiliza para extraer recursos biológicos del planeta. El suelo destacado está cerca de algunos nodos de frutas y verduras, haz clic en él para construir el extractor. Al menos un nodo debe quedar dentro del círculo de su área de influencia. Recuerda que puedes seleccionar a todo tu equipo con [Tab] y luego teletransportarlos cerca con [T].	2017-07-21T14:14:09.235034	This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [Tab] then teleport [T) them nearby.
 tutorial_planet_planetarium	Abrir nuevos sistemas	2017-07-21T14:14:09.235034	Opening new systems
 tutorial_planet_planetarium_1	En algún momento el sistema inicial de nivel 1 donde reside tu estación se te va a quedar corto. Necesitarás más recursos y más visitantes para mantener tu estación. La manera de abrir nuevos sistemas es visitando un planetario. Todos los planetas habitados tienen uno. Selecciona Siguiente para ver el de este planeta.	2017-07-21T14:14:09.235034	At some point the starter level 1 system with the asteroid you call Home will become too small. You'll need new resources and more visitors to keep your station going. The way to open new systems is by visiting a planetarium. Every inhabited planet has one. Click next to see this planet planetarium.
 tutorial_planet_planetarium_2	Los planetarios contienen el conocimiento de local de la galaxia. Tal como dice su panel de información, es tu elección obtener ese conocimiento por la fuerza o pagando. Piensa en las consecuencias! Después de obtenerlo todos los sistemas enlazados quedarán abiertos a tus naves.	2017-07-21T14:14:09.235034	Planetariums contain the local galactic knowledge. As its info panel says, it's your choice to obtain that knowledge by force or by paying up. Beware the consequences! After obtaining it, all linked systems from the planet system will be open for travel.
@@ -1495,7 +1484,6 @@ pallet_desc	Almacena una sola clase de artículo con control de valores máximo 
 rebuildable_ruins_build	Reconstruir	2017-09-10T18:08:44.842159	Rebuild
 rebuildable_ruins_desc	Las ruinas de un objeto que se puede reconstruir o reciclar.	2017-09-10T18:08:44.842159	Ruins of an object that can be rebuilt or recycled.
 rebuildable_ruins_recycle	Reciclar	2017-09-10T18:08:44.842159	Recycle
-recipe_difficulty	Dificultad:	2017-09-10T18:08:44.842159	Difficulty:
 removed_wall	Pared eliminada	2017-09-10T18:08:44.842159	Removed wall
 resource_tag_extracted	Extraído	2017-09-10T18:08:44.842159	Extracted
 robot_inventory	Inventario de robots	2017-09-10T18:08:44.842159	Robot inventory
@@ -1522,8 +1510,6 @@ ship_allowed_edit	Cambiar los recursos autorizados	2017-09-10T18:08:44.842159	Ch
 ship_servicing	La nave está volviendo a la estación para descargar y descansar la tripulación. Ignorará el piloto automático hasta estar lista.	2017-09-10T18:08:44.842159	The ship is going back home to unload and refresh the crew and may ignore the autopilot orders until it's done
 ship_servicing_cond	Regreso: %d%% listo o carga llena	2017-09-10T18:08:44.842159	Fly home: %d%% ready or full hold
 ship_servicing_depart	Continua piloto automático con %d%% listo	2017-09-10T18:08:44.842159	Continues autopilot at %d%% ready
-spec_disallows	Prohibe el trabajo en:	2017-09-10T18:08:44.842159	Disallows working on:
-spec_info_demands	Requiere:	2017-09-10T18:08:44.842159	Demands:
 station_attrition_warn	Algunos objetos en la estación están sufriendo daños al estar expuestos a la atmósfera del planeta, dado que un tile de suelo o de pared su habitación ha sido destruido o borrado. Asegúrate de que todas las habitaciones están 100% rodeadas de paredes o puertas, y que el 100% de su suelo está pavimentado.	2017-09-10T18:08:44.842159	Station objects are suffering damage from being exposed to the planet atmosphere by an incomplete wall or by an unbuilt floor tile. Make sure all station rooms are fully delimited by walls or doors, and that their floors are fully built with room tiles.
 steel_wall	Pared de acero	2017-09-10T18:08:44.842159	Steel wall
 storage_area_desc	Marca el suelo alrededor de su ubicación como un área de almacenamiento para los diferentes tipos de artículos. No proporciona un control de existencias preciso.	2017-09-10T18:08:44.842159	Marks the room around its location as a floor storage area for resources and products. It does not provide precise stock control. Can stock any kind of resource or product.
@@ -1566,13 +1552,198 @@ tutorial_station_building_8	Y el útlimo segmento de pared. Vamos a dejar un til
 tutorial_station_building_9	Espermos a que se construyan las paredes	2017-09-10T18:08:44.842159	Let's wait for the walls to be constructed.
 tutorial_station_object_tool	Instalaciones	2017-09-10T18:08:44.842159	Facilities
 tutorial_station_production_5_2	El panel de info de la fábrica ahora muestra el modo de creación de ordenes. Hay que elegir una receta, cocinemos algunas raciones. Elige la receta de raciones.	2017-09-10T18:08:44.842159	The factory info panel has changed to the order creation view. First select a recipe, let's cook some rations. Click the Basic Rations recipe to select it.
-tutorial_station_stocks_13	Estos son los pasos básicos de construcción, producción y logística. Pero tu éxito también depende de extraer recursos y avanzar en la investigación. Sigue con los tutoriales de galaxia e investigación, visitando sus pantallas con los botones de la barra superior.	2017-09-10T18:08:44.842159	There are the basics of building, production and logistics for your station. But your success also depends on extracting resources and advancing research. Check out now the tutorials for the galaxy and the research screens by opening them using their buttons in the top left toolbar.
+tutorial_station_stocks_13	Estos son los pasos básicos de construcción, producción y logística. Pero tu éxito también depende de extraer recursos y avanzar en la investigación. Sigue con los tutoriales de galaxia e investigación, visitando sus pantallas con los botones de la barra superior.	2017-09-10T18:08:44.842159	NOT FOUND IN GAME
 tutorial_station_stocks_9	Este mostrador de comida ahora empezará a almacenar raciones. Tus oficiales almacenarán raciones en ella hasta llegar a la cantidad máxima configurada. Cuando se encuentran lejos de tus centros de producción, los objetos de mantenimiento de stocks ayudan a una distribución eficiente de tus productos y recursos. También son un punto de venta de productos a turistas, una vez permitas sus visitas.\nVeamos un par de ellos.\nSelecciona la herramienta de construcción de objetos.	2017-09-10T18:08:44.842159	This food shop will now start stocking rations. Your officers will deliver rations to it up to the configured max amount. When located far from your production centers, stock keeping objects help with the efficient distribution of your products and resources. They also enable the sale of products to visitors once you allow them in your station.\nLet's look at two more of them.\nSelect the Build object tool.
 visitor_usage	Uso de turistas	2017-09-10T18:08:44.842159	Visitor usage
 walk_group_to_label	Click para ordenar al grupo seleccionado caminar a una posición	2017-09-10T18:08:44.842159	Click to make the group walk to the selected position
 walls_build_info	Click y arrastra para dibujar el plano de una pared, o dibuja tile a tile. Pulsa Esc para cancelar mientras arrastras una línea.	2017-09-10T18:08:44.842159	Click and drag a line to draw a wall blueprint, or click to paint tile by tile. You can press Esc while dragging to cancel the line.
 walls_tool	Constuir paredes	2017-09-10T18:08:44.842159	Build walls
 warn_no_shop	Sin tienda, obtenido gratis	2017-09-10T18:08:44.842159	Not in a shop, picked for free
+active_absorb_item	Activo: absorción	2017-11-28T22:45:08.876200	Active absorb item
+active_control_item	Activo: control	2017-11-28T22:45:08.876200	Active control item
+active_damage_item	Activo: daño	2017-11-28T22:45:08.876200	Active damage item
+active_healing_item	Activo: cura	2017-11-28T22:45:08.876200	Active healing item
+advanced_ship_engines_parts	Piezas de motor avanzadas	2017-11-28T22:45:08.876200	Advanced ship engine parts
+advanced_ship_hull_parts	Piezas del casco avanzadas	2017-11-28T22:45:08.876200	Advanced ship hull parts
+advanced_ship_lifesupport_parts	Piezas de soporte vital avanzadas	2017-11-28T22:45:08.876200	Advanced ship life support parts
+advanced_ship_structure_parts	Piezas de estructura avanzadas	2017-11-28T22:45:08.876200	Advanced ship structure parts
+autopilot_disabled	Piloto automático desactivado	2017-11-28T22:45:08.876200	Autopilot is disabled
+autopilot_enabled	Piloto automático activado	2017-11-28T22:45:08.876200	Autopilot is enabled
+basic_ship_engines_parts	Piezas de motor básicas	2017-11-28T22:45:08.876200	Basic ship engine parts
+basic_ship_hull_parts	Piezas del casco básicas	2017-11-28T22:45:08.876200	Basic ship hull parts
+basic_ship_lifesupport_parts	Piezas de soporte vital básicas	2017-11-28T22:45:08.876200	Basic ship life support parts
+basic_ship_structure_parts	Piezas de estructura básicas	2017-11-28T22:45:08.876200	Basic ship structure parts
+bedofficer	Cama de oficial master	2017-11-28T22:45:08.876200	Master officer bed
+bedofficer_desc	Cama de los oficiales master. Marca la habitación en la que se coloca como área de propiedad del oficial. No usable para visitantes.	2017-11-28T22:45:08.876200	Comfortable bed for your master officers. It marks its room as an ownership area for its assigned owner. Cannot be used by visitors.
+best	Mejor	2017-11-28T22:45:08.876200	Best
+build_advanced_ship_engines	Construir piezas de motor avanzadas	2017-11-28T22:45:08.876200	Build advanced ship engines
+build_advanced_ship_hull	Construir piezas del casco avanzadas	2017-11-28T22:45:08.876200	Build advanced ship hull
+build_advanced_ship_lifesupport	Construir piezas de soporte vital avanzadas	2017-11-28T22:45:08.876200	Build advanced ship life support
+build_advanced_ship_structure	Construir piezas de estructura avanzadas	2017-11-28T22:45:08.876200	Build advanced ship structure
+build_basic_ship_engines	Construir piezas de motor básicas	2017-11-28T22:45:08.876200	Build basic ship engines
+build_basic_ship_hull	Construir piezas del casco básicas	2017-11-28T22:45:08.876200	Build basic ship hull
+build_basic_ship_lifesupport	Construir piezas de soporte vital básicas	2017-11-28T22:45:08.876200	Build basic ship life support
+build_basic_ship_structure	Construir piezas de estructura básicas	2017-11-28T22:45:08.876200	Build basic ship structure
+build_intermediate_ship_engines	Construir piezas de motor intermedias	2017-11-28T22:45:08.876200	Build intermediate ship engines
+build_intermediate_ship_hull	Construir piezas del casco intermedias	2017-11-28T22:45:08.876200	Build intermediate ship hull
+build_intermediate_ship_lifesupport	Construir piezas de soporte vital intermedias	2017-11-28T22:45:08.876200	Build intermediate ship life support
+build_intermediate_ship_structure	Construir piezas de estructura intermedias	2017-11-28T22:45:08.876200	Build intermediate ship structure
+build_job_warn_invalid_room	Habitación inválida para el objeto	2017-11-28T22:45:08.876200	Not inside a valid room
+by_age	Antigüedad	2017-11-28T22:45:08.876200	Seniority
+by_gear_level	Peor equipado	2017-11-28T22:45:08.876200	Worst Equipped
+chest_01	SecuVest	2017-11-28T22:45:08.876200	SecuVest
+chest_02	Nanostraps	2017-11-28T22:45:08.876200	Nanostraps
+chest_03	Armadura ligera	2017-11-28T22:45:08.876200	Light Armor
+chest_04	InteriCalid	2017-11-28T22:45:08.876200	Underwarmer
+chest_05	Chaleco de piloto	2017-11-28T22:45:08.876200	Pilot Vest
+chest_06	Malla de impacto	2017-11-28T22:45:08.876200	Impact Mesh
+chest_07	Cubierta pesada	2017-11-28T22:45:08.876200	Heavy Duty Cover
+chest_08	Camisa molona	2017-11-28T22:45:08.876200	Cool Shirt
+chest_09	ShockABS MkII	2017-11-28T22:45:08.876200	ShockABS MkII
+chest_10	Camisa guay	2017-11-28T22:45:08.876200	Fancy Shirt
+chest_11	Armadura traje EVA	2017-11-28T22:45:08.876200	EVA Suit Armor
+chest_12	Coraza dura	2017-11-28T22:45:08.876200	Strong Shell
+chest_13	GuardaTorso	2017-11-28T22:45:08.876200	Chest Guard
+chest_14	Capa de soldador	2017-11-28T22:45:08.876200	Fusion Welder Coat
+chest_15	Protector escamoso	2017-11-28T22:45:08.876200	Scaly Protector
+chest_16	Túnica real	2017-11-28T22:45:08.876200	Royal Robes
+chest_17	Armadura energética	2017-11-28T22:45:08.876200	Powered Armor
+chest_18	Armadura ablativa	2017-11-28T22:45:08.876200	Ablative Armor
+chest_19	Chaqueta de tropa	2017-11-28T22:45:08.876200	Raintrooper Jacket
+chest_20	Cyber V80	2017-11-28T22:45:08.876200	Cyber V80
+clone_chamber	Seguro clonador	2017-11-28T22:45:08.876200	Insurance cloner
+clone_chamber_desc	Crea un clon del oficial asignado automáticamente cuando éste muere, incluso en la otra punta de la galaxia. Este objeto se destruye después de crear el clon. Muy frágil!	2017-11-28T22:45:08.876200	Automatically creates a clone of its assigned officer when they die, even at the other end of the galaxy. The object is destroyed after spawning the clone. Very fragile!
+cryopod_desc	Permite a tus oficiales obtener un descanso completo en pocos segundos. Cuenta como cama de oficial master. No es usable por visitantes.	2017-11-28T22:45:08.876200	Allows your officers to get a full night sleep in mere seconds. Counts as a master officer bed with respect to spec demands. Cannot be used by visitors.
+decor_classydivisor	Divisor estiloso	2017-11-28T22:45:08.876200	Classy divider
+decor_glassdivisor	Divisor de vidrio	2017-11-28T22:45:08.876200	Glass divider
+decor_homelydivisor	Divisor	2017-11-28T22:45:08.876200	Divider
+delivery_select_ship	Selecciona nave repartidora	2017-11-28T22:45:08.876200	Select ship for delivery
+event_invaders_warn4b	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A aproximándose a la estación. Prepárate!	2017-11-28T22:45:08.876200	We have received reports of a ~A raiding party from ~A approaching our station. Be prepared!
+export_current_rate	Índice de exportación	2017-11-28T22:45:08.876200	Export price rate
+facilities_tier_1	Estación básica	2017-11-28T22:45:08.876200	Basic station
+facilities_tier_10	Items 21-25	2017-11-28T22:45:08.876200	Equipment tier 21-25
+facilities_tier_11	Items 26-30	2017-11-28T22:45:08.876200	Equipment tier 26-30
+facilities_tier_12	Items 31-35	2017-11-28T22:45:08.876200	Equipment tier 31-35
+facilities_tier_13	Items 36-40	2017-11-28T22:45:08.876200	Equipment tier 36-40
+facilities_tier_2	Items 1-5	2017-11-28T22:45:08.876200	Equipment tier 1-5
+facilities_tier_3	Robótica básica	2017-11-28T22:45:08.876200	Basic robotics
+facilities_tier_3b	Muelle de visitantes	2017-11-28T22:45:08.876200	Visitor docks
+facilities_tier_4	Items 6-10	2017-11-28T22:45:08.876200	Equipment tier 6-10
+facilities_tier_5	Seguridad básica	2017-11-28T22:45:08.876200	Basic security
+facilities_tier_6	Logística	2017-11-28T22:45:08.876200	Logistics
+facilities_tier_7	Items 11-15	2017-11-28T22:45:08.876200	Equipment tier 11-15
+facilities_tier_8	Items 16-20	2017-11-28T22:45:08.876200	Equipment tier 16-20
+facilities_tier_9	Seguridad avanzada	2017-11-28T22:45:08.876200	Advanced security
+feet_01	Botas de soldador	2017-11-28T22:45:08.876200	Fusion Welder Boots
+feet_02	Botas de traje EVA	2017-11-28T22:45:08.876200	EVA Suit Boots
+feet_03	Botas de tropa	2017-11-28T22:45:08.876200	Raintrooper Boots
+feet_04	Botas de coraza	2017-11-28T22:45:08.876200	Shell Boots
+feet_05	Botas de piloto	2017-11-28T22:45:08.876200	Pilot Boots
+feet_06	Cyber V81	2017-11-28T22:45:08.876200	Cyber V81
+feet_07	Botas energéticas	2017-11-28T22:45:08.876200	Powered Boots
+feet_08	Botas ablativas	2017-11-28T22:45:08.876200	Ablative Boots
+feet_09	Botas duras	2017-11-28T22:45:08.876200	Heavy Duty Boots
+feet_10	BotasShock 1.1	2017-11-28T22:45:08.876200	ShockBoots 1.1
+global_max_export_amount_desc	Las naves que recogen recursos exportados en los planetas ignorarán este recurso cuando el stock de la estación llegue a esta cifra.	2017-11-28T22:45:08.876200	Ships exporting resources from plannets will skip this resource when the station stock reaches this amount
+global_max_import_amount	Stock máximo	2017-11-28T22:45:08.876200	Max stock
+global_recipes_inv_hint	Cambia el min. stock en el inventario	2017-11-28T22:45:08.876200	Set the global min stock values in the inventory window
+goal_buildbar1_desc	Construye un disco bar, 3 mesas de disco y 2 pistas de baile.	2017-11-28T22:45:08.876200	Build a disco bar, 3 disco tables and 2 dance floors.
+goal_imports1_desc	Una o más de tus naves venden 50 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 50 units of any product to a civ planet.
+goal_imports1_title	Importar 50 unidades	2017-11-28T22:45:08.876200	Import 50 cargo units
+goal_imports2_desc	Una o más de tus naves venden 500 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 500 units of any product to a civ planet.
+goal_imports2_title	Importar 500 unidades	2017-11-28T22:45:08.876200	Import 500 cargo units
+goal_imports3_desc	Una o más de tus naves venden 5000 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 5000 units of any product to a civ planet.
+goal_imports3_title	Importar 5000 unidades	2017-11-28T22:45:08.876200	Import 5000 cargo units
+hands_01	Guantes duros	2017-11-28T22:45:08.876200	Heavy Duty Gloves
+hands_02	Cyber V82	2017-11-28T22:45:08.876200	Cyber V82
+hands_03	Guantes de coraza	2017-11-28T22:45:08.876200	Shell Gloves
+hands_04	Guantes de piloto	2017-11-28T22:45:08.876200	Pilot Gloves
+hands_05	Guantes de tropa	2017-11-28T22:45:08.876200	Raintrooper Gloves
+hands_06	Guantes de soldador	2017-11-28T22:45:08.876200	Fusion Welder Gloves
+hands_07	Guantes de traje EVA	2017-11-28T22:45:08.876200	EVA Suit Gloves
+hands_08	Guantes energéticos	2017-11-28T22:45:08.876200	Powered Gloves
+hands_09	Guantes ablativos	2017-11-28T22:45:08.876200	Ablative Gloves
+hands_10	GuantesShock Beta	2017-11-28T22:45:08.876200	ShockGloves Beta
+holohistorical_desc	Revive los tiempos antiguos	2017-11-28T22:45:08.876200	Relive ye olden times
+hospitality_tier_1	Cuartel	2017-11-28T22:45:08.876200	Redshirt and graduate barracks
+hospitality_tier_2	Dormitorios de oficiales master	2017-11-28T22:45:08.876200	Master officer bedrooms
+implant_01	OC nervioso	2017-11-28T22:45:08.876200	Nerve OC
+implant_02	TargetTron++	2017-11-28T22:45:08.876200	TargetTron++
+implant_03	ReflexPlus	2017-11-28T22:45:08.876200	ReflexPlus
+implant_04	ReflexPlus Lite	2017-11-28T22:45:08.876200	ReflexPlus Lite
+implant_05	Bypass ADRNL	2017-11-28T22:45:08.876200	ADRNL Bypass
+implant_06	uWatch mKill	2017-11-28T22:45:08.876200	uWatch mKill
+implant_07	uRun mKill	2017-11-28T22:45:08.876200	uRun mKill
+implant_08	ReCargador	2017-11-28T22:45:08.876200	Hot Reloader
+implant_09	FocusIN	2017-11-28T22:45:08.876200	FocusIN
+implant_10	Batería de backup	2017-11-28T22:45:08.876200	Backup Power
+implant_11	Stress relax	2017-11-28T22:45:08.876200	Stress Reliever
+implant_12	MenteExpasiva	2017-11-28T22:45:08.876200	MindExpander
+implant_13	PulsoPerfecto	2017-11-28T22:45:08.876200	Hand Steadier
+implant_14	Célula de emergencia	2017-11-28T22:45:08.876200	Emergency cells
+implant_15	Inyector de potencia	2017-11-28T22:45:08.876200	Power Injector
+implant_16	Widget 3000P	2017-11-28T22:45:08.876200	Widget 3000P
+implant_17	Visor extra	2017-11-28T22:45:08.876200	Extra Sight
+implant_18	Modulador de masa	2017-11-28T22:45:08.876200	Mass Modulator
+implant_19	Meta modulador	2017-11-28T22:45:08.876200	Meta Modulator
+implant_20	Modulador de flujo	2017-11-28T22:45:08.876200	Flux Modulator
+import_amount	Introduce la cantidad de %s para vender a %s	2017-11-28T22:45:08.876200	Enter amount of %s to sell to %s
+import_amount_over_hold	La bodega de la nave es demasiado pequeña	2017-11-28T22:45:08.876200	Ship cargo hold is too small
+import_amount_over_stock	No hay suficiente stock (fuera de tiendas) en la estación	2017-11-28T22:45:08.876200	Not enough non-shop stock in the station
+import_changed_stock	El stock de la estación cambió en el último segundo y está por debajo de tu selección	2017-11-28T22:45:08.876200	Station stock changed at the last second and it is now under your selected amount
+import_invalid_ship_id	Selecciona una nave	2017-11-28T22:45:08.876200	Select a ship
+import_invalid_ship_not_home	La nave ha de estar en la estació base	2017-11-28T22:45:08.876200	Ship must be parked at home
+import_too_low_amount	Selecciona una cantidad a vender	2017-11-28T22:45:08.876200	Select a resource amount to deliver
+imports_current_reputation	Reputación actual: %d/%d	2017-11-28T22:45:08.876200	Current reputation: %d/%d
+imports_donation_bonus	Bonus de reputación: +%d	2017-11-28T22:45:08.876200	Reputation bonus: +%d
+imports_donation_button	Donar @ui_icon_20px_credits04.png %d	2017-11-28T22:45:08.876200	Donate @ui_icon_20px_credits04.png %d
+imports_hostile_donation_desc	No nos interesan tus baratijas, pero una donación a nuestra causa nos hará odiarte con un poco menos de intensidad.	2017-11-28T22:45:08.876200	We are not interested in your shiny baubles, but a donation to our cause will make us hate you a little less intensely.
+imports_hostile_limit	Te vamos a tolerar, pero reconsideraremos nuesta posición si eres hostil con nosotros.	2017-11-28T22:45:08.876200	We will tolerate you, but we will reconsider our position if you are hostile to us again.
+imports_no_planets	Abre más sistemas para encontrar planetas con demanda para este producto.	2017-11-28T22:45:08.876200	Open more star systems to discover planets with a demand for this product
+intermediate_ship_engines_parts	Piezas de motor intermedias	2017-11-28T22:45:08.876200	Intermediate ship engine parts
+intermediate_ship_hull_parts	Piezas del casco intermedias	2017-11-28T22:45:08.876200	Intermediate ship hull parts
+intermediate_ship_lifesupport_parts	Piezas de soporte vital intermedias	2017-11-28T22:45:08.876200	Intermediate ship life support parts
+intermediate_ship_structure_parts	Piezas de estructura intermedias	2017-11-28T22:45:08.876200	Intermediate ship structure parts
+inventory_in_shops	En tiendas: ~A	2017-11-28T22:45:08.876200	In shops: ~A
+inventory_on_pallets	En palets: ~A	2017-11-28T22:45:08.876200	On pallets: ~A
+inventory_on_storage_areas	En zonas: ~A	2017-11-28T22:45:08.876200	On storage areas: ~A
+inventory_unattended	Desatendido: ~A	2017-11-28T22:45:08.876200	Unattended: ~A
+make_active_absorb	Construye item activo absorción L~A-L~A	2017-11-28T22:45:08.876200	Make active absorb item L~A-L~A
+make_active_control	Construye item activo control L~A-L~A	2017-11-28T22:45:08.876200	Make active control item L~A-L~A
+make_active_damage	Construye item activo daño L~A-L~A	2017-11-28T22:45:08.876200	Make active damage item L~A-L~A
+make_active_healing	Construye item activo cura L~A-L~A	2017-11-28T22:45:08.876200	Make active healing item L~A-L~A
+max_3char	MAX	2017-11-28T22:45:08.876200	MAX
+object_is_busy	~A ocupado	2017-11-28T22:45:08.876200	~A is busy
+object_strength	Resistencia	2017-11-28T22:45:08.876200	Strength
+price_bom_row	Coste medio:	2017-11-28T22:45:08.876200	Avg BOM:
+price_row	Precio:	2017-11-28T22:45:08.876200	Price:
+quick_jump	Saltar:	2017-11-28T22:45:08.876200	Quick jump:
+recipe_difficulty	Dificultad:	2017-11-28T22:45:08.876200	Difficulty:
+room_aestehtics_amt	~A puntos	2017-11-28T22:45:08.876200	~A points
+room_aesthetics	Estética hab.	2017-11-28T22:45:08.876200	Room aesthetics
+room_of_aesthetics	Hab. de %d estética	2017-11-28T22:45:08.876200	Room of %d aesthetics
+ship_dock_assigned	Muelle asignado en la estación base	2017-11-28T22:45:08.876200	Dock assigned in home base
+ship_must_parked_home2	La nave debe estar aparcada en tu estación para poder ser desmantelada. Al menos una nave ha de permanecer un tu flota.	2017-11-28T22:45:08.876200	The ship must be parked in your home station to be available for dismantling. At least one ship must remain in your fleet.
+spec_disallows	Prohibe el trabajo en:	2017-11-28T22:45:08.876200	Disallows working on:
+spec_info_demands	Requiere:	2017-11-28T22:45:08.876200	Demands:
+start_delivery	@ui_icon_40px_sell.png Entregar	2017-11-28T22:45:08.876200	@ui_icon_40px_sell.png Start delivery
+stock	Stock:	2017-11-28T22:45:08.876200	Stock:
+total_row	Total:	2017-11-28T22:45:08.876200	Total:
+tutorial_civs_basics	Reputación, importar y exportar	2017-11-28T22:45:08.876200	Reputation, imports and exports
+tutorial_civs_basics_1	La pantalla de civs muestra las civlizaciones que has descubierto en la galaxia. Vamos a exponer que información y acciones están disponibles. Selecciona a los humanos en la columna izquierda.	2017-11-28T22:45:08.876200	The Civs screen displays all the civilizations you have discovered in the galaxy. Let's check what information and actions are available in this screen. Click the Humans entry in the left column.
+tutorial_civs_basics_2	Selecciona la tab de reputación.	2017-11-28T22:45:08.876200	Select the Reputation tab.
+tutorial_civs_basics_3	Reputación es la medida de cuanto le gustas a una civ. Con menos de 15000 puntos se van a negar a comerciar contigo. Sus visitas a tu estación no serán pacíficas. Más de 15000 y podrás comerciar con ellos y te visitarán como turistas. Puedes aumentar tu reputación con embajadas y tratando bien a los turistas. Las civs hostiles admiten tributos monetarios en su lugar. Tener una reputación alta abarata las exportaciones y valora las importaciones.	2017-11-28T22:45:08.876200	Reputation is the measure of how much a civ likes you. Less than 15000 points and they will refuse to engage in commerce with you. Their visits to your station won't be peaceful. More than 15000 and you'll be able to engage in commerce and they may come visit as tourists. You can raise your reputation with embassies and taking good care of tourists. Hositle civs accept tributes instead. A high reputation results in lower export prices and higher import prices.
+tutorial_civs_basics_4	Selecciona la tab de exportación.	2017-11-28T22:45:08.876200	Select the Exports tab.
+tutorial_civs_basics_5	Tu estación puede manufacturar docenas de productos, pero todos los recursos ingredientes se extraen de otros planetas. Y la mayoría de planetas están habitados por una civ. Cargar recursos en estos planetas te va a costar créditos, y cuanto más le gustes a la civ, menor será el precio. Estos precios son globales para toda la civ.	2017-11-28T22:45:08.876200	Your station can manufacture dozens of products, but all the raw resources are extracted from planets. And most planets are inhabited by a civ. Loading extracted resources from planets will cost you some credits, and the more a civ likes you, the lower the price. Raw resource prices are global for a given civ.
+tutorial_civs_basics_6	Selecciona la tab de imporación.	2017-11-28T22:45:08.876200	Select the Imports tab.
+tutorial_civs_basics_7a	Fabricar productos no es solo para tus necesidades! También puedes venderlos a turistas, o directamente enviarlos a planetas desde esta tab. Aquí puedes seleccionar un producto, un planeta que lo necesite, una nave aparcada en tu estación, y una cantidad de producto. Finalmente puedes empezar la entrega. La nave viajará planeta, venderá los productos y regresará automáticamente.	2017-11-28T22:45:08.876200	Manufacturing is not just for your internal needs! You can also sell your production excess to tourists in the station, or directly to their planets from the Imports tab. Here you can select a product, a planet with a demand for that product, an idle home-paked ship, and a product amount. Then you can issue a delivery order and the ship will travel to the planet, sell the product and return.
+tutorial_civs_basics_7b	Esta será la manera principal de ingresar créditos hasta que desbloquees los muelles de turista y el turismo, regresa con frecuencia a esta pantalla para vender tus excedentes. Los stocks de tiendas y expositores no se consideran stock válido para que los mantengas para tu uso interno.	2017-11-28T22:45:08.876200	This will be your main moneymaker until you unlock visitor docks and tourism, some come back here often to sell your excess production. Shop and dispenser product stacks are not considered for importing to make sure you keep some stock for your internal needs.
+tutorial_civs_title	Tutorial de civs	2017-11-28T22:45:08.876200	Civs Tutorial
+tutorial_planet_extraction_3	Este edificio se utiliza para extraer recursos del planeta. El suelo destacado está cerca de algunos nodos de frutas, haz clic en él para construir el extractor. Al menos un nodo debe quedar dentro del círculo de su área de influencia. Recuerda que puedes seleccionar a todo tu equipo con [1] y luego teletransportarlos cerca con [T].	2017-11-28T22:45:08.876200	This building is used to extract resources from the planet. The highligthed tile is near some vegetable and fruit nodes, click it to build the extractor. At least one node must fall inside the circle of its area of influence. Remember you can select your squad [1] then teleport [T) them nearby.
+tutorial_planet_extraction_5	¡Eso es! Ahora este extractor generará frutos que serán almacenados localmente. Viaja a este planeta para cargarlos en una nave y usa la función de piloto automático en la galaxia para automatizar la entrega a tu estación. Exportar recursos de planeta cuesta créditos y se abarata con más reputación. Consulta la pantalla de civs para información de precios.	2017-11-28T22:45:08.876200	That's it! This extractor will now generate fruits and they will get stored locally. Park on this planet to load them into a space ship, and use the autopilot feature in the galaxy to automate the delivery to your station. Exporting resources from inhabited planets costs credits and they become cheaper with higher reputation. Check the Civs screen for the export price rates.
+tutorial_station_stocks_12b	También puedes enviar y vender tus productos directamente a otros planetas. Consulta la pantalla de Civs.	2017-11-28T22:45:08.876200	You can also deliver and sell your products directly to other planets in the galaxy. Check the Imports tab in the Civs screen.
+tutorial_station_stocks_13b	Estos son los pasos básicos de construcción, producción y logística. Pero tu éxito también depende de extraer recursos y avanzar en la investigación. Sigue con los tutoriales de galaxia e investigación, visitando sus pantallas con los botones de la barra superior.	2017-11-28T22:45:08.876200	There are the basics of building, production and logistics for your station. But your success also depends on extracting resources and advancing research. Check out now the tutorials for the galaxy and the research screens by opening them using their buttons in the top left toolbar.
+value_not_number	No es un número	2017-11-28T22:45:08.876200	Value is not a number
 Luxury_kitchen_desc	La mejor cocina del universo se prepara aquí	old	The absolute best cuisine in the universe is prepared here
 advanced_kitchen	Cocina avanzada	old	Advanced kitchen
 advanced_kitchen_desc	Prepara algunas comidas y bebidas muy buenas	old	Prepare some really great food and drinks
@@ -1760,7 +1931,6 @@ goal_buildany2_desc	Construye 75 objetos y 675 baldosas de suelo.	old	Build 75 o
 goal_buildany2_title	Construye una estación mediana	old	Build a medium station
 goal_buildany3_desc	Construye 200 objetos y 1800 baldosas de suelo.	old	Build 200 objects and 1800 floor tiles.
 goal_buildany3_title	Construye una estación grande	old	Build a big station
-goal_buildbar1_desc	Construye un bar, 3 mesas de bar y 2 pistas de baile.	old	Build a bar, 3 bar tables and 2 dance floors.
 goal_buildbar1_title	Construye un club de baile	old	Build a dance club
 goal_builddecorations1_desc	Construye 10 objetos decorativos	old	Build 10 decorations.
 goal_builddecorations1_title	Construye 10 decoraciones	old	Build 10 decorations

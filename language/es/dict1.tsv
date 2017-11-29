@@ -17,7 +17,6 @@ by_mind	Ánimo	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
 galaxy_filter_cvis	Mostrar civs	2016-10-14T12:38:54.517333	Show civs
 galaxy_filter_none	La galaxia	2016-10-14T12:38:54.517333	Just the galaxy
 galaxy_filter_reps	Civs	2016-10-14T12:38:54.517333	Civs
-galaxy_filter_resources2	Recurso extraído: %s	2016-10-14T12:38:54.517333	Extracted resource: %s
 mind_tip	Ánimo: %d	2016-10-14T12:38:54.517333	Mind: %d
 missing_demands	Demandas pendientes	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
 pending_upgrade	Promoción pendiente	2016-10-14T12:38:54.517333	NOT FOUND IN GAME
@@ -104,7 +103,6 @@ shell_saving	Guardando...	2017-07-21T14:12:23.817671	Saving...
 staff_view_counter	Total %d	2017-07-21T14:12:23.817671	Total %d
 staff_view_counter_filtered	Total %d / Filtrado %d	2017-07-21T14:12:23.817671	Total %d / Filtered %d
 accept	Aceptar	2017-09-10T18:06:18.056540	Accept
-wall_construction_job	Construcción de pared	2017-09-10T18:06:18.056540	Wall construction
 arid_planet	Planeta árido	2017-09-10T18:06:18.056540	Arid planet
 black_hole	Agujero negro	2017-09-10T18:06:18.056540	Black hole
 current_game	Partida actual	2017-09-10T18:06:18.056540	Current game
@@ -116,7 +114,6 @@ frozen_planet	Planeta helado	2017-09-10T18:06:18.056540	Frozen planet
 gaia_planet	Planeta gaia	2017-09-10T18:06:18.056540	Gaia planet
 gas_planet	Planeta gaseoso	2017-09-10T18:06:18.056540	Gas planet
 home	Hogar	2017-09-10T18:06:18.056540	Home
-level_n_paren	(nivel %d)	2017-09-10T18:06:18.056540	(level %d)
 new_game_option_events	Eventos:	2017-09-10T18:06:18.056540	Events:
 new_game_option_events_desc	Las opciones de eventos también pueden cambiarse dentro de la partida en cualquier momento	2017-09-10T18:06:18.056540	Event options can also be changed in-game at any time
 new_game_option_pick_planet_kind	Tipo de planeta:	2017-09-10T18:06:18.056540	Planet kind:
@@ -125,14 +122,28 @@ oceanic_planet	Planeta oceánico	2017-09-10T18:06:18.056540	Oceanic planet
 options_more_languages	@ui_icon_30px_lenguage.png Más idiomas	2017-09-10T18:06:18.056540	@ui_icon_30px_lenguage.png More languages
 options_need_game	No hay una partida cargada. Las opciones de partida se guardan con la partida. Empieza o carga una partida para poder cambiarlas.	2017-09-10T18:06:18.056540	No game has been loaded. Gameplay options are stored per-save. Please start a new game or load a saved game to change gameplay options.
 options_save_desc	Las opciones de esta pestaña se guardan con la partida. Asegúrate de guardar la partida después de cambiar las opciones.	2017-09-10T18:06:18.056540	The options in this tab are stored in the save game file, not in the global options. Make sure to save the game after making any changes.
-press_new_key	Pulsa la nueva tecla para:	2017-09-10T18:06:18.056540	Press the new key for:
 random	Aleatorio	2017-09-10T18:06:18.056540	Random
 ship_order_item_subtile_home	Descargar, tripulación desembarca, esperar avituallamiento	2017-09-10T18:06:18.056540	Unload cargo, crew disembarks, wait for vitals
 ship_order_item_subtile_other	Cargar mercancía	2017-09-10T18:06:18.056540	Load cargo
 star	Estrella	2017-09-10T18:06:18.056540	Star
 terra_planet	Planeta terrestre	2017-09-10T18:06:18.056540	Terra planet
 volcanic_planet	Planeta volcánico	2017-09-10T18:06:18.056540	Volcanic planet
+wall_construction_job	Construcción de pared	2017-09-10T18:06:18.056540	Wall construction
 wall_destruction_job	Destrucción de pared	2017-09-10T18:06:18.056540	Wall destruction
+aesthetic_room	Estética: %d	2017-11-28T22:44:47.230984	Aesthetics: %d
+civs_tutorial	Tutorial de civs	2017-11-28T22:44:47.230984	Civs tutorial
+exports	Exportaciones	2017-11-28T22:44:47.230984	Exports
+fullscreen_exclusive	Exclusivo	2017-11-28T22:44:47.230984	Exclusive
+galaxy_filter_cargo	Mostrar exportaciones	2017-11-28T22:44:47.230984	Show planet exports
+galaxy_filter_imports	Mostrar importaciones	2017-11-28T22:44:47.230984	Show planet imports
+galaxy_filter_imports2	Producto importado: %s	2017-11-28T22:44:47.230984	Imported product: %s
+galaxy_filter_resources2	Recurso exportado: %s	2017-11-28T22:44:47.230984	Exported resource: %s
+imports	Importa	2017-11-28T22:44:47.230984	Imports
+level_n_paren	(nivel %d)	2017-11-28T22:44:47.230984	(level %d)
+okay	Ok	2017-11-28T22:44:47.230984	Okay
+press_new_key	Pulsa la nueva tecla para:	2017-11-28T22:44:47.230984	Press the new key for:
+warn_autopilot_no_need_home	No hay necesidad de añadir órdenes al piloto automático para regresar a la base, volverá automáticamente cuando se llene la nave o cuando lo necesite la tripulación. Las ordenes forzadas de regresar a la estación siempre van a esperar a que la tripulación descanse y pueden ralentizar el piloto automático.	2017-11-28T22:44:47.230984	There's no need to add autopilot orders to go back home, the autopilot will automatically head back when the cargo hold is full or when the crew needs it. Forced home orders will always wait for crew rest, even when there's little need, and will slow down the autopilot schedule.
+warn_no_officer_dock	Una de tus naves a regresado a la base pero no tiene un muelle asignado, y por lo tanto a teleportado su tripulación y su carga en el borde del mapa. Construye y asigna un muelle para evitar esto.	2017-11-28T22:44:47.230984	One of your ships arrived at Home but it has no assigned officer dock, so it has teleported its crew and cargo to the edge of the map. Build an officer dock and assign it to the ship to avoid this.
 alert_reports	Alertas e informes	old	Alerts and reports
 asteroid	Asteroide	old	Asteroid
 audio	Audio	old	Audio
@@ -174,7 +185,6 @@ explore	Explorar	old	Explore
 fleet	Flota	old	Fleet
 fullscreen	Pantalla completa	old	Fullscreen
 galaxy	Galaxia	old	Galaxy
-galaxy_filter_cargo	Mostrar recursos planetarios	old	Show planet resources
 galaxy_filter_resources	Recursos extraídos	old	NOT FOUND IN GAME
 galaxy_name	Galaxia %s	old	Galaxy %s
 game_guide	Guía de juego	old	Game guide
