@@ -107,8 +107,8 @@ arid_planet	Planeta árido	2017-09-10T18:06:18.056540	Arid planet
 black_hole	Agujero negro	2017-09-10T18:06:18.056540	Black hole
 current_game	Partida actual	2017-09-10T18:06:18.056540	Current game
 enable_alert_popups	Permitir popups de alerta	2017-09-10T18:06:18.056540	Enable alert popups
-enable_events	Permitir eventos	2017-09-10T18:06:18.056540	Enable events
-enable_violent_events	Permitir eventos violentos	2017-09-10T18:06:18.056540	Enable violent events
+enable_events	Permitir eventos	2017-09-10T18:06:18.056540	NOT FOUND IN GAME
+enable_violent_events	Permitir eventos violentos	2017-09-10T18:06:18.056540	NOT FOUND IN GAME
 exploration	Exploración	2017-09-10T18:06:18.056540	Exploration
 frozen_planet	Planeta helado	2017-09-10T18:06:18.056540	Frozen planet
 gaia_planet	Planeta gaia	2017-09-10T18:06:18.056540	Gaia planet
@@ -132,18 +132,29 @@ wall_construction_job	Construcción de pared	2017-09-10T18:06:18.056540	Wall con
 wall_destruction_job	Destrucción de pared	2017-09-10T18:06:18.056540	Wall destruction
 aesthetic_room	Estética: %d	2017-11-28T22:44:47.230984	Aesthetics: %d
 civs_tutorial	Tutorial de civs	2017-11-28T22:44:47.230984	Civs tutorial
-exports	Exportaciones	2017-11-28T22:44:47.230984	Exports
+exports	Exportaciones	2017-11-28T22:44:47.230984	NOT FOUND IN GAME
 fullscreen_exclusive	Exclusivo	2017-11-28T22:44:47.230984	Exclusive
 galaxy_filter_cargo	Mostrar exportaciones	2017-11-28T22:44:47.230984	Show planet exports
 galaxy_filter_imports	Mostrar importaciones	2017-11-28T22:44:47.230984	Show planet imports
 galaxy_filter_imports2	Producto importado: %s	2017-11-28T22:44:47.230984	Imported product: %s
 galaxy_filter_resources2	Recurso exportado: %s	2017-11-28T22:44:47.230984	Exported resource: %s
-imports	Importa	2017-11-28T22:44:47.230984	Imports
-level_n_paren	(nivel %d)	2017-11-28T22:44:47.230984	(level %d)
+imports	Importa	2017-11-28T22:44:47.230984	NOT FOUND IN GAME
 okay	Ok	2017-11-28T22:44:47.230984	Okay
-press_new_key	Pulsa la nueva tecla para:	2017-11-28T22:44:47.230984	Press the new key for:
 warn_autopilot_no_need_home	No hay necesidad de añadir órdenes al piloto automático para regresar a la base, volverá automáticamente cuando se llene la nave o cuando lo necesite la tripulación. Las ordenes forzadas de regresar a la estación siempre van a esperar a que la tripulación descanse y pueden ralentizar el piloto automático.	2017-11-28T22:44:47.230984	There's no need to add autopilot orders to go back home, the autopilot will automatically head back when the cargo hold is full or when the crew needs it. Forced home orders will always wait for crew rest, even when there's little need, and will slow down the autopilot schedule.
 warn_no_officer_dock	Una de tus naves a regresado a la base pero no tiene un muelle asignado, y por lo tanto a teleportado su tripulación y su carga en el borde del mapa. Construye y asigna un muelle para evitar esto.	2017-11-28T22:44:47.230984	One of your ships arrived at Home but it has no assigned officer dock, so it has teleported its crew and cargo to the edge of the map. Build an officer dock and assign it to the ship to avoid this.
+buy_from	@ui_icon_30px_buy.png Compra a %s	2018-01-10T21:53:29.603899	@ui_icon_30px_buy.png Buy from %s
+enable_station_events	Activar eventos de estación	2018-01-10T21:53:29.603899	Enable station events
+enable_station_violent_events	Activar eventos violentos de estación	2018-01-10T21:53:29.603899	Enable station violent events
+invaded_by	Invadido por %s	2018-01-10T21:53:29.603899	Invaded by %s
+invaded_by_other_desc	Este planeta ha sido invadido y no es posible comerciar o extraer recursos. Su sistema tampoco generará turistas para tu estación. Libéralo para reactivarlo.	2018-01-10T21:53:29.603899	This planet has been invaded and no extraction or commerce is possible. Tourists will not come to visit your station from its system either. Liberate it to enable commerce again.
+invaded_by_spatials_desc	Has invadido este planeta y está bajo tu control. Los objetos que construyas en él no sufriran daños.	2018-01-10T21:53:29.603899	You have invaded this planet and it is under your control. Your built objects won't suffer attrition.
+level_n_paren	(nivel %d)	2018-01-10T21:53:29.603899	(level %d)
+noise_room	Ruido: %d	2018-01-10T21:53:29.603899	Noise: %d
+press_new_key	Pulsa la nueva tecla para:	2018-01-10T21:53:29.603899	Press the new key for:
+rep_at_war_desc	Las civs en guerra no querrán tus productos e intentarán invadirte a ti y a tus aliados. Se mostrán hostiles si aterrizas en sus planetas.	2018-01-10T21:53:29.603899	At War civs won't buy your bulk production and will try to raid your station and invade your allies. They will be hostile if you land on their planets.
+rep_hostile_desc	No le gustas a las civs hostiles, pero comprarán tus productos. Esto incrementará tu reputación con ellos. Se mostrán hostiles si aterrizas en sus planetas.	2018-01-10T21:53:29.603899	Hostile civs don't like you, but they will buy your bulk products. This will increase your reputation with them. They will be hostile if you land on their planets.
+rep_neutral_plus_desc	Esta civ vendrá a visitarte en paz a tu estación, y permitirá que tus naves aterricen en sus planetas para constuir extractores.	2018-01-10T21:53:29.603899	This civs likes you enough to come visit your station in peace, and to allow your ships to land on their planets to build resource extractors.
+sell_to	@ui_icon_30px_sell.png Vende a %s	2018-01-10T21:53:29.603899	@ui_icon_30px_sell.png Sell to %s
 alert_reports	Alertas e informes	old	Alerts and reports
 asteroid	Asteroide	old	Asteroid
 audio	Audio	old	Audio

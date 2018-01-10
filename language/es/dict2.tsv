@@ -36,7 +36,6 @@ tutorial_research_basics_2	La investigación se divide en grupos tecnológicos. 
 tutorial_research_basics_3	Podemos ver los niveles de tecnología para el grupo de alimentos y bebidas. Alcanzar cada nivel puede desbloquear nuevas recetas y/u objetos para construir en la estación . Haz clic en Iniciar Investigación para declarar este nivel como el nivel de investigación actual.	2016-07-03T20:30:59.196653	We can see the tiers for food & drink technology. Reaching each tier can unlock new recipes and/or objects to build in the station. Let's click on Start Research to declare that tier as the current research tier.
 tutorial_research_basics_4	Este nivel es ahora el foco de investigación en tu estación. Pero esto es sólo la pantalla de gestión para tus investigaciones. También es necesario construir la infraestructura necesaria en tu estación y asignar a los oficiales que investiguen .	2016-07-03T20:30:59.196653	The tier is now the focus of the research in your station. But this is just the management screen for your research projects. You also need to build up research infrastructure in your station and assign officers to research.
 tutorial_research_basics_5	Asegúrate de construir un montón de mesas de investigación y habilitar el trabajo de investigación en tus oficiales utilizando la matriz de trabajos para ganar puntos de investigación. Cuando el contador de puntos llegue a la cantidad requerida del nivel será desbloqueado.	2016-07-03T20:30:59.196653	Make sure you build plenty of research tables and enable the research job in your officers using the job matrix to gain research points. When the points counter reaches the required amount the tier will be unlocked.
-tutorial_station_basics_1	¡Bienvenido a The Spatials: Galactology!\nEsta es tu estación espacial. No es gran cosa en este momento, sólo una sala de teletransporte de emergencia.\nTu misión principal es ampliarla y defenderla para que se convierta en el hogar de los Spatials y una atracción para los visitantes.	2016-07-03T20:30:59.196653	Welcome to The Spatials: Galactology!\nThis is your space station. It's not much right now, just an emergency teleporter room.\nYour primary mission is to build it up and defend it, so it becomes the home of the Spatials and a hot spot for visitors.
 tutorial_station_basics_3_1	La barra de herramientas de la izquierda tiene todas las herramientas que necesitas para construir y administrar tu estación. La primera herramienta es la herramienta de Info. Siempre puedes seleccionar esta herramienta pulsando la tecla Esc.	2016-07-03T20:30:59.196653	The left toolbar has all the tools you need to build and manage your station. The first tool is the Info tool. You can always select this tool with the Esc key.
 tutorial_station_basics_3_2	Selecciona la herramienta y luego haz clic con el botón izquierdo en cualquier oficial o elemento de la estación.	2016-07-03T20:30:59.196653	Select the tool and then left click on any officer or item on the station.
 tutorial_station_basics_4	La herramienta de Info muestra información sobre el objeto seleccionado. También puede ofrecer controles adicionales para cambiar aspectos de dicho objeto, como asignar recetas en una cocina.\nSi el elemento sobre el que deseas hacer clic está detrás de otro elemento, basta con hacer clic sobre el mismo punto una o más veces para recorrer todos los elementos en ese punto.	2016-07-03T20:30:59.196653	The Info tool displays information about the selected object. It can also offer additional controls for changing aspects of that object, like setting the recipe in a kitchen.\nIf the item you want to click is behind another item, just click on the same point one or more times, to cycle thru all items in that point.
@@ -516,7 +515,6 @@ tutorial_planet_basics_4	La barra de acción aparece cuando la entidad seleccion
 tutorial_planet_basics_5	Si quieres que tus oficiales lleguen a un sitio difícil, siempre puedes utilizar la herramienta de teletransporte. Fíjate cómo ésta y otras acciones anuncian un keybind en su información (T para Teletransportarse a). Haz uso de las asociaciones de teclas para emitir órdenes rápidamente.	2016-10-14T14:03:39.281009	If you want your officers to reach a difficult spot, you can always use the teleporter tool. Notice how this and other actions advertise a keybind in their tooltip (by default it's T for Teleport). Make use of keyboard bindings to quickly issue orders.
 tutorial_planet_basics_7	Todos tus oficiales están armados y preparados, en modo automático. Atacarán automáticamente a los enemigos o curarán a sus amigos mientras se encuentren en su radio de acción, sin necesidad de darles órdenes. Puedes hacer shift-click para activar o desactivar este modo en los botones de acción en la barra inferior, y entonces usar esos botones tu mismo. También puedes sub-seleccionar miembros de tu squad haciendo shift-click en sus mini botones.	2016-10-14T14:03:39.281009	NOT FOUND IN GAME
 tutorial_planet_extraction_2	Ahora haz clic en el objeto resaltado: el Extractor de Bio.	2016-10-14T14:03:39.281009	Now click on the highlighted object: the extractor.
-tutorial_station_basics_2	Desplázate alrededor de tu estación espacial pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2016-10-14T14:03:39.281009	Scroll around your space station by using the WASD keys. Zoom in and out using the mouse wheel.
 tutorial_station_production_5	La pestaña de factoría permite cambiar la receta de la cocina seleccionada. Por defecto no hay recetas seleccionadas y la cocina está apagada. Ponla a cocinar raciones de verduras haciendo clic en el botón resaltado.	2016-10-14T14:03:39.281009	The factory tab allows to add new production orders to the selected kitchen. By default its production queue has no orders and the kitchen is disabled. Let's create a new order. Click the Create order button.
 tutorial_station_production_5_3	Ahora tenemos que indicar la cantidad de veces que se preparará esta receta. Haz clic en el indicador del numero y escribe 3 cuando te lo pida.	2016-10-14T14:03:39.281009	Now we need to set the amount of times we ran to make this recipe. Click the number label and enter 3 when prompted.
 tutorial_station_production_5_4	El pedido está configurado y listo para ser creado. Haz clic en Añadir a la cola para crear la orden y añadirla a la cola de producción de la cocina.	2016-10-14T14:03:39.281009	Our order is now configured and ready to be created. Click Add to queue to create the order and add it to the kitchen production queue.
@@ -797,7 +795,6 @@ neutral_member	Neutral	2017-02-17T12:14:02.097451	Neutral
 nogi_member	Nogi	2017-02-17T12:14:02.097451	Nogi
 non_walkable	No se puede caminar encima	2017-02-17T12:14:02.097451	Cannot be walked over
 orion_soda	Orion Soda	2017-02-17T12:14:02.097451	Orion Soda
-pallet_info_help	Cualquier factoria en el area de 3x3 alrededor del palet puede obtener sus recursos directamente	2017-02-17T12:14:02.097451	Any factory in the 3x3 area centered in the pallet can directly source its ingredients from it.
 photo_frames	Marcos de foto	2017-02-17T12:14:02.097451	Photo frames
 photobooth	Fotomatón	2017-02-17T12:14:02.097451	Photobooth
 photobooth_desc	Hazte una foto y obtenla impresa en un marco, como en la prehistoria	2017-02-17T12:14:02.097451	Take a photo and get a printed frame, like in prehistory.
@@ -1103,15 +1100,6 @@ npc_lemurian_visitor01	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian v
 npc_lemurian_visitor02	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian visitor
 npc_lemurian_visitor03	Visitante Lemuriano	2017-07-21T14:14:09.235034	Lemurian visitor
 npc_lemurianbox01	Recursos Lemurianos	2017-07-21T14:14:09.235034	Lemurian cache
-npc_medus01	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
-npc_medus02	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
-npc_medus03	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
-npc_medus04	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
-npc_medus05	Visitante Medusiano	2017-07-21T14:14:09.235034	Medusian visitor
-npc_meduscolony01	Guarda Medusiano	2017-07-21T14:14:09.235034	Medusian guard
-npc_meduscolony02	Medusiano Taladrador	2017-07-21T14:14:09.235034	Medusian driller
-npc_meduscolony03	Lanzador Medusiano	2017-07-21T14:14:09.235034	Medusian rocketer
-npc_meduscolony04	Demoledor Medusiano	2017-07-21T14:14:09.235034	Medusian demolisher
 npc_memorymodule	Módulo de memoria	2017-07-21T14:14:09.235034	Memory module
 npc_mineral01	Roca	2017-07-21T14:14:09.235034	Rock
 npc_mineral02	Roca	2017-07-21T14:14:09.235034	Rock
@@ -1387,7 +1375,6 @@ room_of_tiles	Habitación de %d tiles	2017-07-21T14:14:09.235034	Room of %d tile
 select_officer_open_fleet	Abrir pantalla de la flota	2017-07-21T14:14:09.235034	Open fleet screen
 select_officer_open_ship	Abrir puente de la nave	2017-07-21T14:14:09.235034	Open ship bridge
 select_ship	Selecciona nave	2017-07-21T14:14:09.235034	Select a ship
-ship_kind_medus	Nave Medusiana	2017-07-21T14:14:09.235034	Medusian ship
 space_octopus	Pulpo espacial	2017-07-21T14:14:09.235034	Space octopus
 space_pest	Parásito	2017-07-21T14:14:09.235034	Pest critter
 space_pest_queen	Reina parásito	2017-07-21T14:14:09.235034	Pest queen
@@ -1618,7 +1605,7 @@ decor_classydivisor	Divisor estiloso	2017-11-28T22:45:08.876200	Classy divider
 decor_glassdivisor	Divisor de vidrio	2017-11-28T22:45:08.876200	Glass divider
 decor_homelydivisor	Divisor	2017-11-28T22:45:08.876200	Divider
 delivery_select_ship	Selecciona nave repartidora	2017-11-28T22:45:08.876200	Select ship for delivery
-event_invaders_warn4b	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A aproximándose a la estación. Prepárate!	2017-11-28T22:45:08.876200	We have received reports of a ~A raiding party from ~A approaching our station. Be prepared!
+event_invaders_warn4b	Hemos recibido información sobre una fuerza invasora ~A del planeta ~A aproximándose a la estación. Prepárate!	2017-11-28T22:45:08.876200	NOT FOUND IN GAME
 export_current_rate	Índice de exportación	2017-11-28T22:45:08.876200	Export price rate
 facilities_tier_1	Estación básica	2017-11-28T22:45:08.876200	Basic station
 facilities_tier_10	Items 21-25	2017-11-28T22:45:08.876200	Equipment tier 21-25
@@ -1649,11 +1636,8 @@ global_max_import_amount	Stock máximo	2017-11-28T22:45:08.876200	Max stock
 global_recipes_inv_hint	Cambia el min. stock en el inventario	2017-11-28T22:45:08.876200	Set the global min stock values in the inventory window
 goal_buildbar1_desc	Construye un disco bar, 3 mesas de disco y 2 pistas de baile.	2017-11-28T22:45:08.876200	Build a disco bar, 3 disco tables and 2 dance floors.
 goal_imports1_desc	Una o más de tus naves venden 50 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 50 units of any product to a civ planet.
-goal_imports1_title	Importar 50 unidades	2017-11-28T22:45:08.876200	Import 50 cargo units
 goal_imports2_desc	Una o más de tus naves venden 500 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 500 units of any product to a civ planet.
-goal_imports2_title	Importar 500 unidades	2017-11-28T22:45:08.876200	Import 500 cargo units
 goal_imports3_desc	Una o más de tus naves venden 5000 unidades a un planeta	2017-11-28T22:45:08.876200	Have one or more of your ships sell 5000 units of any product to a civ planet.
-goal_imports3_title	Importar 5000 unidades	2017-11-28T22:45:08.876200	Import 5000 cargo units
 hands_01	Guantes duros	2017-11-28T22:45:08.876200	Heavy Duty Gloves
 hands_02	Cyber V82	2017-11-28T22:45:08.876200	Cyber V82
 hands_03	Guantes de coraza	2017-11-28T22:45:08.876200	Shell Gloves
@@ -1718,14 +1702,11 @@ object_strength	Resistencia	2017-11-28T22:45:08.876200	Strength
 price_bom_row	Coste medio:	2017-11-28T22:45:08.876200	Avg BOM:
 price_row	Precio:	2017-11-28T22:45:08.876200	Price:
 quick_jump	Saltar:	2017-11-28T22:45:08.876200	Quick jump:
-recipe_difficulty	Dificultad:	2017-11-28T22:45:08.876200	Difficulty:
 room_aestehtics_amt	~A puntos	2017-11-28T22:45:08.876200	~A points
 room_aesthetics	Estética hab.	2017-11-28T22:45:08.876200	Room aesthetics
 room_of_aesthetics	Hab. de %d estética	2017-11-28T22:45:08.876200	Room of %d aesthetics
 ship_dock_assigned	Muelle asignado en la estación base	2017-11-28T22:45:08.876200	Dock assigned in home base
 ship_must_parked_home2	La nave debe estar aparcada en tu estación para poder ser desmantelada. Al menos una nave ha de permanecer un tu flota.	2017-11-28T22:45:08.876200	The ship must be parked in your home station to be available for dismantling. At least one ship must remain in your fleet.
-spec_disallows	Prohibe el trabajo en:	2017-11-28T22:45:08.876200	Disallows working on:
-spec_info_demands	Requiere:	2017-11-28T22:45:08.876200	Demands:
 start_delivery	@ui_icon_40px_sell.png Entregar	2017-11-28T22:45:08.876200	@ui_icon_40px_sell.png Start delivery
 stock	Stock:	2017-11-28T22:45:08.876200	Stock:
 total_row	Total:	2017-11-28T22:45:08.876200	Total:
@@ -1733,9 +1714,7 @@ tutorial_civs_basics	Reputación, importar y exportar	2017-11-28T22:45:08.876200
 tutorial_civs_basics_1	La pantalla de civs muestra las civlizaciones que has descubierto en la galaxia. Vamos a exponer que información y acciones están disponibles. Selecciona a los humanos en la columna izquierda.	2017-11-28T22:45:08.876200	The Civs screen displays all the civilizations you have discovered in the galaxy. Let's check what information and actions are available in this screen. Click the Humans entry in the left column.
 tutorial_civs_basics_2	Selecciona la tab de reputación.	2017-11-28T22:45:08.876200	Select the Reputation tab.
 tutorial_civs_basics_3	Reputación es la medida de cuanto le gustas a una civ. Con menos de 15000 puntos se van a negar a comerciar contigo. Sus visitas a tu estación no serán pacíficas. Más de 15000 y podrás comerciar con ellos y te visitarán como turistas. Puedes aumentar tu reputación con embajadas y tratando bien a los turistas. Las civs hostiles admiten tributos monetarios en su lugar. Tener una reputación alta abarata las exportaciones y valora las importaciones.	2017-11-28T22:45:08.876200	Reputation is the measure of how much a civ likes you. Less than 15000 points and they will refuse to engage in commerce with you. Their visits to your station won't be peaceful. More than 15000 and you'll be able to engage in commerce and they may come visit as tourists. You can raise your reputation with embassies and taking good care of tourists. Hositle civs accept tributes instead. A high reputation results in lower export prices and higher import prices.
-tutorial_civs_basics_4	Selecciona la tab de exportación.	2017-11-28T22:45:08.876200	Select the Exports tab.
 tutorial_civs_basics_5	Tu estación puede manufacturar docenas de productos, pero todos los recursos ingredientes se extraen de otros planetas. Y la mayoría de planetas están habitados por una civ. Cargar recursos en estos planetas te va a costar créditos, y cuanto más le gustes a la civ, menor será el precio. Estos precios son globales para toda la civ.	2017-11-28T22:45:08.876200	Your station can manufacture dozens of products, but all the raw resources are extracted from planets. And most planets are inhabited by a civ. Loading extracted resources from planets will cost you some credits, and the more a civ likes you, the lower the price. Raw resource prices are global for a given civ.
-tutorial_civs_basics_6	Selecciona la tab de imporación.	2017-11-28T22:45:08.876200	Select the Imports tab.
 tutorial_civs_basics_7a	Fabricar productos no es solo para tus necesidades! También puedes venderlos a turistas, o directamente enviarlos a planetas desde esta tab. Aquí puedes seleccionar un producto, un planeta que lo necesite, una nave aparcada en tu estación, y una cantidad de producto. Finalmente puedes empezar la entrega. La nave viajará planeta, venderá los productos y regresará automáticamente.	2017-11-28T22:45:08.876200	Manufacturing is not just for your internal needs! You can also sell your production excess to tourists in the station, or directly to their planets from the Imports tab. Here you can select a product, a planet with a demand for that product, an idle home-paked ship, and a product amount. Then you can issue a delivery order and the ship will travel to the planet, sell the product and return.
 tutorial_civs_basics_7b	Esta será la manera principal de ingresar créditos hasta que desbloquees los muelles de turista y el turismo, regresa con frecuencia a esta pantalla para vender tus excedentes. Los stocks de tiendas y expositores no se consideran stock válido para que los mantengas para tu uso interno.	2017-11-28T22:45:08.876200	This will be your main moneymaker until you unlock visitor docks and tourism, some come back here often to sell your excess production. Shop and dispenser product stacks are not considered for importing to make sure you keep some stock for your internal needs.
 tutorial_civs_title	Tutorial de civs	2017-11-28T22:45:08.876200	Civs Tutorial
@@ -1744,6 +1723,82 @@ tutorial_planet_extraction_5	¡Eso es! Ahora este extractor generará frutos que
 tutorial_station_stocks_12b	También puedes enviar y vender tus productos directamente a otros planetas. Consulta la pantalla de Civs.	2017-11-28T22:45:08.876200	You can also deliver and sell your products directly to other planets in the galaxy. Check the Imports tab in the Civs screen.
 tutorial_station_stocks_13b	Estos son los pasos básicos de construcción, producción y logística. Pero tu éxito también depende de extraer recursos y avanzar en la investigación. Sigue con los tutoriales de galaxia e investigación, visitando sus pantallas con los botones de la barra superior.	2017-11-28T22:45:08.876200	There are the basics of building, production and logistics for your station. But your success also depends on extracting resources and advancing research. Check out now the tutorials for the galaxy and the research screens by opening them using their buttons in the top left toolbar.
 value_not_number	No es un número	2017-11-28T22:45:08.876200	Value is not a number
+antagonist_desc	Esta civ es un antagonista y como tal no está interesado en ningún tipo de comercio o diplomacia contigo, para siempre.	2018-01-10T21:53:56.380635	This is an antagonist civ, and as such they are not interested in any kind of diplomacy or trade with you, ever.
+build_alert_attrition	La civ dueña de este planeta es hostil. Tus objetos sufrirán daños cuando despegues, hasta quedar destruidos. Invade este planeta para asegurarte que tus construcciones aguantan en pie.	2018-01-10T21:53:56.380635	This planet is owned by a hostile civ. Buildings will suffer attrition over time until they are destroyed. Invade this planet to make sure your constructions don't get destroyed after you leave.
+build_info_treatment_for	Tratamiento	2018-01-10T21:53:56.380635	Treatment
+cant_build_wrong_civ_allies	Solo en planetas humanos o crusantianos	2018-01-10T21:53:56.380635	Can only be built on Human or Crusantian planets
+church_of_lactus	Iglesia de Lactus	2018-01-10T21:53:56.380635	Church of Lactus
+combat_robot	Robot de combate	2018-01-10T21:53:56.380635	Combat robot
+event_invaders_retaliate_warn	%s se quieren vengar! Un comando de asalto de %s se dirige a la estación. Prepárate!	2018-01-10T21:53:56.380635	%s are retaliating against us! A raiding party from %s is approaching our station. Be prepared!
+event_invaders_warn4c	Hemos detectado un comando %s aproximándose desde %s a la estación. Prepárate!	2018-01-10T21:53:56.380635	We have received reports of a %s raiding party from %s approaching our station. Be prepared!
+event_pirates_reveal	Los piratas han aparecido por primera vez! Tu éxito les ha llamado la atención. Quizás quieren una parte. Y saben poner el 'hostil' en 'OPA hostil'.	2018-01-10T21:53:56.380635	The Pirates have revealed themselves for the first time! Your success caught their eye. They may want a share of it, and they really put the 'hostile' in 'hostile takeover'.
+event_robots_reveal	El sindicato robots ha aparecido por primera vez! Están tus condiciones laborales para robots al orden del día? Vendrán a comprobarlo seguro. Y no les va a gustar, seguro.	2018-01-10T21:53:56.380635	The Robots have revealed themselves for the first time! Are your labour standards for robots up to spec? They will come to check for sure. And they won't like it, for sure.
+filter_ship_assigned	Nave asignada	2018-01-10T21:53:56.380635	Ship assigned
+filter_ship_not_assigned	Nave no asignada	2018-01-10T21:53:56.380635	Ship not assigned
+flee_short_desc	Evitando peligro	2018-01-10T21:53:56.380635	Avoiding danger
+goal_imports1_title	Vender 50 unidades	2018-01-10T21:53:56.380635	Sell 50 cargo units to a planet
+goal_imports2_title	Vender 500 unidades	2018-01-10T21:53:56.380635	Sell 500 cargo units to a planet
+goal_imports3_title	Vender 5000 unidades	2018-01-10T21:53:56.380635	Sell 5000 cargo units to a planet
+import_invaded_planet	El planeta está invadido y no acepta ventas.	2018-01-10T21:53:56.380635	The selected planet is invaded and does not accept product sales.
+interrupted_by_noise	Interrupción por ruido	2018-01-10T21:53:56.380635	Interrupted by noise
+invasion_happens_alert	%s han invadido el planeta %s, propiedad de %s. Comercio, extracción y turismo desde este planeta han sido bloqueados.	2018-01-10T21:53:56.380635	%s have invaded the planet %s, owned by %s. Trade, extraction and tourism from this planet is now blockaded.
+invasion_happens_alert_spatials	Has invadido el planeta %s. Tu reputación con %s se decrementa en %d.	2018-01-10T21:53:56.380635	You have invaded the planet %s. Reputation with %s has decreased by %d.
+invasion_mission_can_invade	Puedes invadir este planeta si destruyes suficientes objetos enemigos. Cuando el contador a mi lado llegue a 100% el planeta estará invadido. Esto te permitirá mantener tus extractores intactos una vez despegues.	2018-01-10T21:53:56.380635	You can invade this hostile planet by destroying enough enemy objects. Check the progress counter next to me, when it reaches 100%, the planet will be invaded. This will allow us to keep our extractors intact after taking off.
+invasion_mission_can_liberate	Una civ hostil ha invadido el planeta, y están bloqueando el comercio y la extracción! Destruye sus estructuras para liberarlo. Cuando el contador llegue a 100% estará liberado.	2018-01-10T21:53:56.380635	Hostiles have taken over this planet, and they are blockading all trade and extraction! Destroy their structures to liberate it. Check the progress counter next to me, when it reaches 100%, the planet will be liberated.
+invasion_mission_can_liberate_done	Has liberado el planeta! El comercio y la extacción vuelven a ser posibles.	2018-01-10T21:53:56.380635	You have liberated the planet! Trade and extraction are possible again.
+invasion_mission_none	Este planeta es nuestro amigo. Mantengámoslo así, a no ser que tengas buenas razones...	2018-01-10T21:53:56.380635	This planet is friendly to us. Let's keep it that way, unless you have very good reasons not to...
+invasion_mission_player_invaded	El planeta está invadido. Los extractores no sufrirán daños.	2018-01-10T21:53:56.380635	This planet is now invaded. Our extractors won't suffer attrition damage.
+lactian_adjective	Lactiano %s	2018-01-10T21:53:56.380635	Lactian %s
+lactian_adjective2	Lactiano ~A	2018-01-10T21:53:56.380635	Lactian ~A
+lactian_member	Lactiano	2018-01-10T21:53:56.380635	Lactian
+lactians_name	Lactianos	2018-01-10T21:53:56.380635	Lactians
+liberation_happens_alert_spatials	Has liberado el planeta %s. La reputación con %s se ha incrementado en %d, y la reputación con %s se ha decrementado en %d.	2018-01-10T21:53:56.380635	You have liberated the planet %s. Reputation with %s has increased by %d, and reputation with %s has decreased by %d.
+noise	Ruido	2018-01-10T21:53:56.380635	Noise
+noise_feeling	Interrupción por ruido	2018-01-10T21:53:56.380635	Interrupted by noise
+noise_interruption_desc	Demasiado rudio, no puedo relajarme	2018-01-10T21:53:56.380635	Room noise is too high, I can't relax
+npc_colonylactian01	Cura lactiano	2018-01-10T21:53:56.380635	Lactian priest
+npc_colonylactian02	Sirviente lactiano	2018-01-10T21:53:56.380635	Lactian servant
+npc_colonylactian03	Soldado lactiano	2018-01-10T21:53:56.380635	Lactian soldier
+npc_colonylactian04	Tanque lactiano	2018-01-10T21:53:56.380635	Lactian tank
+npc_medus01	Visitante Meductiano	2018-01-10T21:53:56.380635	Meductian visitor
+npc_medus02	Visitante Meductiano	2018-01-10T21:53:56.380635	Meductian visitor
+npc_medus03	Visitante Meductiano	2018-01-10T21:53:56.380635	Meductian visitor
+npc_medus04	Visitante Meductiano	2018-01-10T21:53:56.380635	Meductian visitor
+npc_medus05	Visitante Meductiano	2018-01-10T21:53:56.380635	Meductian visitor
+npc_meduscolony01	Guarda Meductiano	2018-01-10T21:53:56.380635	Meductian guard
+npc_meduscolony02	Meductiano Taladrador	2018-01-10T21:53:56.380635	Meductian driller
+npc_meduscolony03	Lanzador Meductiano	2018-01-10T21:53:56.380635	Meductian rocketer
+npc_meduscolony04	Demoledor Meductiano	2018-01-10T21:53:56.380635	Meductian demolisher
+obj_lactianbanner	Bandera lactiana	2018-01-10T21:53:56.380635	Lactian banner
+obj_lactianidol01	Ídolo lactiano	2018-01-10T21:53:56.380635	Lactian idol
+obj_lactianidol02	Ídolo lactiano	2018-01-10T21:53:56.380635	Lactian idol
+pallet_info_help	Cualquier factoria en el area de 3x3 alrededor del palet puede obtener sus recursos directamente. También puede depositar sus productos, incluyendo el area donde está el operador.	2018-01-10T21:53:56.380635	Any factory in the 3x3 area centered in the pallet can directly source its ingredients from it. It can also directly deposit its products, including the 3x3 area in the front.
+planet_ships_with_order	Parada de piloto automático:	2018-01-10T21:53:56.380635	Autopilot stop for:
+plus_rep	+Rep	2018-01-10T21:53:56.380635	+Rep
+plus_rep_c	+Rep:	2018-01-10T21:53:56.380635	+Rep:
+recipe_difficulty	Dificultad:	2018-01-10T21:53:56.380635	Difficulty:
+rep_at_war	En guerra	2018-01-10T21:53:56.380635	At war
+ship_kind_medus	Nave Meductiana	2018-01-10T21:53:56.380635	Meductian ship
+ship_skill_healing_wave	Onda curadora	2018-01-10T21:53:56.380635	Healing wave
+ship_skill_insurance	Segunda vida	2018-01-10T21:53:56.380635	Death insurance
+ship_skill_jumpdrive	Jumpdrive	2018-01-10T21:53:56.380635	Jumpdrive
+ship_skill_mass_hysteria	Histeria en masa	2018-01-10T21:53:56.380635	Mass hysteria
+ship_skill_orbital_cannon	Bombardeo orbital	2018-01-10T21:53:56.380635	Orbital bombing
+ship_skill_orbital_cannon_label	Click para bombardear con el cañón orbital	2018-01-10T21:53:56.380635	Click to fire the ship orbital cannon
+ship_skill_robodrop	Robodrop	2018-01-10T21:53:56.380635	Robodrop
+ship_skill_robodrop_label	Click para teleportar un comando robot	2018-01-10T21:53:56.380635	Click to spawn a combat robot squad
+ship_skill_shield_dome	Escudo masivo	2018-01-10T21:53:56.380635	Shield dome
+ship_skill_shield_dome_label	Click para crear un gran escudo	2018-01-10T21:53:56.380635	Click to spawn a damage shield
+ship_skill_teleport	Teleportador de superfície	2018-01-10T21:53:56.380635	Surface teleport
+ship_skills_l	Habilidades: %s	2018-01-10T21:53:56.380635	Skills: %s
+spec_disallows	Prohibe el trabajo en:	2018-01-10T21:53:56.380635	Disallows working on:
+spec_info_demands	Requiere:	2018-01-10T21:53:56.380635	Demands:
+try_delivery_action	Intenta transportar %s	2018-01-10T21:53:56.380635	Try to deliver %s
+try_delivery_action_error	Ocupado, bloqueado o sin espacio	2018-01-10T21:53:56.380635	Busy, locked or no room to store
+tutorial_civs_basics_4	Selecciona la tab de compra a	2018-01-10T21:53:56.380635	Select the Buy from tab.
+tutorial_civs_basics_6	Selecciona la tab de vende a	2018-01-10T21:53:56.380635	Select the Sell to tab.
+tutorial_station_basics_1	¡Bienvenido a The Spatials: Galactology!\nEsta es tu estación. No es gran cosa en este momento.\nTu misión principal es ampliarla y defenderla para que se convierta en el hogar de los Spatials y una atracción para los visitantes.	2018-01-10T21:53:56.380635	Welcome to The Spatials: Galactology!\nThis is your station. It's not much right now.\nYour primary mission is to build it up and defend it, so it becomes the home of the Spatials and a hot spot for visitors.
+tutorial_station_basics_2	Desplázate alrededor de tu estación pulsando el botón derecho del ratón. Acércate y aléjate con la rueda del ratón.	2018-01-10T21:53:56.380635	Scroll around your station by using the WASD keys. Zoom in and out using the mouse wheel.
 Luxury_kitchen_desc	La mejor cocina del universo se prepara aquí	old	The absolute best cuisine in the universe is prepared here
 advanced_kitchen	Cocina avanzada	old	Advanced kitchen
 advanced_kitchen_desc	Prepara algunas comidas y bebidas muy buenas	old	Prepare some really great food and drinks
